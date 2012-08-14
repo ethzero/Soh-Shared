@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<database application="Hazeron Scouter" version="0.3.3.4">
+  <body name="M3 II Bright Giant" sectorname="Far Harbor" sectorcoords="309, 1, 4" systemname="KCIUR" systemcoords="-2.5, -3.8, -3.7" designation="" type="Star" diameter="1au" zone="" atmosphere="" timestamp="12/08/2012 19:44:23" outofrange="False">
+    <res name="Type M Preons">Q85 5%</res>
+  </body>
+  <body name="System KCIUR I" sectorname="Far Harbor" sectorcoords="309, 1, 4" systemname="KCIUR" systemcoords="-2.5, -3.8, -3.7" designation="" type="Planet" diameter="17000m" zone="Inferno" atmosphere="Standard" timestamp="12/08/2012 19:44:23" outofrange="False">
+    <res name="Crystals">Q63 1%, Q104 1%, Q44 1%</res>
+    <res name="Gems">Q230 1%, Q88 2%, Q158 1%</res>
+    <res name="Minerals">Q214 1%, Q154 1%, Q193 1%</res>
+    <res name="Ore">Q66 1%, Q107 1%, Q85 1%</res>
+    <res name="Phlogiston">Q178 1%, Q122 1%, None</res>
+    <res name="Radioactives">Q167 1%, Q106 1%, Q158 1%</res>
+    <res name="Stone">Q213 2%, Q109 2%, Q107 2%</res>
+    <res name="Vulcanite">Q238 1%, Q94 1%, Q199 1%</res>
+    <res name="Magmex">Q121 100%</res>
+    <res name="Air">Q117 88%</res>
+    <res name="Hydrogen">Q204 88%</res>
+    <res name="Sunlight">Q175 90%</res>
+    <res name="Animal Carcass">Q219, Q154, Q123</res>
+    <res name="Beans">Q166, Q98, Q137</res>
+    <res name="Cheese">Q109, Q138, Q170</res>
+    <res name="Eggs">Q177, Q88, Q156</res>
+    <res name="Fertilizer">Q50, Q188, Q54</res>
+    <res name="Fruit">Q66, Q20, Q54</res>
+    <res name="Grain">Q105, Q133, Q154</res>
+    <res name="Grapes">Q120, Q127, Q118</res>
+    <res name="Herbs">Q109, Q112, Q124</res>
+    <res name="Hops">Q41, Q205, Q45</res>
+    <res name="Log">Q170, Q160, Q64</res>
+    <res name="Milk">Q83, Q140, Q175</res>
+    <res name="Nuts">Q150, Q136, Q88</res>
+    <res name="Plant Fiber">Q109, Q108, Q137</res>
+    <res name="Spices">Q137, Q146, Q130</res>
+    <res name="Vegetable">Q219, Q136, Q146</res>
+    <res name="Vegetation Density">Q160, Q147, Q153</res>
+  </body>
+  <body name="System KCIUR Ia" sectorname="Far Harbor" sectorcoords="309, 1, 4" systemname="KCIUR" systemcoords="-2.5, -3.8, -3.7" designation="" type="Moon" diameter="3800m" zone="Inferno" atmosphere="No Atmosphere" timestamp="12/08/2012 19:44:23" outofrange="False">
+    <res name="Crystals">Q130 1%</res>
+    <res name="Eludium">Q200 62%</res>
+    <res name="Gems">Q145 1%</res>
+    <res name="Minerals">Q190 1%</res>
+    <res name="Ore">Q146 1%</res>
+    <res name="Radioactives">Q22 1%</res>
+    <res name="Stone">Q155 1%</res>
+    <res name="Sunlight">Q227 90%</res>
+    <res name="Animal Carcass">Q122</res>
+    <res name="Beans">Q119</res>
+    <res name="Cheese">Q148</res>
+    <res name="Eggs">Q85</res>
+    <res name="Fertilizer">Q172</res>
+    <res name="Fruit">Q107</res>
+    <res name="Grain">Q124</res>
+    <res name="Grapes">Q28</res>
+    <res name="Herbs">Q164</res>
+    <res name="Hops">Q188</res>
+    <res name="Log">Q145</res>
+    <res name="Milk">Q98</res>
+    <res name="Nuts">Q113</res>
+    <res name="Plant Fiber">Q100</res>
+    <res name="Spices">Q202</res>
+    <res name="Vegetable">Q136</res>
+    <res name="Vegetation Density">Q65</res>
+  </body>
+  <body name="System KCIUR Ib" sectorname="Far Harbor" sectorcoords="309, 1, 4" systemname="KCIUR" systemcoords="-2.5, -3.8, -3.7" designation="" type="Moon" diameter="3800m" zone="Inferno" atmosphere="No Atmosphere" timestamp="12/08/2012 19:44:23" outofrange="False">
+    <res name="Crystals">Q150 1%</res>
+    <res name="Eludium">Q109 27%</res>
+    <res name="Gems">Q251 1%</res>
+    <res name="Minerals">Q102 1%</res>
+    <res name="Ore">Q67 1%</res>
+    <res name="Radioactives">Q47 1%</res>
+    <res name="Stone">Q89 1%</res>
+    <res name="Sunlight">Q82 90%</res>
+    <res name="Animal Carcass">Q197</res>
+    <res name="Beans">Q49</res>
+    <res name="Cheese">Q136</res>
+    <res name="Eggs">Q30</res>
+    <res name="Fertilizer">Q89</res>
+    <res name="Fruit">Q136</res>
+    <res name="Grain">Q246</res>
+    <res name="Grapes">Q58</res>
+    <res name="Herbs">Q103</res>
+    <res name="Hops">Q140</res>
+    <res name="Log">Q111</res>
+    <res name="Milk">Q221</res>
+    <res name="Nuts">Q83</res>
+    <res name="Plant Fiber">Q61</res>
+    <res name="Spices">Q137</res>
+    <res name="Vegetable">Q78</res>
+    <res name="Vegetation Density">Q182</res>
+  </body>
+  <body name="System KCIUR Ic" sectorname="Far Harbor" sectorcoords="309, 1, 4" systemname="KCIUR" systemcoords="-2.5, -3.8, -3.7" designation="" type="Moon" diameter="3800m" zone="Inferno" atmosphere="No Atmosphere" timestamp="12/08/2012 19:44:23" outofrange="False">
+    <res name="Crystals">Q42 1%</res>
+    <res name="Eludium">Q144 50%</res>
+    <res name="Gems">Q100 1%</res>
+    <res name="Minerals">Q142 1%</res>
+    <res name="Ore">Q244 1%</res>
+    <res name="Radioactives">Q72 1%</res>
+    <res name="Stone">Q151 1%</res>
+    <res name="Sunlight">Q64 90%</res>
+    <res name="Animal Carcass">Q144</res>
+    <res name="Beans">Q108</res>
+    <res name="Cheese">Q123</res>
+    <res name="Eggs">Q232</res>
+    <res name="Fertilizer">Q134</res>
+    <res name="Fruit">Q37</res>
+    <res name="Grain">Q240</res>
+    <res name="Grapes">Q89</res>
+    <res name="Herbs">Q170</res>
+    <res name="Hops">Q90</res>
+    <res name="Log">Q77</res>
+    <res name="Milk">Q89</res>
+    <res name="Nuts">Q180</res>
+    <res name="Plant Fiber">Q149</res>
+    <res name="Spices">Q202</res>
+    <res name="Vegetable">Q148</res>
+    <res name="Vegetation Density">Q42</res>
+  </body>
+  <body name="System KCIUR II" sectorname="Far Harbor" sectorcoords="309, 1, 4" systemname="KCIUR" systemcoords="-2.5, -3.8, -3.7" designation="" type="Planet" diameter="15200m" zone="Inferno" atmosphere="Exotic" timestamp="12/08/2012 19:44:23" outofrange="False">
+    <res name="Crystals">Q36 2%, Q63 1%, Q200 1%</res>
+    <res name="Gems">Q119 2%, Q118 1%, Q142 1%</res>
+    <res name="Minerals">Q84 1%, Q224 1%, Q76 1%</res>
+    <res name="Ore">Q223 1%, Q106 1%, Q92 1%</res>
+    <res name="Phlogiston">None, None, Q66 1%</res>
+    <res name="Radioactives">Q189 1%, Q139 1%, Q225 1%</res>
+    <res name="Stone">Q138 2%, Q95 2%, Q88 2%</res>
+    <res name="Vulcanite">Q232 1%, Q143 1%, None</res>
+    <res name="Magmex">Q162 47%</res>
+    <res name="Air">Q97 21%</res>
+    <res name="Hydrogen">Q192 21%</res>
+    <res name="Sunlight">Q88 90%</res>
+    <res name="Animal Carcass">Q80, Q132, Q219</res>
+    <res name="Beans">Q75, Q96, Q113</res>
+    <res name="Cheese">Q175, Q226, Q115</res>
+    <res name="Eggs">Q158, Q211, Q73</res>
+    <res name="Fertilizer">Q147, Q112, Q104</res>
+    <res name="Fruit">Q85, Q110, Q174</res>
+    <res name="Grain">Q73, Q104, Q92</res>
+    <res name="Grapes">Q145, Q127, Q69</res>
+    <res name="Herbs">Q187, Q68, Q228</res>
+    <res name="Hops">Q179, Q152, Q111</res>
+    <res name="Log">Q126, Q223, Q189</res>
+    <res name="Milk">Q59, Q179, Q135</res>
+    <res name="Nuts">Q125, Q60, Q151</res>
+    <res name="Plant Fiber">Q165, Q88, Q63</res>
+    <res name="Spices">Q72, Q56, Q224</res>
+    <res name="Vegetable">Q58, Q102, Q148</res>
+    <res name="Vegetation Density">Q231, Q54, Q181</res>
+  </body>
+  <body name="System KCIUR IIa" sectorname="Far Harbor" sectorcoords="309, 1, 4" systemname="KCIUR" systemcoords="-2.5, -3.8, -3.7" designation="" type="Moon" diameter="1900m" zone="Inferno" atmosphere="No Atmosphere" timestamp="12/08/2012 19:44:23" outofrange="False">
+    <res name="Crystals">Q123 1%</res>
+    <res name="Eludium">Q31 44%</res>
+    <res name="Gems">Q141 1%</res>
+    <res name="Minerals">Q175 1%</res>
+    <res name="Ore">Q54 1%</res>
+    <res name="Radioactives">Q42 1%</res>
+    <res name="Stone">Q143 1%</res>
+    <res name="Sunlight">Q122 90%</res>
+    <res name="Animal Carcass">Q187</res>
+    <res name="Beans">Q86</res>
+    <res name="Cheese">Q72</res>
+    <res name="Eggs">Q140</res>
+    <res name="Fertilizer">Q185</res>
+    <res name="Fruit">Q154</res>
+    <res name="Grain">Q86</res>
+    <res name="Grapes">Q84</res>
+    <res name="Herbs">Q53</res>
+    <res name="Hops">Q150</res>
+    <res name="Log">Q66</res>
+    <res name="Milk">Q197</res>
+    <res name="Nuts">Q186</res>
+    <res name="Plant Fiber">Q117</res>
+    <res name="Spices">Q72</res>
+    <res name="Vegetable">Q173</res>
+    <res name="Vegetation Density">Q126</res>
+  </body>
+  <body name="System KCIUR IIb" sectorname="Far Harbor" sectorcoords="309, 1, 4" systemname="KCIUR" systemcoords="-2.5, -3.8, -3.7" designation="" type="Moon" diameter="3800m" zone="Inferno" atmosphere="No Atmosphere" timestamp="12/08/2012 19:44:23" outofrange="False">
+    <res name="Crystals">Q15 1%</res>
+    <res name="Eludium">Q67 58%</res>
+    <res name="Gems">Q119 1%</res>
+    <res name="Minerals">Q87 1%</res>
+    <res name="Ore">Q103 1%</res>
+    <res name="Radioactives">Q195 1%</res>
+    <res name="Stone">Q76 1%</res>
+    <res name="Sunlight">Q105 90%</res>
+    <res name="Animal Carcass">Q133</res>
+    <res name="Beans">Q144</res>
+    <res name="Cheese">Q187</res>
+    <res name="Eggs">Q85</res>
+    <res name="Fertilizer">Q230</res>
+    <res name="Fruit">Q183</res>
+    <res name="Grain">Q80</res>
+    <res name="Grapes">Q115</res>
+    <res name="Herbs">Q121</res>
+    <res name="Hops">Q229</res>
+    <res name="Log">Q160</res>
+    <res name="Milk">Q64</res>
+    <res name="Nuts">Q155</res>
+    <res name="Plant Fiber">Q205</res>
+    <res name="Spices">Q137</res>
+    <res name="Vegetable">Q115</res>
+    <res name="Vegetation Density">Q115</res>
+  </body>
+  <body name="System KCIUR III" sectorname="Far Harbor" sectorcoords="309, 1, 4" systemname="KCIUR" systemcoords="-2.5, -3.8, -3.7" designation="" type="Planet" diameter="20800m" zone="Inferno" atmosphere="Standard" timestamp="12/08/2012 19:44:23" outofrange="True" />
+  <body name="System KCIUR IIIa" sectorname="Far Harbor" sectorcoords="309, 1, 4" systemname="KCIUR" systemcoords="-2.5, -3.8, -3.7" designation="" type="Moon" diameter="3800m" zone="Inferno" atmosphere="" timestamp="12/08/2012 19:44:23" outofrange="True" />
+  <body name="System KCIUR IIIb" sectorname="Far Harbor" sectorcoords="309, 1, 4" systemname="KCIUR" systemcoords="-2.5, -3.8, -3.7" designation="" type="Moon" diameter="3800m" zone="Inferno" atmosphere="" timestamp="12/08/2012 19:44:23" outofrange="True" />
+  <body name="System KCIUR IV" sectorname="Far Harbor" sectorcoords="309, 1, 4" systemname="KCIUR" systemcoords="-2.5, -3.8, -3.7" designation="" type="Planet" diameter="5700m" zone="Inferno" atmosphere="Corrosive" timestamp="12/08/2012 19:44:23" outofrange="False">
+    <res name="Crystals">Q103 1%, Q190 1%, Q106 2%</res>
+    <res name="Gems">Q211 1%, Q100 1%, Q151 1%</res>
+    <res name="Minerals">Q162 2%, Q131 2%, Q44 1%</res>
+    <res name="Ore">Q103 1%, Q81 1%, Q139 1%</res>
+    <res name="Radioactives">Q124 1%, Q120 1%, Q134 1%</res>
+    <res name="Stone">Q81 2%, Q232 2%, Q150 2%</res>
+    <res name="Magmex">Q163 31%</res>
+    <res name="Air">Q135 27%</res>
+    <res name="Hydrogen">Q97 27%</res>
+    <res name="Ioplasma">Q160 1%</res>
+    <res name="Sunlight">Q140 90%</res>
+    <res name="Animal Carcass">Q240, Q120, Q85</res>
+    <res name="Beans">Q155, Q226, Q152</res>
+    <res name="Cheese">Q84, Q224, Q123</res>
+    <res name="Eggs">Q194, Q86, Q200</res>
+    <res name="Fertilizer">Q140, Q157, Q99</res>
+    <res name="Fruit">Q125, Q133, Q127</res>
+    <res name="Grain">Q93, Q199, Q155</res>
+    <res name="Grapes">Q53, Q101, Q124</res>
+    <res name="Herbs">Q243, Q43, Q140</res>
+    <res name="Hops">Q71, Q107, Q148</res>
+    <res name="Log">Q101, Q134, Q139</res>
+    <res name="Milk">Q74, Q104, Q107</res>
+    <res name="Nuts">Q216, Q132, Q216</res>
+    <res name="Plant Fiber">Q156, Q126, Q107</res>
+    <res name="Spices">Q137, Q110, Q65</res>
+    <res name="Vegetable">Q231, Q96, Q44</res>
+    <res name="Vegetation Density">Q137, Q33, Q164</res>
+  </body>
+  <body name="System KCIUR IVa" sectorname="Far Harbor" sectorcoords="309, 1, 4" systemname="KCIUR" systemcoords="-2.5, -3.8, -3.7" designation="" type="Moon" diameter="1900m" zone="Inferno" atmosphere="No Atmosphere" timestamp="12/08/2012 19:44:23" outofrange="False">
+    <res name="Crystals">Q83 1%</res>
+    <res name="Eludium">Q87 57%</res>
+    <res name="Gems">Q185 1%</res>
+    <res name="Minerals">Q94 1%</res>
+    <res name="Ore">Q85 1%</res>
+    <res name="Radioactives">Q120 1%</res>
+    <res name="Stone">Q147 1%</res>
+    <res name="Sunlight">Q157 90%</res>
+    <res name="Animal Carcass">Q165</res>
+    <res name="Beans">Q225</res>
+    <res name="Cheese">Q97</res>
+    <res name="Eggs">Q122</res>
+    <res name="Fertilizer">Q96</res>
+    <res name="Fruit">Q224</res>
+    <res name="Grain">Q99</res>
+    <res name="Grapes">Q150</res>
+    <res name="Herbs">Q175</res>
+    <res name="Hops">Q120</res>
+    <res name="Log">Q136</res>
+    <res name="Milk">Q206</res>
+    <res name="Nuts">Q118</res>
+    <res name="Plant Fiber">Q69</res>
+    <res name="Spices">Q201</res>
+    <res name="Vegetable">Q161</res>
+    <res name="Vegetation Density">Q148</res>
+  </body>
+  <body name="System KCIUR V" sectorname="Far Harbor" sectorcoords="309, 1, 4" systemname="KCIUR" systemcoords="-2.5, -3.8, -3.7" designation="" type="Planet" diameter="9500m" zone="Inferno" atmosphere="Exotic" timestamp="12/08/2012 19:44:23" outofrange="False">
+    <res name="Crystals">Q109 1%, Q59 1%, Q175 1%</res>
+    <res name="Gems">Q140 2%, Q66 1%, Q42 1%</res>
+    <res name="Minerals">Q191 1%, Q200 1%, Q106 2%</res>
+    <res name="Ore">Q120 1%, Q159 1%, Q105 1%</res>
+    <res name="Phlogiston">None, Q59 1%, Q95 1%</res>
+    <res name="Radioactives">Q122 1%, Q80 1%, Q207 1%</res>
+    <res name="Stone">Q94 2%, Q120 2%, Q146 2%</res>
+    <res name="Vulcanite">Q115 1%, Q158 1%, Q205 1%</res>
+    <res name="Magmex">Q36 46%</res>
+    <res name="Air">Q210 86%</res>
+    <res name="Hydrogen">Q163 86%</res>
+    <res name="Ioplasma">Q157 2%</res>
+    <res name="Sunlight">Q117 90%</res>
+    <res name="Animal Carcass">Q175, Q94, Q200</res>
+    <res name="Beans">Q188, Q100, Q104</res>
+    <res name="Cheese">Q161, Q223, Q137</res>
+    <res name="Eggs">Q140, Q93, Q70</res>
+    <res name="Fertilizer">Q127, Q121, Q217</res>
+    <res name="Fruit">Q206, Q180, Q163</res>
+    <res name="Grain">Q131, Q132, Q151</res>
+    <res name="Grapes">Q125, Q178, Q234</res>
+    <res name="Herbs">Q98, Q121, Q220</res>
+    <res name="Hops">Q109, Q146, Q94</res>
+    <res name="Log">Q180, Q210, Q169</res>
+    <res name="Milk">Q103, Q82, Q181</res>
+    <res name="Nuts">Q145, Q146, Q215</res>
+    <res name="Plant Fiber">Q12, Q73, Q69</res>
+    <res name="Spices">Q138, Q91, Q131</res>
+    <res name="Vegetable">Q66, Q86, Q93</res>
+    <res name="Vegetation Density">Q204, Q119, Q131</res>
+  </body>
+  <body name="System KCIUR VI" sectorname="Far Harbor" sectorcoords="309, 1, 4" systemname="KCIUR" systemcoords="-2.5, -3.8, -3.7" designation="" type="Planet" diameter="13300m" zone="Inner" atmosphere="Standard" timestamp="12/08/2012 19:44:23" outofrange="True" />
+  <body name="System KCIUR VII" sectorname="Far Harbor" sectorcoords="309, 1, 4" systemname="KCIUR" systemcoords="-2.5, -3.8, -3.7" designation="" type="Planet" diameter="3800m" zone="Habitable" atmosphere="Standard" timestamp="12/08/2012 19:44:23" outofrange="True" />
+  <body name="System KCIUR VIIa" sectorname="Far Harbor" sectorcoords="309, 1, 4" systemname="KCIUR" systemcoords="-2.5, -3.8, -3.7" designation="" type="Moon" diameter="3800m" zone="Habitable" atmosphere="" timestamp="12/08/2012 19:44:23" outofrange="True" />
+  <body name="System KCIUR VIII" sectorname="Far Harbor" sectorcoords="309, 1, 4" systemname="KCIUR" systemcoords="-2.5, -3.8, -3.7" designation="" type="Planet" diameter="11400m" zone="Outer" atmosphere="Tainted" timestamp="12/08/2012 19:44:23" outofrange="False">
+    <res name="Coal">Q167 1%, Q96 1%, Q205 1%</res>
+    <res name="Crystals">Q167 1%, Q60 2%, Q49 1%</res>
+    <res name="Gems">Q211 1%, Q128 1%, Q132 1%</res>
+    <res name="Ice">Q126 6%, Q93 3%, Q194 24%</res>
+    <res name="Lumenite">Q206 1%, None, Q68 1%</res>
+    <res name="Minerals">Q161 1%, Q19 1%, Q88 1%</res>
+    <res name="Natural Gas">Q37 1%, Q104 1%, Q60 1%</res>
+    <res name="Oil">Q123 1%, Q214 1%, Q93 1%</res>
+    <res name="Ore">Q51 1%, Q62 1%, Q168 1%</res>
+    <res name="Radioactives">Q133 1%, Q172 1%, Q119 1%</res>
+    <res name="Stone">Q73 2%, Q73 2%, Q183 1%</res>
+    <res name="Water in the Environment">Q88 48%</res>
+    <res name="Air">Q170 58%</res>
+    <res name="Hydrogen">Q139 58%</res>
+    <res name="Sunlight">Q198 30%</res>
+    <res name="Animal Carcass">Q73, Q193, Q175</res>
+    <res name="Beans">Q34, Q81, Q139</res>
+    <res name="Cheese">Q61, Q68, Q213</res>
+    <res name="Eggs">Q84, Q200, Q61</res>
+    <res name="Fertilizer">Q194, Q82, Q76</res>
+    <res name="Fish">Q136, Q152, Q108</res>
+    <res name="Fruit">Q97, Q86, Q118</res>
+    <res name="Grain">Q126, Q34, Q54</res>
+    <res name="Grapes">Q139, Q93, Q117</res>
+    <res name="Herbs">Q136, Q234, Q68</res>
+    <res name="Hops">Q121, Q112, Q128</res>
+    <res name="Log">Q108, Q157, Q122</res>
+    <res name="Milk">Q45, Q26, Q95</res>
+    <res name="Nuts">Q27, Q224, Q25</res>
+    <res name="Plant Fiber">Q113, Q141, Q188</res>
+    <res name="Spices">Q146, Q99, Q244</res>
+    <res name="Vegetable">Q191, Q84, Q123</res>
+    <res name="Vegetation Density">Q93, Q146, Q181</res>
+  </body>
+</database>

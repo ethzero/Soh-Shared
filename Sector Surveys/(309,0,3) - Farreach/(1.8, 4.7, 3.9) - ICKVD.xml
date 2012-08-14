@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<database application="Hazeron Scouter" version="0.3.3.4">
+  <body name="O5 Ia Bright Supergiant" sectorname="Farreach" sectorcoords="309, 0, 3" systemname="ICKVD" systemcoords="1.8, 4.7, 3.9" designation="" type="Star" diameter="0.125au" zone="" atmosphere="" timestamp="12/08/2012 20:42:34" outofrange="False">
+    <res name="Type O Preons">Q187 5%</res>
+  </body>
+  <body name="System ICKVD I" sectorname="Farreach" sectorcoords="309, 0, 3" systemname="ICKVD" systemcoords="1.8, 4.7, 3.9" designation="" type="Planet" diameter="11400m" zone="Inferno" atmosphere="Tainted" timestamp="12/08/2012 20:42:34" outofrange="False">
+    <res name="Crystals">Q233 1%, Q151 2%, Q215 1%</res>
+    <res name="Gems">Q154 1%, Q88 2%, Q224 1%</res>
+    <res name="Minerals">Q59 1%, Q228 1%, Q209 1%</res>
+    <res name="Ore">Q211 1%, Q194 1%, Q73 1%</res>
+    <res name="Phlogiston">Q87 1%, Q113 1%, Q114 1%</res>
+    <res name="Radioactives">Q190 1%, Q151 2%, Q123 1%</res>
+    <res name="Stone">Q174 2%, Q117 2%, Q98 2%</res>
+    <res name="Vulcanite">Q46 1%, Q152 1%, Q88 1%</res>
+    <res name="Magmex">Q134 62%</res>
+    <res name="Air">Q161 54%</res>
+    <res name="Hydrogen">Q135 54%</res>
+    <res name="Sunlight">Q12 90%</res>
+    <res name="Animal Carcass">Q110, Q45, Q189</res>
+    <res name="Beans">Q97, Q87, Q97</res>
+    <res name="Cheese">Q85, Q156, Q173</res>
+    <res name="Eggs">Q113, Q35, Q86</res>
+    <res name="Fertilizer">Q155, Q76, Q189</res>
+    <res name="Fruit">Q121, Q134, Q127</res>
+    <res name="Grain">Q148, Q201, Q147</res>
+    <res name="Grapes">Q153, Q86, Q93</res>
+    <res name="Herbs">Q78, Q179, Q251</res>
+    <res name="Hops">Q97, Q225, Q98</res>
+    <res name="Log">Q238, Q168, Q131</res>
+    <res name="Milk">Q190, Q91, Q130</res>
+    <res name="Nuts">Q174, Q111, Q154</res>
+    <res name="Plant Fiber">Q198, Q169, Q128</res>
+    <res name="Spices">Q174, Q100, Q132</res>
+    <res name="Vegetable">Q53, Q225, Q105</res>
+    <res name="Vegetation Density">Q63, Q43, Q106</res>
+  </body>
+  <body name="System ICKVD Ia" sectorname="Farreach" sectorcoords="309, 0, 3" systemname="ICKVD" systemcoords="1.8, 4.7, 3.9" designation="" type="Moon" diameter="3800m" zone="Inferno" atmosphere="No Atmosphere" timestamp="12/08/2012 20:42:34" outofrange="False">
+    <res name="Crystals">Q213 1%</res>
+    <res name="Eludium">Q111 56%</res>
+    <res name="Gems">Q108 1%</res>
+    <res name="Minerals">Q106 1%</res>
+    <res name="Ore">Q188 1%</res>
+    <res name="Radioactives">Q35 1%</res>
+    <res name="Stone">Q112 1%</res>
+    <res name="Sunlight">Q157 90%</res>
+    <res name="Animal Carcass">Q35</res>
+    <res name="Beans">Q167</res>
+    <res name="Cheese">Q97</res>
+    <res name="Eggs">Q168</res>
+    <res name="Fertilizer">Q111</res>
+    <res name="Fruit">Q92</res>
+    <res name="Grain">Q155</res>
+    <res name="Grapes">Q122</res>
+    <res name="Herbs">Q138</res>
+    <res name="Hops">Q146</res>
+    <res name="Log">Q145</res>
+    <res name="Milk">Q66</res>
+    <res name="Nuts">Q78</res>
+    <res name="Plant Fiber">Q109</res>
+    <res name="Spices">Q111</res>
+    <res name="Vegetable">Q238</res>
+    <res name="Vegetation Density">Q202</res>
+  </body>
+  <body name="System ICKVD II" sectorname="Farreach" sectorcoords="309, 0, 3" systemname="ICKVD" systemcoords="1.8, 4.7, 3.9" designation="" type="Gas Giant" diameter="56800m" zone="Inferno" atmosphere="Corrosive" timestamp="12/08/2012 20:42:34" outofrange="False">
+    <res name="Air">Q143 93%</res>
+    <res name="Borexino Precipitate">Q135 14%</res>
+    <res name="Hydrogen">Q242 93%</res>
+    <res name="Ioplasma">Q168 3%</res>
+    <res name="Sunlight">Q175 90%</res>
+  </body>
+  <body name="System ICKVD IIa" sectorname="Farreach" sectorcoords="309, 0, 3" systemname="ICKVD" systemcoords="1.8, 4.7, 3.9" designation="" type="Moon" diameter="3800m" zone="Inferno" atmosphere="No Atmosphere" timestamp="12/08/2012 20:42:34" outofrange="False">
+    <res name="Crystals">Q25 1%</res>
+    <res name="Eludium">Q131 18%</res>
+    <res name="Gems">Q174 1%</res>
+    <res name="Minerals">Q114 1%</res>
+    <res name="Ore">Q170 1%</res>
+    <res name="Radioactives">Q89 1%</res>
+    <res name="Stone">Q54 1%</res>
+    <res name="Sunlight">Q81 90%</res>
+    <res name="Animal Carcass">Q67</res>
+    <res name="Beans">Q119</res>
+    <res name="Cheese">Q136</res>
+    <res name="Eggs">Q204</res>
+    <res name="Fertilizer">Q104</res>
+    <res name="Fruit">Q132</res>
+    <res name="Grain">Q173</res>
+    <res name="Grapes">Q30</res>
+    <res name="Herbs">Q194</res>
+    <res name="Hops">Q165</res>
+    <res name="Log">Q119</res>
+    <res name="Milk">Q81</res>
+    <res name="Nuts">Q169</res>
+    <res name="Plant Fiber">Q102</res>
+    <res name="Spices">Q47</res>
+    <res name="Vegetable">Q156</res>
+    <res name="Vegetation Density">Q108</res>
+  </body>
+  <body name="System ICKVD IIb" sectorname="Farreach" sectorcoords="309, 0, 3" systemname="ICKVD" systemcoords="1.8, 4.7, 3.9" designation="" type="Large Moon" diameter="9500m" zone="Inferno" atmosphere="Standard" timestamp="12/08/2012 20:42:34" outofrange="False">
+    <res name="Crystals">Q173 2%, Q150 1%, Q121 1%</res>
+    <res name="Gems">Q119 1%, Q71 2%, Q233 1%</res>
+    <res name="Minerals">Q137 2%, Q134 1%, Q176 1%</res>
+    <res name="Ore">Q92 2%, Q169 1%, Q120 1%</res>
+    <res name="Radioactives">Q126 1%, Q132 1%, Q159 1%</res>
+    <res name="Stone">Q117 2%, Q125 2%, Q160 2%</res>
+    <res name="Magmex">Q135 95%</res>
+    <res name="Air">Q71 43%</res>
+    <res name="Hydrogen">Q168 43%</res>
+    <res name="Sunlight">Q64 90%</res>
+    <res name="Animal Carcass">Q142, Q161, Q54</res>
+    <res name="Beans">Q178, Q89, Q137</res>
+    <res name="Cheese">Q123, Q155, Q179</res>
+    <res name="Eggs">Q149, Q167, Q85</res>
+    <res name="Fertilizer">Q21, Q121, Q56</res>
+    <res name="Fruit">Q162, Q158, Q81</res>
+    <res name="Grain">Q167, Q40, Q82</res>
+    <res name="Grapes">Q60, Q60, Q147</res>
+    <res name="Herbs">Q133, Q154, Q162</res>
+    <res name="Hops">Q245, Q180, Q135</res>
+    <res name="Log">Q85, Q77, Q82</res>
+    <res name="Milk">Q76, Q144, Q103</res>
+    <res name="Nuts">Q139, Q183, Q218</res>
+    <res name="Plant Fiber">Q62, Q79, Q173</res>
+    <res name="Spices">Q111, Q27, Q101</res>
+    <res name="Vegetable">Q226, Q92, Q129</res>
+    <res name="Vegetation Density">Q97, Q151, Q90</res>
+  </body>
+  <body name="System ICKVD III" sectorname="Farreach" sectorcoords="309, 0, 3" systemname="ICKVD" systemcoords="1.8, 4.7, 3.9" designation="" type="Planet" diameter="18900m" zone="Inferno" atmosphere="Exotic" timestamp="12/08/2012 20:42:34" outofrange="False">
+    <res name="Crystals">Q119 1%, Q198 1%, Q49 1%</res>
+    <res name="Gems">Q152 1%, Q130 1%, Q74 1%</res>
+    <res name="Minerals">Q132 1%, Q147 1%, Q200 1%</res>
+    <res name="Ore">Q149 1%, Q168 1%, Q135 1%</res>
+    <res name="Phlogiston">Q110 1%, Q63 1%, Q163 1%</res>
+    <res name="Radioactives">Q170 1%, Q197 1%, Q165 2%</res>
+    <res name="Stone">Q96 2%, Q98 2%, Q124 2%</res>
+    <res name="Vulcanite">Q164 1%, Q169 1%, Q107 1%</res>
+    <res name="Magmex">Q217 67%</res>
+    <res name="Air">Q158 63%</res>
+    <res name="Hydrogen">Q144 63%</res>
+    <res name="Ioplasma">Q44 1%</res>
+    <res name="Sunlight">Q145 90%</res>
+    <res name="Animal Carcass">Q121, Q117, Q119</res>
+    <res name="Beans">Q123, Q84, Q218</res>
+    <res name="Cheese">Q124, Q74, Q71</res>
+    <res name="Eggs">Q113, Q156, Q46</res>
+    <res name="Fertilizer">Q213, Q225, Q158</res>
+    <res name="Fruit">Q69, Q79, Q193</res>
+    <res name="Grain">Q103, Q108, Q216</res>
+    <res name="Grapes">Q111, Q188, Q176</res>
+    <res name="Herbs">Q161, Q195, Q115</res>
+    <res name="Hops">Q137, Q74, Q140</res>
+    <res name="Log">Q125, Q77, Q203</res>
+    <res name="Milk">Q156, Q223, Q151</res>
+    <res name="Nuts">Q88, Q159, Q218</res>
+    <res name="Plant Fiber">Q46, Q167, Q151</res>
+    <res name="Spices">Q109, Q229, Q162</res>
+    <res name="Vegetable">Q160, Q152, Q134</res>
+    <res name="Vegetation Density">Q113, Q93, Q144</res>
+  </body>
+  <body name="System ICKVD IIIa" sectorname="Farreach" sectorcoords="309, 0, 3" systemname="ICKVD" systemcoords="1.8, 4.7, 3.9" designation="" type="Moon" diameter="3800m" zone="Inferno" atmosphere="No Atmosphere" timestamp="12/08/2012 20:42:34" outofrange="False">
+    <res name="Crystals">Q206 1%</res>
+    <res name="Eludium">Q197 57%</res>
+    <res name="Gems">Q104 1%</res>
+    <res name="Minerals">Q90 1%</res>
+    <res name="Ore">Q98 1%</res>
+    <res name="Radioactives">Q183 1%</res>
+    <res name="Stone">Q228 1%</res>
+    <res name="Sunlight">Q52 90%</res>
+    <res name="Animal Carcass">Q99</res>
+    <res name="Beans">Q134</res>
+    <res name="Cheese">Q150</res>
+    <res name="Eggs">Q94</res>
+    <res name="Fertilizer">Q252</res>
+    <res name="Fruit">Q139</res>
+    <res name="Grain">Q116</res>
+    <res name="Grapes">Q178</res>
+    <res name="Herbs">Q155</res>
+    <res name="Hops">Q108</res>
+    <res name="Log">Q66</res>
+    <res name="Milk">Q165</res>
+    <res name="Nuts">Q149</res>
+    <res name="Plant Fiber">Q127</res>
+    <res name="Spices">Q109</res>
+    <res name="Vegetable">Q147</res>
+    <res name="Vegetation Density">Q135</res>
+  </body>
+  <body name="System ICKVD IIIb" sectorname="Farreach" sectorcoords="309, 0, 3" systemname="ICKVD" systemcoords="1.8, 4.7, 3.9" designation="" type="Moon" diameter="1900m" zone="Inferno" atmosphere="No Atmosphere" timestamp="12/08/2012 20:42:34" outofrange="False">
+    <res name="Crystals">Q99 1%</res>
+    <res name="Eludium">Q105 50%</res>
+    <res name="Gems">Q82 1%</res>
+    <res name="Minerals">Q130 1%</res>
+    <res name="Ore">Q146 1%</res>
+    <res name="Radioactives">Q208 1%</res>
+    <res name="Stone">Q34 1%</res>
+    <res name="Sunlight">Q162 90%</res>
+    <res name="Animal Carcass">Q46</res>
+    <res name="Beans">Q64</res>
+    <res name="Cheese">Q137</res>
+    <res name="Eggs">Q39</res>
+    <res name="Fertilizer">Q168</res>
+    <res name="Fruit">Q168</res>
+    <res name="Grain">Q110</res>
+    <res name="Grapes">Q81</res>
+    <res name="Herbs">Q95</res>
+    <res name="Hops">Q59</res>
+    <res name="Log">Q159</res>
+    <res name="Milk">Q161</res>
+    <res name="Nuts">Q246</res>
+    <res name="Plant Fiber">Q87</res>
+    <res name="Spices">Q173</res>
+    <res name="Vegetable">Q90</res>
+    <res name="Vegetation Density">Q124</res>
+  </body>
+  <body name="System ICKVD IV" sectorname="Farreach" sectorcoords="309, 0, 3" systemname="ICKVD" systemcoords="1.8, 4.7, 3.9" designation="" type="Planet" diameter="15200m" zone="Inferno" atmosphere="Standard" timestamp="12/08/2012 20:42:34" outofrange="False">
+    <res name="Crystals">Q146 1%, Q110 1%, Q148 1%</res>
+    <res name="Gems">Q136 1%, Q100 1%, Q90 1%</res>
+    <res name="Minerals">Q135 2%, Q76 1%, Q188 1%</res>
+    <res name="Ore">Q121 1%, Q168 1%, Q127 1%</res>
+    <res name="Phlogiston">Q168 1%, Q80 1%, Q36 1%</res>
+    <res name="Radioactives">Q148 1%, Q164 1%, Q98 1%</res>
+    <res name="Stone">Q170 2%, Q112 2%, Q141 2%</res>
+    <res name="Vulcanite">Q171 1%, Q120 1%, Q21 1%</res>
+    <res name="Magmex">Q176 79%</res>
+    <res name="Air">Q179 66%</res>
+    <res name="Hydrogen">Q155 66%</res>
+    <res name="Sunlight">Q105 90%</res>
+    <res name="Animal Carcass">Q131, Q139, Q151</res>
+    <res name="Beans">Q86, Q86, Q113</res>
+    <res name="Cheese">Q60, Q114, Q126</res>
+    <res name="Eggs">Q130, Q33, Q130</res>
+    <res name="Fertilizer">Q117, Q45, Q107</res>
+    <res name="Fruit">Q180, Q118, Q73</res>
+    <res name="Grain">Q7, Q137, Q148</res>
+    <res name="Grapes">Q86, Q60, Q98</res>
+    <res name="Herbs">Q211, Q111, Q11</res>
+    <res name="Hops">Q127, Q127, Q73</res>
+    <res name="Log">Q169, Q141, Q207</res>
+    <res name="Milk">Q52, Q184, Q191</res>
+    <res name="Nuts">Q113, Q107, Q154</res>
+    <res name="Plant Fiber">Q118, Q58, Q98</res>
+    <res name="Spices">Q174, Q64, Q196</res>
+    <res name="Vegetable">Q65, Q186, Q131</res>
+    <res name="Vegetation Density">Q169, Q57, Q117</res>
+  </body>
+  <body name="System ICKVD IVa" sectorname="Farreach" sectorcoords="309, 0, 3" systemname="ICKVD" systemcoords="1.8, 4.7, 3.9" designation="" type="Moon" diameter="3800m" zone="Inferno" atmosphere="No Atmosphere" timestamp="12/08/2012 20:42:34" outofrange="False">
+    <res name="Crystals">Q126 1%</res>
+    <res name="Eludium">Q54 38%</res>
+    <res name="Gems">Q192 1%</res>
+    <res name="Minerals">Q186 1%</res>
+    <res name="Ore">Q158 1%</res>
+    <res name="Radioactives">Q85 1%</res>
+    <res name="Stone">Q109 1%</res>
+    <res name="Sunlight">Q122 90%</res>
+    <res name="Animal Carcass">Q57</res>
+    <res name="Beans">Q28</res>
+    <res name="Cheese">Q72</res>
+    <res name="Eggs">Q186</res>
+    <res name="Fertilizer">Q72</res>
+    <res name="Fruit">Q22</res>
+    <res name="Grain">Q141</res>
+    <res name="Grapes">Q55</res>
+    <res name="Herbs">Q144</res>
+    <res name="Hops">Q177</res>
+    <res name="Log">Q75</res>
+    <res name="Milk">Q185</res>
+    <res name="Nuts">Q144</res>
+    <res name="Plant Fiber">Q158</res>
+    <res name="Spices">Q110</res>
+    <res name="Vegetable">Q123</res>
+    <res name="Vegetation Density">Q180</res>
+  </body>
+  <body name="System ICKVD V" sectorname="Farreach" sectorcoords="309, 0, 3" systemname="ICKVD" systemcoords="1.8, 4.7, 3.9" designation="" type="Planet" diameter="20800m" zone="Inner" atmosphere="Tainted" timestamp="12/08/2012 20:42:34" outofrange="True" />
+  <body name="System ICKVD Va" sectorname="Farreach" sectorcoords="309, 0, 3" systemname="ICKVD" systemcoords="1.8, 4.7, 3.9" designation="" type="Moon" diameter="3800m" zone="Inner" atmosphere="" timestamp="12/08/2012 20:42:34" outofrange="True" />
+  <body name="System ICKVD VI" sectorname="Farreach" sectorcoords="309, 0, 3" systemname="ICKVD" systemcoords="1.8, 4.7, 3.9" designation="" type="Planet" diameter="11400m" zone="Habitable" atmosphere="Standard" timestamp="12/08/2012 20:42:34" outofrange="True" />
+  <body name="System ICKVD VIa" sectorname="Farreach" sectorcoords="309, 0, 3" systemname="ICKVD" systemcoords="1.8, 4.7, 3.9" designation="" type="Moon" diameter="3800m" zone="Habitable" atmosphere="" timestamp="12/08/2012 20:42:34" outofrange="True" />
+  <body name="System ICKVD VII" sectorname="Farreach" sectorcoords="309, 0, 3" systemname="ICKVD" systemcoords="1.8, 4.7, 3.9" designation="" type="Gas Giant" diameter="64400m" zone="Outer" atmosphere="Corrosive" timestamp="12/08/2012 20:42:34" outofrange="True" />
+  <body name="System ICKVD VIIa" sectorname="Farreach" sectorcoords="309, 0, 3" systemname="ICKVD" systemcoords="1.8, 4.7, 3.9" designation="" type="Moon" diameter="3800m" zone="Outer" atmosphere="" timestamp="12/08/2012 20:42:34" outofrange="True" />
+  <body name="System ICKVD VIIb" sectorname="Farreach" sectorcoords="309, 0, 3" systemname="ICKVD" systemcoords="1.8, 4.7, 3.9" designation="" type="Large Moon" diameter="15200m" zone="Outer" atmosphere="Corrosive" timestamp="12/08/2012 20:42:34" outofrange="True" />
+</database>

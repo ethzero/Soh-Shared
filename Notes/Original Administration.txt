@@ -1,0 +1,103 @@
+OA=Original Administration
+TL=Tech lvl
+QL= Quality lvl
+Pr= Priority, based on ease of set-up
+Ur= Urgent. DO NOW, WHAT THE FUCK? WHAT ARENT YOU DONE YET?
+
+To do list - Original Admininistration
+
+
+[]
+Dark Abyss -
+	Cromwell minor(renamed 'The Hydro')
+		Max hydrogen production - Max Tech Disk production(for now)
+		Remove component/smelting/misc refining
+	Pump Station
+		N/A
+	Shimmering Oasis
+		N/A
+		
+		
+MOON PROJECT - FOR MOONS WITH NO RESOURCE GATHERING - TRY TO HAVE JOBS SIMILIAR TO HOST PLANET
+
+[ ]
+OA IIIa
+Storage/Broker
+
+[ ]
+OA IIIb
+Storage/Broker
+
+[ ]
+OA IVa
+
+[ ]
+OA IVb	
+	
+[ ]	
+OA Va
+Alchohol
+
+[ ]
+OA Vb
+N/A
+
+[ ]
+OA VIa
+Smelt Metal
+
+[ ]
+OA VIb
+Make Petrol
+
+[ ]
+OA VIIa
+
+[ ]
+OA VIIb	
+	
+
+RESOURCEES
+	
+[ ]
+OA I - Section 2
+Mine Gems(TL 30)
+	
+[]
+OA VII - Section 2 -
+Mine ICE
+	Convert Ice to Air(better than straight air by a few tech levels)
+		Convert hydrogen and air into water(will produce TL30 water instead of TL29 water)
+			Convert Water into Air(will produce TL 30 air for TL30 ships)(create system by airport, so that the TL30 is immediately absorbed into the ship
+																			Dont turn system on unless ready to build)
+[ ]
+OA VIIa
+Mine Luminite (TL 26)			
+	
+
+[ ]	
+OA VIII - Section 3 -
+Mine Coal     (TL 29)
+Mine Minerals (TL 31) 
+
+[ ] Pr
+OA IXa -
+Mine Crystals (TL 31)
+
+[ ] Pr
+OA II - Section 2
+Mine Magmex
+Mine Stone
+
+[ ]
+RINGS
+Mine Eludium(shitty TL otherwise)
+Both rings produce TL27
+	Mine from Nova Respite to Nova Respite(time saved, better of the qaulities)
+	
+MANUFACTURING
+	
+IX - Section 1 - Also, other minerals on planet good for limited production(until higher TL levels require better materials)
+Use for Material Production(Full Production, no base components)
+	
+	

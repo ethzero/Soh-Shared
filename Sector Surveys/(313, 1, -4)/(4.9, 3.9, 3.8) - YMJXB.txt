@@ -1,0 +1,355 @@
+19/11/2011 20:51:57
+
+Wormholes
+YOJXB
+ONJXB
+TIFB
+Jerusalem
+
+
+
+SN Ixor
+On the ground on System YMJXB Alpha IV at 55.08°E 32.61°S.
+Novus Fontis TNWCEO, TL17harvest class Subsidized Streamlined Starship, TL17, 12,766m³, 38350 hp
+System YMJXB Alpha IV, Planet 15,200m dia, F5 III Giant Alpha, Habitable zone
+System YMJXB (4.9, 3.9, 3.8)
+Joe Halo Sector (313, 1, -4)
+
+System Survey of System YMJXB
+
+F5 III Giant Alpha
+Primary
+  Type F White
+  Spectral Class 5
+  Size III Giant
+  Habitable Zone at 1.75au
+Photosphere
+  0.115au Diameter
+  Type F Preons Q153 5%
+
+K8 V Main Sequence Beta
+Orbiting F5 III Giant Alpha at 0.25au 83°
+  Type K Orange
+  Spectral Class 8
+  Size V Main Sequence
+  Habitable Zone at 0.25au
+Photosphere
+  0.095au Diameter
+  Type K Preons Q159 5%
+
+System YMJXB Alpha I
+Orbiting F5 III Giant Alpha at 0.75au 341°
+  Inferno Zone
+Geosphere
+  Gas Giant, 49200m Diameter
+Hydrosphere
+  No Surface Lava
+Atmosphere
+  Corrosive, 93% Density
+  Air Q161 93%
+  Borexino Precipitate Q18 4%
+  Hydrogen Q115 93%
+  Ioplasma Q246 3%
+  Sunlight Q109 90%
+
+System YMJXB Alpha Ia
+Orbiting System YMJXB Alpha I at 49,767m 298°
+  Inferno Zone
+Geosphere
+  Large Moon, 11400m Diameter
+  Crystals Q43 2%, Q112 1%, Q234 1%
+  Gems Q149 1%, Q187 1%, Q75 1%
+  Minerals Q186 1%, Q167 1%, Q158 1%
+  Ore Q169 1%, Q132 1%, Q40 1%
+  Phlogiston Q187 1%, Q207 1%, Q148 1%
+  Radioactives Q162 1%, Q204 1%, Q54 2%
+  Stone Q125 2%, Q129 2%, Q104 2%
+  Vulcanite Q203 1%, None, Q37 1%
+Hydrosphere
+  23% Surface Lava
+  Magmex Q72 23%
+Atmosphere
+  Corrosive, 43% Density
+  Air Q217 43%
+  Hydrogen Q40 43%
+  Ioplasma Q118 1%
+  Sunlight Q128 90%
+Biosphere Potential
+  Animal Carcass Q137, Q107, Q58
+  Beans Q158, Q94, Q148
+  Cheese Q150, Q108, Q147
+  Eggs Q135, Q206, Q113
+  Fertilizer Q109, Q91, Q171
+  Fruit Q170, Q67, Q103
+  Grain Q50, Q204, Q129
+  Grapes Q207, Q37, Q51
+  Herbs Q90, Q87, Q131
+  Hops Q217, Q230, Q141
+  Log Q160, Q51, Q173
+  Milk Q84, Q185, Q154
+  Nuts Q56, Q149, Q231
+  Plant Fiber Q173, Q67, Q103
+  Spices Q45, Q139, Q164
+  Vegetable Q220, Q93, Q139
+  Vegetation Density Q45, Q180, Q99
+
+System YMJXB Alpha II
+Orbiting F5 III Giant Alpha at 1au 233°
+  Inferno Zone
+Geosphere
+  Planet, 7600m Diameter
+  Crystals Q70 1%, Q152 1%, Q78 1%
+  Gems Q133 1%, Q158 2%, Q90 2%
+  Minerals Q188 1%, Q224 1%, Q146 1%
+  Ore Q139 1%, Q132 1%, Q161 1%
+  Phlogiston Q117 1%, Q96 1%, Q151 1%
+  Radioactives Q139 1%, Q171 1%, Q115 2%
+  Stone Q72 2%, Q141 2%, Q121 2%
+  Vulcanite None, Q90 1%, Q79 1%
+Hydrosphere
+  11% Surface Lava
+  Magmex Q31 11%
+Atmosphere
+  Exotic, 44% Density
+  Air Q109 44%
+  Hydrogen Q52 44%
+  Ioplasma Q116 1%
+  Sunlight Q215 90%
+Biosphere Potential
+  Animal Carcass Q146, Q1, Q90
+  Beans Q120, Q224, Q172
+  Cheese Q86, Q149, Q73
+  Eggs Q154, Q84, Q69
+  Fertilizer Q141, Q167, Q121
+  Fruit Q24, Q233, Q110
+  Grain Q82, Q105, Q62
+  Grapes Q181, Q164, Q101
+  Herbs Q141, Q130, Q155
+  Hops Q79, Q156, Q202
+  Log Q76, Q243, Q177
+  Milk Q108, Q146, Q194
+  Nuts Q210, Q97, Q167
+  Plant Fiber Q117, Q87, Q177
+  Spices Q110, Q101, Q71
+  Vegetable Q125, Q127, Q137
+  Vegetation Density Q102, Q145, Q199
+
+System YMJXB Alpha III
+Orbiting F5 III Giant Alpha at 1.5au 198°
+  Inner Zone
+Geosphere
+  Planet, 13300m Diameter
+  Coal Q96 1%, Q80 1%, Q32 1%
+  Crystals Q76 1%, Q74 1%, Q86 1%
+  Gems Q154 1%, Q186 2%, Q159 1%
+  Ice Q165 5%, Q127 11%, Q121 10%
+  Minerals Q151 2%, Q116 1%, Q160 1%
+  Natural Gas Q158 1%, Q149 1%, Q193 1%
+  Oil Q171 1%, Q161 1%, Q29 1%
+  Ore Q154 1%, Q131 1%, Q165 1%
+  Radioactives Q80 1%, Q127 1%, Q177 2%
+  Stone Q212 2%, Q78 2%, Q118 2%
+Hydrosphere
+  59% Surface Water
+  Water in the Environment Q238 59%
+Atmosphere
+  Standard, 58% Density
+  Air Q182 58%
+  Hydrogen Q127 58%
+  Sunlight Q69 70%
+Biosphere
+  Animal Carcass Q133, Q184, Q47
+  Beans Q109, Q111, Q141
+  Cheese Q58, Q186, Q210
+  Eggs Q47, Q148, Q191
+  Fertilizer Q89, Q67, Q134
+  Fish Q139, Q104, Q120
+  Fruit Q75, Q165, Q208
+  Grain Q79, Q152, Q136
+  Grapes Q154, Q140, Q59
+  Herbs Q46, Q178, Q30
+  Hops Q208, Q113, Q138
+  Log Q165, Q164, Q40
+  Milk Q59, Q122, Q162
+  Nuts Q93, Q87, Q74
+  Plant Fiber Q181, Q48, Q196
+  Spices Q93, Q145, Q82
+  Vegetable Q186, Q167, Q48
+  Vegetation Density Q90, Q83, Q198
+
+System YMJXB Alpha IV
+Orbiting F5 III Giant Alpha at 1.75au 342°
+  Habitable Zone
+Geosphere
+  Planet, 15200m Diameter
+
+R1
+  Oil Q102 1%, Q53 1%, Q50 1%
+
+R2
+  Stone Q134 1%, Q250 1%, Q138 2%
+  Coal Q119 1%, Q214 1%, Q130 1%
+  Gems Q160 1%, Q187 1%, Q67 1%
+  Crystals Q78 1%, Q163 1%, Q99 1%
+  Ice Q114 20%, Q127 14%, Q81 5%
+  Radioactives Q124 1%, Q185 1%, Q98 1%
+R3
+  Minerals Q140 1%, Q73 1%, Q77 1%
+  Natural Gas Q150 1%, Q31 1%, Q118 1%
+  Ore Q196 1%, Q205 1%, Q174 1%
+
+Hydrosphere
+  80% Surface Water
+  Water in the Environment Q109 80%
+Atmosphere
+  Standard, 77% Density
+  Air Q106 77%
+  Hydrogen Q189 77%
+  Sunlight Q92 50%
+Biosphere
+  Animal Carcass Q223, Q159, Q124
+  Beans Q35, Q153, Q46
+  Cheese Q84, Q148, Q160
+  Eggs Q105, Q119, Q154
+  Fertilizer Q123, Q213, Q125
+  Fish Q54, Q47, Q147
+  Fruit Q143, Q204, Q192
+  Grain Q224, Q136, Q137
+  Grapes Q67, Q222, Q94
+  Herbs Q173, Q117, Q158
+  Hops Q110, Q86, Q180
+  Log Q90, Q114, Q118
+  Milk Q73, Q150, Q157
+  Nuts Q158, Q71, Q153
+  Plant Fiber Q100, Q239, Q124
+  Spices Q139, Q128, Q206
+  Vegetable Q199, Q57, Q110
+  Vegetation Density Q151, Q34, Q168
+
+System YMJXB Alpha V
+Orbiting F5 III Giant Alpha at 3au 342°
+  Frigid Zone
+Geosphere
+  Planet, 20800m Diameter
+  Bolite Q148 1%, Q116 1%, Q74 1%
+  Coal Q93 1%, Q112 1%, Q145 1%
+  Crystals Q151 1%, Q168 1%, Q142 1%
+  Gems Q95 1%, Q26 1%, Q106 1%
+  Ice Q143 15%, Q80 11%, Q133 32%
+  Lumenite Q150 1%, None, Q109 1%
+  Minerals Q196 1%, Q188 1%, Q52 1%
+  Natural Gas Q74 1%, Q153 1%, Q93 1%
+  Oil Q123 1%, Q187 1%, Q113 1%
+  Ore Q161 1%, Q162 1%, Q82 1%
+  Polytaride Q205 1%, Q8 1%, None
+  Radioactives Q213 1%, Q31 1%, Q107 1%
+  Stone Q192 1%, Q54 2%, Q165 1%
+Hydrosphere
+  93% Surface Liquid
+  Myrathane Q157 93%
+Atmosphere
+  Exotic, 73% Density
+  Air Q144 73%
+  Cryozine Q122 1%
+  Hydrogen Q222 73%
+  Sunlight Q145 10%
+Biosphere Potential
+  Animal Carcass Q62, Q75, Q145
+  Beans Q98, Q113, Q197
+  Cheese Q163, Q58, Q221
+  Eggs Q191, Q141, Q112
+  Fertilizer Q65, Q69, Q250
+  Fruit Q140, Q215, Q71
+  Grain Q57, Q88, Q141
+  Grapes Q176, Q156, Q106
+  Herbs Q152, Q177, Q156
+  Hops Q139, Q191, Q84
+  Log Q67, Q106, Q75
+  Milk Q88, Q198, Q93
+  Nuts Q88, Q188, Q187
+  Plant Fiber Q85, Q121, Q62
+  Spices Q110, Q193, Q101
+  Vegetable Q150, Q79, Q178
+  Vegetation Density Q185, Q107, Q167
+
+System YMJXB Alpha Va
+Orbiting System YMJXB Alpha V at 48,517m 334°
+  Frigid Zone
+Geosphere
+  Moon, 3800m Diameter
+  Coal Q55 1%
+  Crystals Q130 1%
+  Eludium Q108 50%
+  Gems Q165 1%
+  Ice Q193 1%
+  Lumenite Q170 1%
+  Minerals Q104 1%
+  Natural Gas Q191 1%
+  Oil Q41 1%
+  Ore Q215 1%
+  Radioactives Q158 1%
+  Stone Q129 1%
+Hydrosphere
+  No Surface Liquid
+Atmosphere
+  No Atmosphere
+  Sunlight Q163 10%
+Biosphere Potential
+  Animal Carcass Q115
+  Beans Q168
+  Cheese Q177
+  Eggs Q118
+  Fertilizer Q147
+  Fruit Q112
+  Grain Q63
+  Grapes Q145
+  Herbs Q213
+  Hops Q188
+  Log Q101
+  Milk Q94
+  Nuts Q118
+  Plant Fiber Q126
+  Spices Q46
+  Vegetable Q208
+  Vegetation Density Q68
+
+System YMJXB Alpha Vb
+Orbiting System YMJXB Alpha V at 61,471m 300°
+  Frigid Zone
+Geosphere
+  Moon, 3800m Diameter
+  Coal Q99 1%
+  Crystals Q111 1%
+  Eludium Q201 26%
+  Gems Q188 1%
+  Ice Q165 1%
+  Lumenite Q208 1%
+  Minerals Q95 1%
+  Natural Gas Q147 1%
+  Oil Q29 1%
+  Ore Q185 1%
+  Radioactives Q200 1%
+  Stone Q195 1%
+Hydrosphere
+  No Surface Liquid
+Atmosphere
+  No Atmosphere
+  Sunlight Q52 10%
+Biosphere Potential
+  Animal Carcass Q41
+  Beans Q110
+  Cheese Q61
+  Eggs Q45
+  Fertilizer Q103
+  Fruit Q210
+  Grain Q69
+  Grapes Q114
+  Herbs Q146
+  Hops Q108
+  Log Q136
+  Milk Q99
+  Nuts Q21
+  Plant Fiber Q38
+  Spices Q110
+  Vegetable Q138
+  Vegetation Density Q207

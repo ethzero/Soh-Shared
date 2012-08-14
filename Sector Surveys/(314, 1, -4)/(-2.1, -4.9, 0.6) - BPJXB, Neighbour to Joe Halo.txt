@@ -1,0 +1,245 @@
+27/11/2011 09:50:11
+
+SN Iyinec
+Orbiting System BPJXB Alpha I at 142.76°E 5.69°N.
+Novus Fontis ethzero's ship, Harvester Mk3 class Subsidized Streamlined Starship, TL9, 11,222m³, 71510 hp
+System BPJXB Alpha I, Gas Giant 41,700m dia, F7 Ia Bright Supergiant Alpha, Inferno zone
+System BPJXB (-2.1, -4.9, 0.6)
+Sector (314, 1, -4)
+
+System Survey of System BPJXB
+
+F7 Ia Bright Supergiant Alpha
+Primary
+  Type F White
+  Spectral Class 7
+  Size Ia Bright Supergiant
+  Habitable Zone at 3au
+Data Limited - Out of Range
+Photosphere
+  0.75au Diameter
+
+K2 Ia Bright Supergiant Beta
+Orbiting F7 Ia Bright Supergiant Alpha at 4au 162°
+  Type K Orange
+  Spectral Class 2
+  Size Ia Bright Supergiant
+  Habitable Zone at 3.25au
+Data Limited - Out of Range
+Photosphere
+  1.5au Diameter
+
+System BPJXB Alpha I
+Orbiting F7 Ia Bright Supergiant Alpha at 1.75au 54°
+  Inferno Zone
+Geosphere
+  Gas Giant, 41700m Diameter
+Hydrosphere
+  No Surface Lava
+Atmosphere
+  Insidious, 94% Density
+  Air Q181 94%
+  Borexino Precipitate Q42 4%
+  Hydrogen Q89 94%
+  Ioplasma Q79 5%
+  Sunlight Q202 90%
+
+System BPJXB Alpha Ia
+Orbiting System BPJXB Alpha I at 33,025m 87°
+  Inferno Zone
+Geosphere
+  Moon, 3800m Diameter
+  Crystals Q113 1%
+  Eludium Q118 53%
+  Gems Q85 1%
+  Minerals Q107 1%
+  Ore Q215 1%
+  Radioactives Q64 1%
+  Stone Q148 1%
+Hydrosphere
+  No Surface Lava
+Atmosphere
+  No Atmosphere
+  Sunlight Q127 90%
+Biosphere Potential
+  Animal Carcass Q126
+  Beans Q109
+  Cheese Q78
+  Eggs Q74
+  Fertilizer Q220
+  Fruit Q153
+  Grain Q81
+  Grapes Q118
+  Herbs Q159
+  Hops Q166
+  Log Q169
+  Milk Q69
+  Nuts Q101
+  Plant Fiber Q187
+  Spices Q162
+  Vegetable Q173
+  Vegetation Density Q220
+
+System BPJXB Alpha Ib
+Orbiting System BPJXB Alpha I at 71,887m 161°
+  Inferno Zone
+Geosphere
+  Moon, 3800m Diameter
+  Crystals Q153 1%
+  Eludium Q61 60%
+  Gems Q169 1%
+  Minerals Q187 1%
+  Ore Q183 1%
+  Radioactives Q114 1%
+  Stone Q143 1%
+Hydrosphere
+  No Surface Lava
+Atmosphere
+  No Atmosphere
+  Sunlight Q220 90%
+Biosphere Potential
+  Animal Carcass Q147
+  Beans Q99
+  Cheese Q53
+  Eggs Q93
+  Fertilizer Q182
+  Fruit Q83
+  Grain Q67
+  Grapes Q180
+  Herbs Q165
+  Hops Q68
+  Log Q100
+  Milk Q187
+  Nuts Q40
+  Plant Fiber Q107
+  Spices Q162
+  Vegetable Q57
+  Vegetation Density Q197
+
+System BPJXB Alpha Ic
+Orbiting System BPJXB Alpha I at 84,842m 125°
+  Inferno Zone
+Geosphere
+  Moon, 3800m Diameter
+  Crystals Q133 1%
+  Eludium Q154 46%
+  Gems Q191 1%
+  Minerals Q147 1%
+  Ore Q135 1%
+  Radioactives Q89 1%
+  Stone Q82 1%
+Hydrosphere
+  No Surface Lava
+Atmosphere
+  No Atmosphere
+  Sunlight Q109 90%
+Biosphere Potential
+  Animal Carcass Q201
+  Beans Q168
+  Cheese Q65
+  Eggs Q147
+  Fertilizer Q136
+  Fruit Q183
+  Grain Q74
+  Grapes Q149
+  Herbs Q97
+  Hops Q117
+  Log Q135
+  Milk Q64
+  Nuts Q71
+  Plant Fiber Q147
+  Spices Q227
+  Vegetable Q115
+  Vegetation Density Q81
+
+
+System BPJXB Alpha II
+Orbiting F7 Ia Bright Supergiant Alpha at 2au 270°
+  Inferno Zone
+Geosphere
+  Gas Giant, 56800m Diameter
+Hydrosphere
+  No Surface Lava
+Atmosphere
+  Corrosive, 95% Density
+  Air Q143 95%
+  Borexino Precipitate Q78 8%
+  Hydrogen Q56 95%
+  Ioplasma Q81 3%
+  Sunlight Q150 90%
+
+System BPJXB Alpha IIa
+Orbiting System BPJXB Alpha II at 53,555m 87°
+  Inferno Zone
+Geosphere
+  Large Moon, 9500m Diameter
+  Crystals Q86 1%, Q34 1%, Q155 1%
+  Eludium Q169 14%, Q159 96%, Q55 22%
+  Gems Q103 1%, Q36 1%, Q64 1%
+  Minerals Q52 1%, Q125 1%, Q172 1%
+  Ore Q202 1%, Q13 1%, Q109 1%
+  Radioactives Q59 1%, Q165 1%, Q167 1%
+  Stone Q73 1%, Q142 1%, Q80 1%
+  Vulcanite Q120 1%, Q131 1%, Q53 1%
+Hydrosphere
+  15% Surface Lava
+  Magmex Q195 15%
+Atmosphere
+  Exotic, 11% Density
+  Air Q198 11%
+  Hydrogen Q238 11%
+  Sunlight Q167 90%
+Biosphere Potential
+  Animal Carcass Q115, Q203, Q196
+  Beans Q146, Q145, Q182
+  Cheese Q143, Q86, Q201
+  Eggs Q55, Q151, Q103
+  Fertilizer Q60, Q138, Q37
+  Fruit Q171, Q115, Q109
+  Grain Q177, Q185, Q136
+  Grapes Q144, Q179, Q211
+  Herbs Q109, Q53, Q31
+  Hops Q177, Q136, Q113
+  Log Q125, Q155, Q159
+  Milk Q172, Q149, Q122
+  Nuts Q76, Q112, Q102
+  Plant Fiber Q115, Q127, Q114
+  Spices Q97, Q146, Q123
+  Vegetable Q140, Q144, Q68
+  Vegetation Density Q36, Q236, Q28
+
+System BPJXB Alpha IIb
+Orbiting System BPJXB Alpha II at 79,463m 232°
+  Inferno Zone
+Geosphere
+  Moon, 3800m Diameter
+  Crystals Q66 1%
+  Eludium Q5 48%
+  Gems Q125 1%
+  Minerals Q140 1%
+  Ore Q25 1%
+  Radioactives Q162 1%
+  Stone Q140 1%
+Hydrosphere
+  No Surface Lava
+Atmosphere
+  No Atmosphere
+  Sunlight Q57 90%
+Biosphere Potential
+  Animal Carcass Q169
+  Beans Q215
+  Cheese Q156
+  Eggs Q110
+  Fertilizer Q143
+  Fruit Q142
+  Grain Q183
+  Grapes Q113
+  Herbs Q170
+  Hops Q98
+  Log Q159
+  Milk Q177
+  Nuts Q106
+  Plant Fiber Q155
+  Spices Q34
+  Vegetable Q70
+  Vegetation Density Q175

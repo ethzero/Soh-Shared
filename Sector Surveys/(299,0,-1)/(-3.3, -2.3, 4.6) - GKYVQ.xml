@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<database application="Hazeron Scouter" version="0.3.3.4">
+  <body name="M3 V Main Sequence Alpha" sectorname="" sectorcoords="299, 0, -1" systemname="GKYVQ" systemcoords="-3.3, -2.3, 4.6" designation="Alpha" type="Star" diameter="0.095au" zone="" atmosphere="" timestamp="" outofrange="False">
+    <res name="Type M Preons">Q174 5%</res>
+  </body>
+  <body name="F0 V Main Sequence Beta" sectorname="" sectorcoords="299, 0, -1" systemname="GKYVQ" systemcoords="-3.3, -2.3, 4.6" designation="Alpha" type="Star" diameter="0.115au" zone="" atmosphere="" timestamp="" outofrange="False">
+    <res name="Type F Preons">Q169 5%</res>
+  </body>
+  <body name="System GKYVQ Beta I" sectorname="" sectorcoords="299, 0, -1" systemname="GKYVQ" systemcoords="-3.3, -2.3, 4.6" designation="Beta" type="Planet" diameter="13300m" zone="Inferno" atmosphere="Tainted" timestamp="" outofrange="False">
+    <res name="Crystals">Q18 2%, Q124 1%, Q124 1%</res>
+    <res name="Gems">Q133 1%, Q73 1%, Q108 1%</res>
+    <res name="Minerals">Q84 1%, Q119 1%, Q107 1%</res>
+    <res name="Ore">Q124 2%, Q128 2%, Q222 1%</res>
+    <res name="Phlogiston">None, Q96 1%, Q147 1%</res>
+    <res name="Radioactives">Q115 1%, Q129 2%, Q93 1%</res>
+    <res name="Stone">Q121 2%, Q120 2%, Q134 2%</res>
+    <res name="Vulcanite">None, Q17 1%, None</res>
+    <res name="Magmex">Q136 84%</res>
+    <res name="Air">Q74 74%</res>
+    <res name="Hydrogen">Q46 74%</res>
+    <res name="Sunlight">Q133 90%</res>
+    <res name="Animal Carcass">Q137, Q145, Q95</res>
+    <res name="Beans">Q116, Q159, Q68</res>
+    <res name="Cheese">Q40, Q162, Q43</res>
+    <res name="Eggs">Q59, Q144, Q181</res>
+    <res name="Fertilizer">Q133, Q114, Q148</res>
+    <res name="Fruit">Q100, Q72, Q154</res>
+    <res name="Grain">Q40, Q234, Q144</res>
+    <res name="Grapes">Q75, Q53, Q212</res>
+    <res name="Herbs">Q220, Q61, Q105</res>
+    <res name="Hops">Q189, Q189, Q206</res>
+    <res name="Log">Q40, Q139, Q58</res>
+    <res name="Milk">Q197, Q216, Q224</res>
+    <res name="Nuts">Q153, Q171, Q156</res>
+    <res name="Plant Fiber">Q48, Q86, Q126</res>
+    <res name="Spices">Q222, Q137, Q73</res>
+    <res name="Vegetable">Q19, Q92, Q76</res>
+    <res name="Vegetation Density">Q141, Q136, Q175</res>
+  </body>
+  <body name="System GKYVQ Alpha I" sectorname="" sectorcoords="299, 0, -1" systemname="GKYVQ" systemcoords="-3.3, -2.3, 4.6" designation="Alpha" type="Planet" diameter="11400m" zone="Habitable" atmosphere="Tainted" timestamp="" outofrange="False">
+    <res name="Coal">Q162 1%, Q184 1%, Q68 1%</res>
+    <res name="Crystals">Q152 1%, Q112 1%, Q142 1%</res>
+    <res name="Gems">Q211 1%, Q49 1%, Q113 2%</res>
+    <res name="Ice">Q176 3%, Q81 2%, Q123 10%</res>
+    <res name="Minerals">Q157 1%, Q180 1%, Q76 1%</res>
+    <res name="Natural Gas">Q83 1%, Q244 1%, Q76 1%</res>
+    <res name="Oil">Q74 1%, Q167 1%, Q56 1%</res>
+    <res name="Ore">Q125 1%, Q176 1%, Q184 1%</res>
+    <res name="Radioactives">Q108 1%, Q162 1%, Q109 1%</res>
+    <res name="Stone">Q81 2%, Q190 2%, Q189 2%</res>
+    <res name="Water in the Environment">Q100 49%</res>
+    <res name="Air">Q182 32%</res>
+    <res name="Hydrogen">Q34 32%</res>
+    <res name="Sunlight">Q174 50%</res>
+    <res name="Animal Carcass">Q71, Q114, Q142</res>
+    <res name="Beans">Q121, Q203, Q106</res>
+    <res name="Cheese">Q247, Q94, Q194</res>
+    <res name="Eggs">Q135, Q196, Q212</res>
+    <res name="Fertilizer">Q26, Q33, Q220</res>
+    <res name="Fish">Q148, Q207, Q121</res>
+    <res name="Fruit">Q135, Q139, Q167</res>
+    <res name="Grain">Q171, Q40, Q119</res>
+    <res name="Grapes">Q93, Q102, Q101</res>
+    <res name="Herbs">Q29, Q114, Q32</res>
+    <res name="Hops">Q106, Q160, Q47</res>
+    <res name="Log">Q206, Q134, Q130</res>
+    <res name="Milk">Q49, Q111, Q118</res>
+    <res name="Nuts">Q126, Q103, Q57</res>
+    <res name="Plant Fiber">Q118, Q168, Q189</res>
+    <res name="Spices">Q140, Q162, Q156</res>
+    <res name="Vegetable">Q101, Q11, Q70</res>
+    <res name="Vegetation Density">Q84, Q107, Q24</res>
+  </body>
+  <body name="System GKYVQ Alpha Iar (1)" sectorname="" sectorcoords="299, 0, -1" systemname="GKYVQ" systemcoords="-3.3, -2.3, 4.6" designation="Alpha" type="Ring" diameter="56700m" zone="Habitable" atmosphere="" timestamp="" outofrange="False">
+    <res name="Crystals">Q100 1%</res>
+    <res name="Eludium">Q119 27%</res>
+    <res name="Gems">Q45 1%</res>
+    <res name="Ice">Q120 1%</res>
+    <res name="Lumenite">Q134 1%</res>
+    <res name="Minerals">Q199 1%</res>
+    <res name="Ore">Q96 1%</res>
+    <res name="Radioactives">Q91 1%</res>
+    <res name="Stone">Q240 1%</res>
+    <res name="Antiflux Particles">Q28 2%</res>
+    <res name="Sunlight">Q64 50%</res>
+  </body>
+  <body name="System GKYVQ Alpha II" sectorname="" sectorcoords="299, 0, -1" systemname="GKYVQ" systemcoords="-3.3, -2.3, 4.6" designation="Alpha" type="Planet" diameter="17000m" zone="Frigid" atmosphere="Tainted" timestamp="" outofrange="False">
+    <res name="Bolite">None, Q189 1%, None</res>
+    <res name="Coal">Q29 1%, Q157 1%, Q123 1%</res>
+    <res name="Crystals">Q79 1%, Q146 1%, Q128 1%</res>
+    <res name="Gems">Q41 1%, Q64 1%, Q211 1%</res>
+    <res name="Ice">Q194 11%, Q154 15%, Q177 22%</res>
+    <res name="Lumenite">Q83 1%, Q94 1%, Q134 1%</res>
+    <res name="Minerals">Q136 1%, Q223 1%, Q117 1%</res>
+    <res name="Natural Gas">Q176 1%, Q169 1%, Q128 1%</res>
+    <res name="Oil">Q49 1%, Q193 1%, Q199 1%</res>
+    <res name="Ore">Q51 1%, Q161 1%, Q107 1%</res>
+    <res name="Polytaride">None, Q198 1%, Q214 1%</res>
+    <res name="Radioactives">Q35 1%, Q112 1%, Q47 1%</res>
+    <res name="Stone">Q178 2%, Q91 1%, Q163 1%</res>
+    <res name="Myrathane">Q217 83%</res>
+    <res name="Air">Q164 93%</res>
+    <res name="Cryozine">Q37 1%</res>
+    <res name="Hydrogen">Q141 93%</res>
+    <res name="Sunlight">Q209 10%</res>
+    <res name="Animal Carcass">Q105, Q163, Q114</res>
+    <res name="Beans">Q164, Q79, Q105</res>
+    <res name="Cheese">Q130, Q164, Q199</res>
+    <res name="Eggs">Q149, Q16, Q95</res>
+    <res name="Fertilizer">Q140, Q125, Q90</res>
+    <res name="Fruit">Q187, Q106, Q107</res>
+    <res name="Grain">Q149, Q227, Q100</res>
+    <res name="Grapes">Q167, Q82, Q37</res>
+    <res name="Herbs">Q165, Q97, Q54</res>
+    <res name="Hops">Q42, Q100, Q153</res>
+    <res name="Log">Q193, Q68, Q90</res>
+    <res name="Milk">Q183, Q106, Q109</res>
+    <res name="Nuts">Q61, Q157, Q123</res>
+    <res name="Plant Fiber">Q55, Q86, Q52</res>
+    <res name="Spices">Q157, Q163, Q29</res>
+    <res name="Vegetable">Q102, Q12, Q129</res>
+    <res name="Vegetation Density">Q107, Q139, Q92</res>
+  </body>
+  <body name="System GKYVQ Alpha IIa" sectorname="" sectorcoords="299, 0, -1" systemname="GKYVQ" systemcoords="-3.3, -2.3, 4.6" designation="Alpha" type="Moon" diameter="3800m" zone="Frigid" atmosphere="No Atmosphere" timestamp="" outofrange="False">
+    <res name="Coal">Q73 1%</res>
+    <res name="Crystals">Q59 1%</res>
+    <res name="Eludium">Q176 48%</res>
+    <res name="Gems">Q89 1%</res>
+    <res name="Ice">Q61 1%</res>
+    <res name="Lumenite">Q82 1%</res>
+    <res name="Minerals">Q182 1%</res>
+    <res name="Natural Gas">Q204 1%</res>
+    <res name="Oil">Q123 1%</res>
+    <res name="Ore">Q35 1%</res>
+    <res name="Radioactives">Q50 1%</res>
+    <res name="Stone">Q116 1%</res>
+    <res name="Sunlight">Q99 10%</res>
+    <res name="Animal Carcass">Q30</res>
+    <res name="Beans">Q106</res>
+    <res name="Cheese">Q143</res>
+    <res name="Eggs">Q76</res>
+    <res name="Fertilizer">Q222</res>
+    <res name="Fruit">Q30</res>
+    <res name="Grain">Q155</res>
+    <res name="Grapes">Q137</res>
+    <res name="Herbs">Q98</res>
+    <res name="Hops">Q91</res>
+    <res name="Log">Q100</res>
+    <res name="Milk">Q188</res>
+    <res name="Nuts">Q219</res>
+    <res name="Plant Fiber">Q95</res>
+    <res name="Spices">Q221</res>
+    <res name="Vegetable">Q31</res>
+    <res name="Vegetation Density">Q118</res>
+  </body>
+  <body name="System GKYVQ Alpha IIb" sectorname="" sectorcoords="299, 0, -1" systemname="GKYVQ" systemcoords="-3.3, -2.3, 4.6" designation="Alpha" type="Moon" diameter="3800m" zone="Frigid" atmosphere="No Atmosphere" timestamp="" outofrange="False">
+    <res name="Coal">Q244 1%</res>
+    <res name="Crystals">Q39 1%</res>
+    <res name="Eludium">Q139 54%</res>
+    <res name="Gems">Q111 1%</res>
+    <res name="Ice">Q160 1%</res>
+    <res name="Lumenite">Q120 1%</res>
+    <res name="Minerals">Q45 1%</res>
+    <res name="Natural Gas">Q160 1%</res>
+    <res name="Oil">Q111 1%</res>
+    <res name="Ore">Q132 1%</res>
+    <res name="Radioactives">Q221 1%</res>
+    <res name="Stone">Q182 1%</res>
+    <res name="Sunlight">Q116 10%</res>
+    <res name="Animal Carcass">Q83</res>
+    <res name="Beans">Q47</res>
+    <res name="Cheese">Q155</res>
+    <res name="Eggs">Q132</res>
+    <res name="Fertilizer">Q50</res>
+    <res name="Fruit">Q129</res>
+    <res name="Grain">Q34</res>
+    <res name="Grapes">Q106</res>
+    <res name="Herbs">Q32</res>
+    <res name="Hops">Q139</res>
+    <res name="Log">Q133</res>
+    <res name="Milk">Q65</res>
+    <res name="Nuts">Q122</res>
+    <res name="Plant Fiber">Q136</res>
+    <res name="Spices">Q157</res>
+    <res name="Vegetable">Q89</res>
+    <res name="Vegetation Density">Q129</res>
+  </body>
+  <body name="M5 VI Subdwarf Alpha" sectorname="" sectorcoords="299, 0, -1" systemname="CKYVQ" systemcoords="-4.7, 0.3, 2.3" designation="Alpha" type="Star" diameter="0.075au" zone="" atmosphere="None" timestamp="" outofrange="False">
+    <res name="Type M Preons">Q193 5%</res>
+  </body>
+  <body name="DK Orange Dwarf Beta" sectorname="" sectorcoords="299, 0, -1" systemname="CKYVQ" systemcoords="-4.7, 0.3, 2.3" designation="Alpha" type="Star" diameter="0.075au" zone="" atmosphere="None" timestamp="" outofrange="False">
+    <res name="Type K Preons">Q193 5%</res>
+  </body>
+</database>

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<database application="Hazeron Scouter" version="0.3.3.4">
+  <body name="K2 V Main Sequence Alpha" sectorname="" sectorcoords="308, 1, 4" systemname="YZPTG" systemcoords="2.2, -2.2, -0.5" designation="Alpha" type="Star" diameter="0.115au" zone="" atmosphere="" timestamp="12/08/2012 20:15:15" outofrange="False">
+    <res name="Type K Preons">Q80 5%</res>
+  </body>
+  <body name="DG Yellow Dwarf Beta" sectorname="" sectorcoords="308, 1, 4" systemname="YZPTG" systemcoords="2.2, -2.2, -0.5" designation="Alpha" type="Star" diameter="0.075au" zone="" atmosphere="" timestamp="12/08/2012 20:15:15" outofrange="False">
+    <res name="Type G Preons">Q80 5%</res>
+  </body>
+  <body name="System YZPTG Beta I" sectorname="" sectorcoords="308, 1, 4" systemname="YZPTG" systemcoords="2.2, -2.2, -0.5" designation="Beta" type="Gas Giant" diameter="68200m" zone="Frigid" atmosphere="Corrosive" timestamp="12/08/2012 20:15:15" outofrange="False">
+    <res name="Air">Q73 100%</res>
+    <res name="Borexino Precipitate">Q67 6%</res>
+    <res name="Cryozine">Q30 4%</res>
+    <res name="Hydrogen">Q110 100%</res>
+    <res name="Sunlight">Q155 10%</res>
+  </body>
+  <body name="System YZPTG Beta Ia" sectorname="" sectorcoords="308, 1, 4" systemname="YZPTG" systemcoords="2.2, -2.2, -0.5" designation="Beta" type="Large Moon" diameter="9500m" zone="Frigid" atmosphere="Standard" timestamp="12/08/2012 20:15:15" outofrange="False">
+    <res name="Bolite">None, Q100 1%, Q179 1%</res>
+    <res name="Coal">Q173 1%, Q220 1%, Q211 1%</res>
+    <res name="Crystals">Q117 2%, Q102 1%, Q222 1%</res>
+    <res name="Gems">Q221 1%, Q83 2%, Q69 1%</res>
+    <res name="Ice">Q53 1%, Q50 1%, Q215 3%</res>
+    <res name="Lumenite">Q80 1%, Q51 1%, Q214 1%</res>
+    <res name="Minerals">Q139 1%, Q186 1%, Q21 1%</res>
+    <res name="Natural Gas">Q62 1%, Q180 1%, Q92 1%</res>
+    <res name="Oil">Q70 1%, Q73 1%, Q39 1%</res>
+    <res name="Ore">Q223 1%, Q86 1%, Q46 1%</res>
+    <res name="Polytaride">None, Q97 1%, None</res>
+    <res name="Radioactives">Q157 1%, Q86 1%, Q123 1%</res>
+    <res name="Stone">Q128 2%, Q90 2%, Q123 2%</res>
+    <res name="Myrathane">Q89 7%</res>
+    <res name="Air">Q128 42%</res>
+    <res name="Hydrogen">Q163 42%</res>
+    <res name="Sunlight">Q172 10%</res>
+    <res name="Animal Carcass">Q102, Q170, Q145</res>
+    <res name="Beans">Q142, Q222, Q152</res>
+    <res name="Cheese">Q92, Q171, Q103</res>
+    <res name="Eggs">Q156, Q122, Q135</res>
+    <res name="Fertilizer">Q86, Q174, Q118</res>
+    <res name="Fruit">Q68, Q67, Q171</res>
+    <res name="Grain">Q153, Q104, Q206</res>
+    <res name="Grapes">Q84, Q60, Q200</res>
+    <res name="Herbs">Q130, Q135, Q132</res>
+    <res name="Hops">Q79, Q120, Q30</res>
+    <res name="Log">Q142, Q171, Q108</res>
+    <res name="Milk">Q75, Q116, Q213</res>
+    <res name="Nuts">Q115, Q93, Q214</res>
+    <res name="Plant Fiber">Q134, Q86, Q111</res>
+    <res name="Spices">Q82, Q49, Q25</res>
+    <res name="Vegetable">Q212, Q157, Q12</res>
+    <res name="Vegetation Density">Q178, Q67, Q183</res>
+  </body>
+  <body name="System YZPTG Alpha I" sectorname="" sectorcoords="308, 1, 4" systemname="YZPTG" systemcoords="2.2, -2.2, -0.5" designation="Alpha" type="Planet" diameter="15200m" zone="Inferno" atmosphere="Corrosive" timestamp="12/08/2012 20:15:15" outofrange="False">
+    <res name="Crystals">Q30 2%, Q133 1%, Q171 1%</res>
+    <res name="Gems">Q202 1%, Q229 1%, Q56 2%</res>
+    <res name="Minerals">Q103 1%, Q131 2%, Q103 1%</res>
+    <res name="Ore">Q87 1%, Q152 1%, Q130 1%</res>
+    <res name="Phlogiston">None, Q54 1%, Q133 1%</res>
+    <res name="Radioactives">Q138 1%, Q132 1%, Q178 1%</res>
+    <res name="Stone">Q124 2%, Q148 2%, Q178 2%</res>
+    <res name="Vulcanite">Q225 1%, Q104 1%, None</res>
+    <res name="Magmex">Q155 41%</res>
+    <res name="Air">Q146 76%</res>
+    <res name="Hydrogen">Q185 76%</res>
+    <res name="Ioplasma">Q135 3%</res>
+    <res name="Sunlight">Q10 90%</res>
+    <res name="Animal Carcass">Q123, Q186, Q167</res>
+    <res name="Beans">Q131, Q45, Q118</res>
+    <res name="Cheese">Q65, Q135, Q153</res>
+    <res name="Eggs">Q46, Q156, Q175</res>
+    <res name="Fertilizer">Q47, Q141, Q76</res>
+    <res name="Fruit">Q126, Q174, Q229</res>
+    <res name="Grain">Q141, Q132, Q61</res>
+    <res name="Grapes">Q145, Q197, Q98</res>
+    <res name="Herbs">Q136, Q145, Q89</res>
+    <res name="Hops">Q236, Q97, Q156</res>
+    <res name="Log">Q73, Q94, Q120</res>
+    <res name="Milk">Q65, Q135, Q148</res>
+    <res name="Nuts">Q181, Q98, Q55</res>
+    <res name="Plant Fiber">Q182, Q87, Q138</res>
+    <res name="Spices">Q81, Q153, Q88</res>
+    <res name="Vegetable">Q96, Q224, Q137</res>
+    <res name="Vegetation Density">Q156, Q23, Q90</res>
+  </body>
+</database>

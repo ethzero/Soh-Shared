@@ -1,0 +1,23 @@
+Wormhole Routes
+===============
+
+These are a list of "trade routes" that a ship may take to avoid direct travel (deadheading).
+
+                                            VBSDC
+                                              |
+Neo Domus > Burny > FVWEC > AVWEC > SSAGC > GNJXB > MJA
+                                      |       |
+                                    VBSDC     |
+                                              |
+                                        CNJXB - BNJXB
+
+YMJXB > YOJXB, ONJXB, TIFB, Jerusalem
+
+
+Joe Halo Sector (313, 1, -4)
+	ethzero's system System > BNJXB, ICSDC, GGFB?
+	CNJXB > BNJXB, GNJXB
+	GNJXB > BNJXB, CNJXB, SSAGC, VBSDC
+
+
+

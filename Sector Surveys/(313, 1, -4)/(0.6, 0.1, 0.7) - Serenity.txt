@@ -1,0 +1,1026 @@
+16/11/2011 22:06:43
+
+R1	180W-60W
+R2	60W-0-60E	MAIN
+R3	60E-180E
+
+
+SN Tatsefujed
+On the ground in Ariel at 0.39°E 1.92°N.
+Novus Fontis ethzero's transporter, my ship class Subsidized Streamlined Starship, TL13, 7,641m³, 200530/204050 hp
+Serenity Va, Moon 3,800m dia, F6 V Main Sequence, Habitable zone
+Serenity System (0.6, 0.1, 0.7)
+Joe Halo Sector (313, 1, -4)
+
+System Survey of Serenity
+
+F6 V Main Sequence
+Primary
+  Type F White
+  Spectral Class 6
+  Size V Main Sequence
+  Habitable Zone at 1.25au
+Photosphere
+  0.115au Diameter
+  Type F Preons Q177 5%
+
+
+Serenity I
+Orbiting F6 V Main Sequence at 0.25au 248°
+  Inferno Zone
+Geosphere
+  Planet, 20800m Diameter
+	R1	180W-60W
+	  Gems Q201 1%, Q149 1%, Q175 1%
+	  Vulcanite Q192 1%, Q69 1%, Q76 1%
+	  Ore Q145 1%, Q25 1%, Q29 1%
+	R2	60W-0-60E	MAIN
+	  Minerals Q61 1%, Q199 1%, Q49 1%
+	  Phlogiston Q96 1%, Q176 1%, Q23 1%
+	  Radioactives Q116 1%, Q132 1%, Q97 1%
+	  Stone Q119 2%, Q168 2%, Q128 2%
+	R3	60E-180E
+	  Crystals Q119 1%, Q163 1%, Q177 1%
+Hydrosphere
+  100% Surface Lava
+  Magmex Q65 100%
+Atmosphere
+  Tainted, 88% Density
+  Air Q135 88%
+  Hydrogen Q129 88%
+  Ioplasma Q205 1%
+  Sunlight Q155 90%
+Biosphere Potential
+  Animal Carcass Q212, Q180, Q126
+  Beans Q100, Q124, Q99
+  Cheese Q183, Q71, Q187
+  Eggs Q134, Q112, Q58
+  Fertilizer Q218, Q128, Q138
+  Fruit Q228, Q60, Q164
+  Grain Q51, Q73, Q110
+  Grapes Q182, Q183, Q116
+  Herbs Q127, Q110, Q169
+  Hops Q115, Q169, Q69
+  Log Q190, Q143, Q135
+  Milk Q85, Q127, Q53
+  Nuts Q111, Q118, Q240
+  Plant Fiber Q222, Q28, Q86
+  Spices Q133, Q50, Q170
+  Vegetable Q142, Q61, Q133
+  Vegetation Density Q191, Q118, Q147
+
+
+Serenity Ia
+Orbiting Serenity I at 48,517m 68°
+  Inferno Zone
+Geosphere
+  Moon, 3800m Diameter
+  Gems Q234 1%
+  Crystals Q207 1%
+  Eludium Q192 62%
+  Radioactives Q161 1%
+  Stone Q124 1%
+  Minerals Q96 1%
+  Ore Q56 1%
+Hydrosphere
+  No Surface Lava
+Atmosphere
+  No Atmosphere
+  Sunlight Q191 90%
+Biosphere Potential
+  Animal Carcass Q191
+  Beans Q112
+  Cheese Q81
+  Eggs Q116
+  Fertilizer Q128
+  Fruit Q42
+  Grain Q65
+  Grapes Q121
+  Herbs Q249
+  Hops Q213
+  Log Q132
+  Milk Q223
+  Nuts Q44
+  Plant Fiber Q173
+  Spices Q134
+  Vegetable Q129
+  Vegetation Density Q214
+
+
+Serenity Ib
+Orbiting Serenity I at 61,471m 308°
+  Inferno Zone
+Geosphere
+  Moon, 1900m Diameter
+  Ore Q233 1%
+  Crystals Q227 1%
+  Radioactives Q186 1%
+  Minerals Q136 1%
+  Eludium Q100 32%
+  Gems Q83 1%
+  Stone Q57 1%
+Hydrosphere
+  No Surface Lava
+Atmosphere
+  No Atmosphere
+  Sunlight Q45 90%
+Biosphere Potential
+  Animal Carcass Q138
+  Beans Q170
+  Cheese Q196
+  Eggs Q189
+  Fertilizer Q173
+  Fruit Q199
+  Grain Q58
+  Grapes Q152
+  Herbs Q60
+  Hops Q35
+  Log Q97
+  Milk Q90
+  Nuts Q141
+  Plant Fiber Q134
+  Spices Q70
+  Vegetable Q200
+  Vegetation Density Q75
+
+
+Serenity II
+Orbiting F6 V Main Sequence at 0.5au 38°
+  Inferno Zone
+Geosphere
+  Gas Giant, 56800m Diameter
+Hydrosphere
+  No Surface Lava
+Atmosphere
+  Corrosive, 97% Density
+  Air Q85 97%
+  Borexino Precipitate Q71 8%
+  Hydrogen Q57 97%
+  Ioplasma Q199 3%
+  Sunlight Q128 90%
+
+Serenity IIa
+Orbiting Serenity II at 40,601m 185°
+  Inferno Zone
+Geosphere
+  Moon, 3800m Diameter
+  Stone Q148 1%
+  Eludium Q147 58%
+  Minerals Q127 1%
+  Radioactives Q121 1%
+  Gems Q115 1%
+  Ore Q111 1%
+  Crystals Q92 1%
+Hydrosphere
+  No Surface Lava
+Atmosphere
+  No Atmosphere
+  Sunlight Q145 90%
+Biosphere Potential
+  Animal Carcass Q190
+  Beans Q177
+  Cheese Q105
+  Eggs Q135
+  Fertilizer Q103
+  Fruit Q203
+  Grain Q141
+  Grapes Q136
+  Herbs Q88
+  Hops Q34
+  Log Q161
+  Milk Q153
+  Nuts Q156
+  Plant Fiber Q140
+  Spices Q137
+  Vegetable Q182
+  Vegetation Density Q92
+
+
+Serenity IIb
+Orbiting Serenity II at 53,555m 38°
+  Inferno Zone
+Geosphere
+  Moon, 1900m Diameter
+  Gems Q158 1%
+  Stone Q153 1%
+  Ore Q141 1%
+  Eludium Q76 51%
+  Radioactives Q71 1%
+  Crystals Q52 1%
+  Minerals Q47 1%
+Hydrosphere
+  No Surface Lava
+Atmosphere
+  No Atmosphere
+  Sunlight Q180 90%
+Biosphere Potential
+  Animal Carcass Q169
+  Beans Q188
+  Cheese Q131
+  Eggs Q116
+  Fertilizer Q13
+  Fruit Q145
+  Grain Q153
+  Grapes Q75
+  Herbs Q82
+  Hops Q132
+  Log Q101
+  Milk Q163
+  Nuts Q89
+  Plant Fiber Q92
+  Spices Q137
+  Vegetable Q170
+  Vegetation Density Q114
+
+
+Serenity IIc
+Orbiting Serenity II at 66,509m 172°
+  Inferno Zone
+Geosphere
+  Moon, 3800m Diameter
+  Stone Q214 1%
+  Ore Q190 1%
+  Gems Q136 1%
+  Eludium Q111 44%
+  Radioactives Q96 1%
+  Minerals Q87 1%
+  Crystals Q72 1%
+Hydrosphere
+  No Surface Lava
+Atmosphere
+  No Atmosphere
+  Sunlight Q35 90%
+Biosphere Potential
+  Animal Carcass Q115
+  Beans Q119
+  Cheese Q118
+  Eggs Q189
+  Fertilizer Q185
+  Fruit Q47
+  Grain Q147
+  Grapes Q106
+  Herbs Q148
+  Hops Q211
+  Log Q67
+  Milk Q31
+  Nuts Q187
+  Plant Fiber Q181
+  Spices Q72
+  Vegetable Q112
+  Vegetation Density Q232
+
+
+Serenity IId
+Orbiting Serenity II at 79,463m 182°
+  Inferno Zone
+Geosphere
+  Moon, 3800m Diameter
+  Ore Q220 1%
+  Eludium Q167 34%
+  Stone Q90 1%
+  Gems Q53 1%
+  Radioactives Q47 1%
+  Crystals Q31 1%
+  Minerals Q7 1%
+Hydrosphere
+  No Surface Lava
+Atmosphere
+  No Atmosphere
+  Sunlight Q197 90%
+Biosphere Potential
+  Animal Carcass Q94
+  Beans Q129
+  Cheese Q143
+  Eggs Q172
+  Fertilizer Q96
+  Fruit Q117
+  Grain Q160
+  Grapes Q44
+  Herbs Q143
+  Hops Q182
+  Log Q136
+  Milk Q40
+  Nuts Q120
+  Plant Fiber Q132
+  Spices Q73
+  Vegetable Q100
+  Vegetation Density Q126
+
+
+Serenity III
+Orbiting F6 V Main Sequence at 0.75au 147°
+  Inferno Zone
+Geosphere
+  Planet, 11400m Diameter
+	R1	180W-60W
+		None
+	R2	60W-0-60E	MAIN
+	  Crystals Q200 1%, Q207 2%, Q45 1%
+	  Minerals Q84 1%, Q153 1%, Q135 1%
+	  Vulcanite Q59 1%, Q134 1%, Q69 1%
+	  Phlogiston None, Q110 1%, Q124 1%
+	R3	60E-180E
+	  Stone Q111 2%, Q157 2%, Q217 2%
+	  Gems Q35 2%, Q45 1%, Q163 1%
+	  Ore Q92 1%, Q101 1%, Q136 1%
+	  Radioactives Q32 1%, Q30 1%, Q176 2%
+Hydrosphere
+  6% Surface Lava
+  Magmex Q148 6%
+Atmosphere
+  Corrosive, 55% Density
+  Air Q170 55%
+  Hydrogen Q171 55%
+  Ioplasma Q78 2%
+  Sunlight Q86 90%
+Biosphere Potential
+  Animal Carcass Q128, Q112, Q178
+  Beans Q78, Q121, Q132
+  Cheese Q132, Q115, Q93
+  Eggs Q42, Q107, Q143
+  Fertilizer Q141, Q195, Q102
+  Fruit Q89, Q157, Q56
+  Grain Q155, Q74, Q240
+  Grapes Q177, Q132, Q128
+  Herbs Q138, Q101, Q201
+  Hops Q175, Q101, Q20
+  Log Q181, Q91, Q157
+  Milk Q65, Q184, Q47
+  Nuts Q116, Q108, Q112
+  Plant Fiber Q62, Q63, Q154
+  Spices Q133, Q106, Q168
+  Vegetable Q167, Q111, Q186
+  Vegetation Density Q147, Q147, Q40
+
+
+Serenity IIIa
+Orbiting Serenity III at 43,782m 155°
+  Inferno Zone
+Geosphere
+  Moon, 3800m Diameter
+  Crystals Q180 1%
+  Stone Q177 1%
+  Minerals Q168 1%
+  Radioactives Q157 1%
+  Gems Q123 1%
+  Eludium Q115 55%
+  Ore Q44 1%
+Hydrosphere
+  No Surface Lava
+Atmosphere
+  No Atmosphere
+  Sunlight Q231 90%
+Biosphere Potential
+  Animal Carcass Q182
+  Beans Q148
+  Cheese Q146
+  Eggs Q98
+  Fertilizer Q96
+  Fruit Q60
+  Grain Q160
+  Grapes Q146
+  Herbs Q72
+  Hops Q223
+  Log Q88
+  Milk Q199
+  Nuts Q146
+  Plant Fiber Q102
+  Spices Q69
+  Vegetable Q96
+  Vegetation Density Q158
+
+
+Serenity IIIb
+Orbiting Serenity III at 69,690m 124°
+  Inferno Zone
+Geosphere
+  Moon, 1900m Diameter
+  Crystals Q160 1%
+  Radioactives Q132 1%
+  Minerals Q128 1%
+  Ore Q123 1%
+  Stone Q115 1%
+  Eludium Q79 59%
+  Gems Q17 1%
+Hydrosphere
+  No Surface Lava
+Atmosphere
+  No Atmosphere
+  Sunlight Q120 90%
+Biosphere Potential
+  Animal Carcass Q234
+  Beans Q218
+  Cheese Q158
+  Eggs Q153
+  Fertilizer Q180
+  Fruit Q158
+  Grain Q39
+  Grapes Q116
+  Herbs Q133
+  Hops Q144
+  Log Q122
+  Milk Q76
+  Nuts Q177
+  Plant Fiber Q141
+  Spices Q133
+  Vegetable Q26
+  Vegetation Density Q169
+
+
+Serenity IIIc
+Orbiting Serenity III at 82,643m 125°
+  Inferno Zone
+Geosphere
+  Moon, 3800m Diameter
+  Radioactives Q235 1%
+  Minerals Q216 1%
+  Stone Q181 1%
+  Gems Q168 1%
+  Crystals Q139 1%
+  Ore Q74 1%
+  Eludium Q43 43%
+Hydrosphere
+  No Surface Lava
+Atmosphere
+  No Atmosphere
+  Sunlight Q138 90%
+Biosphere Potential
+  Animal Carcass Q159
+  Beans Q158
+  Cheese Q171
+  Eggs Q79
+  Fertilizer Q134
+  Fruit Q130
+  Grain Q46
+  Grapes Q213
+  Herbs Q194
+  Hops Q66
+  Log Q28
+  Milk Q80
+  Nuts Q80
+  Plant Fiber Q181
+  Spices Q69
+  Vegetable Q84
+  Vegetation Density Q53
+
+
+Serenity IV
+Orbiting F6 V Main Sequence at 1au 69°
+  Inner Zone
+Geosphere
+  Planet, 15200m Diameter
+	R1	180W-60W
+	  Coal Q214 1%, Q108 1%, Q173 1%
+	  Gems Q197 1%, Q180 1%, Q24 1%
+	  Oil Q157 1%, Q146 1%, Q127 1%
+	R2	60W-0-60E	MAIN
+	  Minerals Q150 2%, Q210 1%, Q73 1%
+	  Ore Q134 1%, Q188 1%, Q125 1%
+	R3	60E-180E
+	  Crystals Q223 1%, Q99 1%, Q253 2%
+	  Ice Q109 2%, Q115 3%, Q199 6%
+	  Natural Gas Q33 1%, Q120 1%, Q210 1%
+	  Radioactives Q88 2%, Q98 1%, Q131 1%
+	  Stone Q132 2%, Q51 2%, Q234 2%
+Hydrosphere
+  87% Surface Water
+  Water in the Environment Q76 87%
+Atmosphere
+  Tainted, 41% Density
+  Air Q105 41%
+  Hydrogen Q68 41%
+  Sunlight Q87 70%
+Biosphere
+  Animal Carcass Q156, Q130, Q129
+  Beans Q159, Q93, Q45
+  Cheese Q34, Q56, Q84
+  Eggs Q214, Q108, Q176
+  Fertilizer Q176, Q168, Q145
+  Fish Q159, Q106, Q138
+  Fruit Q31, Q55, Q32
+  Grain Q204, Q147, Q144
+  Grapes Q102, Q149, Q146
+  Herbs Q137, Q61, Q127
+  Hops Q175, Q115, Q114
+  Log Q175, Q89, Q181
+  Milk Q116, Q157, Q143
+  Nuts Q147, Q141, Q127
+  Plant Fiber Q87, Q105, Q66
+  Spices Q177, Q246, Q118
+  Vegetable Q51, Q125, Q82
+  Vegetation Density Q137, Q120, Q123
+
+
+Serenity IVa
+Orbiting Serenity IV at 45,676m 87°
+  Inner Zone
+Geosphere
+  Moon, 3800m Diameter
+  Lumenite Q200 1%
+  Ore Q166 1%
+  Coal Q134 1%
+  Crystals Q119 1%
+  Radioactives Q114 1%
+  Minerals Q99 1%
+  Eludium Q96 50%
+  Stone Q95 1%
+  Gems Q96 1%
+  Natural Gas Q82 1%
+  Oil Q52 1%
+  Ice Q29 1%
+Hydrosphere
+  No Surface Water
+Atmosphere
+  No Atmosphere
+  Sunlight Q104 70%
+Biosphere Potential
+  Animal Carcass Q73
+  Beans Q141
+  Cheese Q168
+  Eggs Q153
+  Fertilizer Q134
+  Fruit Q185
+  Grain Q44
+  Grapes Q239
+  Herbs Q137
+  Hops Q151
+  Log Q77
+  Milk Q178
+  Nuts Q54
+  Plant Fiber Q84
+  Spices Q74
+  Vegetable Q87
+  Vegetation Density Q20
+
+
+Serenity IVb
+Orbiting Serenity IV at 71,584m 29°
+  Inner Zone
+Geosphere
+  Moon, 1900m Diameter
+  Eludium Q188 32%
+  Stone Q161 1%
+  Radioactives Q156 1%
+  Ore Q136 1%
+  Coal Q135 1%
+  Ice Q128 1%
+  Gems Q119 1%
+  Oil Q107 1%
+  Crystals Q98 1%
+  Minerals Q90 1%
+  Natural Gas Q89 1%
+Hydrosphere
+  No Surface Water
+Atmosphere
+  No Atmosphere
+  Sunlight Q122 70%
+Biosphere Potential
+  Animal Carcass Q126
+  Beans Q82
+  Cheese Q182
+  Eggs Q80
+  Fertilizer Q90
+  Fruit Q157
+  Grain Q51
+  Grapes Q208
+  Herbs Q71
+  Hops Q73
+  Log Q112
+  Milk Q55
+  Nuts Q84
+  Plant Fiber Q124
+  Spices Q137
+  Vegetable Q145
+  Vegetation Density Q159
+
+
+Serenity V
+Orbiting F6 V Main Sequence at 1.25au 193°
+  Habitable Zone
+Geosphere
+  Planet, 17000m Diameter
+	R1	180W-60W
+	  Ice Q190 1%, Q189 5%, Q150 4%
+	  Minerals Q164 1%, Q125 1%, Q155 1%
+	  Stone Q160 2%, Q116 2%, Q79 2%
+	  Natural Gas Q112 1%, Q95 1%, Q60 1%
+	R2	60W-0-60E	MAIN
+	  Coal Q223 1%, Q236 1%, Q133 1%
+	  Crystals Q129 1%, Q182 1%, Q34 1%
+	  Radioactives Q104 1%, Q134 1%, Q127 1%
+	R3	60E-180E
+	  Ore Q142 2%, Q77 1%, Q124 1%
+	  Gems Q102 1%, Q101 1%, Q150 1%
+	  Oil Q99 1%, Q123 1%, Q153 1%
+Hydrosphere
+  72% Surface Water
+  Water in the Environment Q247 72%
+Atmosphere
+  Standard, 74% Density
+  Air Q187 74%
+  Hydrogen Q192 74%
+  Sunlight Q179 50%
+Biosphere
+  Animal Carcass Q155, Q78, Q183
+  Beans Q123, Q194, Q101
+  Cheese Q112, Q110, Q76
+  Eggs Q161, Q118, Q54
+  Fertilizer Q93, Q9, Q177
+  Fish Q113, Q206, Q89
+  Fruit Q173, Q105, Q71
+  Grain Q144, Q108, Q243
+  Grapes Q139, Q108, Q190
+  Herbs Q132, Q37, Q152
+  Hops Q164, Q122, Q154
+  Log Q126, Q222, Q152
+  Milk Q52, Q73, Q32
+  Nuts Q22, Q185, Q161
+  Plant Fiber Q147, Q73, Q209
+  Spices Q104, Q86, Q120
+  Vegetable Q231, Q188, Q90
+  Vegetation Density Q124, Q138, Q108
+
+
+Serenity Va
+Orbiting Serenity V at 46,623m 214°
+  Habitable Zone
+Geosphere
+  Moon, 3800m Diameter
+  Gems Q207 1%
+  Eludium Q186 59%
+  Lumenite Q185 1%
+  Stone Q173 1%
+  Natural Gas Q149 1%
+  Ore Q140 1%
+  Oil Q136 1%
+  Coal Q121 1%
+  Radioactives Q105 1%
+  Crystals Q92 1%
+  Ice Q84 1%
+  Minerals Q46 1%
+Hydrosphere
+  No Surface Water
+Atmosphere
+  No Atmosphere
+  Sunlight Q68 50%
+Biosphere Potential
+  Animal Carcass Q75
+  Beans Q136
+  Cheese Q119
+  Eggs Q115
+  Fertilizer Q58
+  Fruit Q118
+  Grain Q148
+  Grapes Q208
+  Herbs Q78
+  Hops Q125
+  Log Q18
+  Milk Q189
+  Nuts Q213
+  Plant Fiber Q150
+  Spices Q69
+  Vegetable Q109
+  Vegetation Density Q136
+
+
+Serenity VI
+Orbiting F6 V Main Sequence at 1.5au 167°
+  Outer Zone
+Geosphere
+  Planet, 11400m Diameter
+	R1	180W-60W
+	  Lumenite Q127 1%, None, Q104 1%
+	  Oil Q194 1%, Q167 1%, Q72 1%
+	R2	60W-0-60E	MAIN
+	  Radioactives Q53 2%, Q192 1%, Q133 1%
+	  Minerals Q153 1%, Q172 2%, Q170 1%
+	  Stone Q115 2%, Q169 2%, Q138 2%
+	  Natural Gas Q140 1%, Q148 1%, Q94 1%
+	  Ore Q93 1%, Q120 1%, Q66 1%
+	R3	60E-180E
+	  Coal Q95 1%, Q127 1%, Q178 1%
+	  Crystals Q104 1%, Q91 1%, Q134 1%
+	  Gems Q88 1%, Q97 1%, Q204 1%
+	  Ice Q63 4%, Q117 3%, Q170 5%
+Hydrosphere
+  36% Surface Water
+  Water in the Environment Q23 36%
+Atmosphere
+  Exotic, 75% Density
+  Air Q27 75%
+  Hydrogen Q141 75%
+  Sunlight Q115 30%
+Biosphere
+  Animal Carcass Q194, Q127, Q107
+  Beans Q172, Q130, Q63
+  Cheese Q134, Q173, Q81
+  Eggs Q52, Q66, Q192
+  Fertilizer Q192, Q120, Q143
+  Fish Q149, Q65, Q113
+  Fruit Q177, Q31, Q88
+  Grain Q49, Q215, Q93
+  Grapes Q85, Q54, Q214
+  Herbs Q198, Q203, Q130
+  Hops Q196, Q150, Q82
+  Log Q159, Q153, Q132
+  Milk Q184, Q157, Q109
+  Nuts Q223, Q150, Q185
+  Plant Fiber Q82, Q112, Q77
+  Spices Q84, Q82, Q145
+  Vegetable Q121, Q129, Q117
+  Vegetation Density Q120, Q95, Q178
+
+
+Serenity VII
+Orbiting F6 V Main Sequence at 1.75au 281°
+  Frigid Zone
+Geosphere
+  Planet, 20800m Diameter
+	R1	180W-60W
+	  Crystals Q214 1%, Q102 1%, Q73 1%
+	  Bolite Q162 1%, Q129 1%, Q72 1%
+	  Gems Q149 1%, Q58 1%, Q24 1%
+	R2	60W-0-60E	MAIN
+	  Ore Q147 1%, Q168 1%, Q118 1%
+	  Polytaride None, Q139 1%, None
+	  Ice Q110 13%, Q129 7%, Q60 12%
+	  Lumenite Q50 1%, Q109 1%, Q98 1%
+	  Oil Q85 1%, Q104 1%, Q87 1%
+	R3	60E-180E
+	  Coal Q128 1%, Q94 1%, Q152 1%
+	  Minerals Q112 1%, Q89 2%, Q166 1%
+	  Natural Gas Q124 1%, Q167 1%, Q170 1%
+	  Radioactives Q13 1%, Q50 1%, Q150 1%
+	  Stone Q135 1%, Q102 2%, Q157 2%
+Hydrosphere
+  69% Surface Liquid
+  Myrathane Q129 69%
+Atmosphere
+  Standard, 69% Density
+  Air Q192 69%
+  Hydrogen Q45 69%
+  Sunlight Q168 10%
+Biosphere Potential
+  Animal Carcass Q127, Q140, Q51
+  Beans Q144, Q29, Q172
+  Cheese Q157, Q156, Q150
+  Eggs Q61, Q234, Q67
+  Fertilizer Q243, Q73, Q217
+  Fruit Q123, Q50, Q217
+  Grain Q102, Q137, Q152
+  Grapes Q65, Q195, Q121
+  Herbs Q105, Q89, Q140
+  Hops Q124, Q118, Q210
+  Log Q210, Q123, Q182
+  Milk Q124, Q131, Q129
+  Nuts Q227, Q190, Q66
+  Plant Fiber Q29, Q128, Q155
+  Spices Q135, Q111, Q175
+  Vegetable Q91, Q120, Q58
+  Vegetation Density Q25, Q70, Q113
+
+
+Serenity VIIar
+Orbiting Serenity VII at 22,609m 341°
+  Frigid Zone
+Geosphere
+  Ring, 22600m Radius
+  Radioactives Q195 1%
+  Ore Q220 1%
+  Ice Q190 1%
+  Gems Q132 1%
+  Lumenite Q77 1%
+  Stone Q74 1%
+  Eludium Q69 47%
+  Crystals Q65 1%
+  Minerals Q55 1%
+
+
+Serenity VIII
+Orbiting F6 V Main Sequence at 2au 322°
+  Frigid Zone
+Geosphere
+  Gas Giant, 72000m Diameter
+Hydrosphere
+  No Surface Liquid
+Atmosphere
+  Insidious, 95% Density
+  Air Q82 95%
+  Borexino Precipitate Q24 8%
+  Cryozine Q153 5%
+  Hydrogen Q194 95%
+  Sunlight Q133 10%
+
+
+Serenity VIIIa
+Orbiting Serenity VIII at 61,131m 89°
+  Frigid Zone
+Geosphere
+  Large Moon, 9500m Diameter
+	R1	180W-60W
+	  Crystals Q233 1%, Q46 1%, Q195 1%
+	  Gems Q203 1%, Q183 1%, Q134 1%
+	  Stone Q198 1%, Q108 2%, Q108 1%
+	  Minerals Q152 1%, Q87 1%, Q142 1%
+	  Bolite Q74 1%, None, None
+	R2	60W-0-60E	MAIN
+	  Radioactives Q38 1%, Q226 1%, Q198 1%
+	  Ice Q87 35%, Q179 10%, Q153 34%
+	  Oil Q30 1%, Q176 1%, Q114 1%
+	  Lumenite Q157 1%, Q173 1%, Q46 1%
+	  Coal Q127 1%, Q160 1%, Q89 1%
+	  Natural Gas Q116 1%, Q155 1%, Q114 1%
+	R3	60E-180E
+	  Ore Q68 1%, Q79 2%, Q130 1%
+	  Polytaride None, Q122 1%, Q150 1%
+Hydrosphere
+  57% Surface Liquid
+  Myrathane Q217 57%
+Atmosphere
+  Exotic, 17% Density
+  Air Q9 17%
+  Hydrogen Q120 17%
+  Sunlight Q150 10%
+Biosphere Potential
+  Animal Carcass Q202, Q122, Q137
+  Beans Q75, Q81, Q139
+  Cheese Q144, Q124, Q158
+  Eggs Q6, Q9, Q114
+  Fertilizer Q160, Q117, Q84
+  Fruit Q152, Q65, Q191
+  Grain Q225, Q71, Q197
+  Grapes Q95, Q177, Q162
+  Herbs Q171, Q133, Q98
+  Hops Q74, Q233, Q40
+  Log Q48, Q107, Q86
+  Milk Q119, Q221, Q114
+  Nuts Q69, Q109, Q160
+  Plant Fiber Q117, Q221, Q233
+  Spices Q199, Q153, Q245
+  Vegetable Q162, Q120, Q180
+  Vegetation Density Q142, Q167, Q176
+
+
+Serenity IX
+Orbiting F6 V Main Sequence at 2.25au 145°
+  Frigid Zone
+Geosphere
+  Gas Giant, 53000m Diameter
+Hydrosphere
+  No Surface Liquid
+Atmosphere
+  Exotic, 92% Density
+  Air Q172 92%
+  Borexino Precipitate Q60 4%
+  Cryozine Q122 2%
+  Hydrogen Q161 92%
+  Sunlight Q81 10%
+
+
+Serenity IXa
+Orbiting Serenity IX at 64,615m 49°
+  Frigid Zone
+Geosphere
+  Moon, 3800m Diameter
+  Radioactives Q236 1%
+  Coal Q205 1%
+  Crystals Q166 1%
+  Natural Gas Q166 1%
+  Gems Q149 1%
+  Lumenite Q143 1%
+  Oil Q131 1%
+  Stone Q127 1%
+  Eludium Q121 56%
+  Ore Q118 1%
+  Minerals Q98 1%
+  Ice Q79 1%
+Hydrosphere
+  No Surface Liquid
+Atmosphere
+  No Atmosphere
+  Sunlight Q98 10%
+Biosphere Potential
+  Animal Carcass Q170
+  Beans Q122
+  Cheese Q106
+  Eggs Q226
+  Fertilizer Q167
+  Fruit Q112
+  Grain Q205
+  Grapes Q187
+  Herbs Q116
+  Hops Q183
+  Log Q201
+  Milk Q105
+  Nuts Q105
+  Plant Fiber Q125
+  Spices Q135
+  Vegetable Q117
+  Vegetation Density Q108
+
+
+Serenity X
+Orbiting F6 V Main Sequence at 2.5au 292°
+  Frigid Zone
+Geosphere
+  Gas Giant, 49200m Diameter
+Hydrosphere
+  No Surface Liquid
+Atmosphere
+  Corrosive, 97% Density
+  Air Q175 97%
+  Borexino Precipitate Q105 4%
+  Cryozine Q24 3%
+  Hydrogen Q153 97%
+  Sunlight Q74 10%
+
+Serenity Xa
+Orbiting Serenity X at 49,767m 306°
+  Frigid Zone
+Geosphere
+  Large Moon, 18900m Diameter
+	R1	180W-60W
+	  Ore Q129 1%, Q51 1%, Q83 1%
+	  Minerals Q119 1%, Q95 1%, Q108 1%
+	R2	60W-0-60E	MAIN
+	  Bolite Q170 1%, Q210 1%, Q118 1%
+	  Natural Gas Q147 1%, Q204 1%, Q81 1%
+	  Radioactives Q66 1%, Q163 1%, Q134 1%
+	  Oil Q123 1%, Q144 1%, Q134 1%
+	  Crystals Q25 1%, Q143 1%, Q89 1%
+	  Stone Q78 2%, Q85 2%, Q52 2%
+	R3	60E-180E
+	  Coal Q129 1%, Q149 1%, Q217 1%
+	  Gems Q114 1%, Q195 1%, Q206 1%
+	  Ice Q48 7%, Q103 3%, Q167 4%
+	  Lumenite Q114 1%, Q45 1%, Q131 1%
+	  Polytaride Q79 1%, None, Q97 1%
+Hydrosphere
+  27% Surface Liquid
+  Myrathane Q123 27%
+Atmosphere
+  Corrosive, 95% Density
+  Air Q102 95%
+  Cryozine Q248 3%
+  Hydrogen Q206 95%
+  Sunlight Q220 10%
+Biosphere Potential
+  Animal Carcass Q159, Q65, Q53
+  Beans Q97, Q131, Q141
+  Cheese Q195, Q119, Q125
+  Eggs Q98, Q144, Q55
+  Fertilizer Q108, Q72, Q101
+  Fruit Q163, Q133, Q167
+  Grain Q121, Q80, Q145
+  Grapes Q101, Q121, Q128
+  Herbs Q32, Q84, Q140
+  Hops Q143, Q28, Q77
+  Log Q57, Q168, Q218
+  Milk Q139, Q114, Q172
+  Nuts Q192, Q49, Q166
+  Plant Fiber Q148, Q102, Q52
+  Spices Q200, Q109, Q94
+  Vegetable Q9, Q125, Q77
+  Vegetation Density Q187, Q165, Q176
+
+
+Serenity Xb
+Orbiting Serenity X at 75,675m 198°
+  Frigid Zone
+Geosphere
+  Moon, 3800m Diameter
+  Ice Q231 1%
+  Eludium Q219 45%
+  Gems Q198 1%
+  Lumenite Q190 1%
+  Minerals Q158 1%
+  Crystals Q132 1%
+  Radioactives Q197 1%
+  Stone Q144 1%
+  Ore Q127 1%
+  Natural Gas Q66 1%
+  Coal Q40 1%
+  Oil Q31 1%
+Hydrosphere
+  No Surface Liquid
+Atmosphere
+  No Atmosphere
+  Sunlight Q110 10%
+Biosphere Potential
+  Animal Carcass Q212
+  Beans Q38
+  Cheese Q207
+  Eggs Q153
+  Fertilizer Q192
+  Fruit Q134
+  Grain Q128
+  Grapes Q70
+  Herbs Q222
+  Hops Q64
+  Log Q220
+  Milk Q144
+  Nuts Q94
+  Plant Fiber Q188
+  Spices Q136
+  Vegetable Q195
+  Vegetation Density Q70

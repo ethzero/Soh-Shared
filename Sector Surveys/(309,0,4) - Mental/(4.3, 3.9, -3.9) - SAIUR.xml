@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<database application="Hazeron Scouter" version="0.3.3.4">
+  <body name="M4 V Main Sequence" sectorname="Mental" sectorcoords="309, 0, 4" systemname="SAIUR" systemcoords="4.3, 3.9, -3.9" designation="" type="Star" diameter="0.095au" zone="" atmosphere="" timestamp="12/08/2012 20:48:38" outofrange="False">
+    <res name="Type M Preons">Q182 5%</res>
+  </body>
+</database>

@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<database application="Hazeron Scouter" version="0.3.3.4">
+  <body name="DK Orange Dwarf Alpha" sectorname="" sectorcoords="308, 1, 4" systemname="CAQTG" systemcoords="2.1, -1.4, -2.7" designation="Alpha" type="Star" diameter="0.075au" zone="" atmosphere="" timestamp="12/08/2012 20:18:59" outofrange="False">
+    <res name="Type K Preons">Q23 5%</res>
+  </body>
+  <body name="DG Yellow Dwarf Beta" sectorname="" sectorcoords="308, 1, 4" systemname="CAQTG" systemcoords="2.1, -1.4, -2.7" designation="Alpha" type="Star" diameter="0.075au" zone="" atmosphere="" timestamp="12/08/2012 20:18:59" outofrange="False">
+    <res name="Type G Preons">Q23 5%</res>
+  </body>
+  <body name="System CAQTG Beta I" sectorname="" sectorcoords="308, 1, 4" systemname="CAQTG" systemcoords="2.1, -1.4, -2.7" designation="Beta" type="Planet" diameter="7600m" zone="Frigid" atmosphere="Standard" timestamp="12/08/2012 20:18:59" outofrange="False">
+    <res name="Bolite">Q153 1%, None, Q143 1%</res>
+    <res name="Coal">Q93 1%, Q189 1%, Q187 1%</res>
+    <res name="Crystals">Q129 1%, Q83 1%, Q150 1%</res>
+    <res name="Gems">Q165 1%, Q56 1%, Q216 1%</res>
+    <res name="Ice">Q139 6%, Q189 11%, Q195 10%</res>
+    <res name="Lumenite">Q183 1%, Q169 1%, Q136 1%</res>
+    <res name="Minerals">Q180 1%, Q72 1%, Q130 1%</res>
+    <res name="Natural Gas">Q184 1%, Q149 1%, Q149 1%</res>
+    <res name="Oil">Q55 1%, Q59 1%, Q46 1%</res>
+    <res name="Ore">Q124 1%, Q127 1%, Q189 1%</res>
+    <res name="Polytaride">Q44 1%, None, None</res>
+    <res name="Radioactives">Q78 1%, Q65 1%, Q84 1%</res>
+    <res name="Stone">Q137 2%, Q100 2%, Q146 2%</res>
+    <res name="Myrathane">Q104 38%</res>
+    <res name="Air">Q64 54%</res>
+    <res name="Hydrogen">Q127 54%</res>
+    <res name="Sunlight">Q84 10%</res>
+    <res name="Animal Carcass">Q38, Q107, Q121</res>
+    <res name="Beans">Q65, Q42, Q158</res>
+    <res name="Cheese">Q62, Q125, Q115</res>
+    <res name="Eggs">Q117, Q153, Q125</res>
+    <res name="Fertilizer">Q91, Q104, Q178</res>
+    <res name="Fruit">Q114, Q118, Q76</res>
+    <res name="Grain">Q146, Q166, Q102</res>
+    <res name="Grapes">Q83, Q59, Q84</res>
+    <res name="Herbs">Q95, Q139, Q206</res>
+    <res name="Hops">Q93, Q70, Q191</res>
+    <res name="Log">Q116, Q224, Q111</res>
+    <res name="Milk">Q205, Q153, Q69</res>
+    <res name="Nuts">Q81, Q211, Q182</res>
+    <res name="Plant Fiber">Q221, Q118, Q182</res>
+    <res name="Spices">Q97, Q81, Q122</res>
+    <res name="Vegetable">Q146, Q183, Q118</res>
+    <res name="Vegetation Density">Q123, Q113, Q94</res>
+  </body>
+  <body name="System CAQTG Beta II" sectorname="" sectorcoords="308, 1, 4" systemname="CAQTG" systemcoords="2.1, -1.4, -2.7" designation="Beta" type="Planet" diameter="15200m" zone="Frigid" atmosphere="Standard" timestamp="12/08/2012 20:18:59" outofrange="False">
+    <res name="Bolite">Q64 1%, Q153 1%, Q86 1%</res>
+    <res name="Coal">Q92 1%, Q128 1%, Q123 1%</res>
+    <res name="Crystals">Q148 1%, Q27 1%, Q17 1%</res>
+    <res name="Gems">Q92 1%, Q181 1%, Q197 1%</res>
+    <res name="Ice">Q245 26%, Q240 8%, Q160 8%</res>
+    <res name="Lumenite">Q34 1%, Q105 1%, Q211 1%</res>
+    <res name="Minerals">Q220 1%, Q70 1%, Q234 1%</res>
+    <res name="Natural Gas">Q176 1%, Q137 1%, Q221 1%</res>
+    <res name="Oil">Q127 1%, Q131 1%, Q73 1%</res>
+    <res name="Ore">Q172 1%, Q166 1%, Q73 1%</res>
+    <res name="Polytaride">Q43 1%, None, Q187 1%</res>
+    <res name="Radioactives">Q103 1%, Q241 1%, Q131 1%</res>
+    <res name="Stone">Q71 1%, Q105 2%, Q96 2%</res>
+    <res name="Myrathane">Q64 92%</res>
+    <res name="Air">Q137 54%</res>
+    <res name="Hydrogen">Q73 54%</res>
+    <res name="Sunlight">Q66 10%</res>
+    <res name="Animal Carcass">Q113, Q90, Q77</res>
+    <res name="Beans">Q124, Q94, Q124</res>
+    <res name="Cheese">Q50, Q94, Q123</res>
+    <res name="Eggs">Q190, Q183, Q172</res>
+    <res name="Fertilizer">Q8, Q19, Q174</res>
+    <res name="Fruit">Q143, Q133, Q177</res>
+    <res name="Grain">Q139, Q100, Q146</res>
+    <res name="Grapes">Q114, Q41, Q124</res>
+    <res name="Herbs">Q34, Q184, Q164</res>
+    <res name="Hops">Q44, Q185, Q150</res>
+    <res name="Log">Q81, Q209, Q142</res>
+    <res name="Milk">Q71, Q116, Q183</res>
+    <res name="Nuts">Q50, Q130, Q149</res>
+    <res name="Plant Fiber">Q181, Q84, Q131</res>
+    <res name="Spices">Q34, Q124, Q192</res>
+    <res name="Vegetable">Q88, Q54, Q111</res>
+    <res name="Vegetation Density">Q112, Q209, Q157</res>
+  </body>
+  <body name="System CAQTG Beta III" sectorname="" sectorcoords="308, 1, 4" systemname="CAQTG" systemcoords="2.1, -1.4, -2.7" designation="Beta" type="Planet" diameter="17000m" zone="Frigid" atmosphere="Standard" timestamp="12/08/2012 20:18:59" outofrange="True" />
+  <body name="System CAQTG Beta IIIa" sectorname="" sectorcoords="308, 1, 4" systemname="CAQTG" systemcoords="2.1, -1.4, -2.7" designation="Beta" type="Moon" diameter="1900m" zone="Frigid" atmosphere="" timestamp="12/08/2012 20:18:59" outofrange="True" />
+  <body name="System CAQTG Beta IV" sectorname="" sectorcoords="308, 1, 4" systemname="CAQTG" systemcoords="2.1, -1.4, -2.7" designation="Beta" type="Gas Giant" diameter="45500m" zone="Frigid" atmosphere="Corrosive" timestamp="12/08/2012 20:18:59" outofrange="True" />
+  <body name="System CAQTG Beta IVa" sectorname="" sectorcoords="308, 1, 4" systemname="CAQTG" systemcoords="2.1, -1.4, -2.7" designation="Beta" type="Large Moon" diameter="5700m" zone="Frigid" atmosphere="Corrosive" timestamp="12/08/2012 20:18:59" outofrange="True" />
+  <body name="System CAQTG Beta IVb" sectorname="" sectorcoords="308, 1, 4" systemname="CAQTG" systemcoords="2.1, -1.4, -2.7" designation="Beta" type="Moon" diameter="3800m" zone="Frigid" atmosphere="" timestamp="12/08/2012 20:18:59" outofrange="True" />
+  <body name="System CAQTG Beta V" sectorname="" sectorcoords="308, 1, 4" systemname="CAQTG" systemcoords="2.1, -1.4, -2.7" designation="Beta" type="Planet" diameter="7600m" zone="Frigid" atmosphere="Standard" timestamp="12/08/2012 20:18:59" outofrange="True" />
+  <body name="System CAQTG Alpha I" sectorname="" sectorcoords="308, 1, 4" systemname="CAQTG" systemcoords="2.1, -1.4, -2.7" designation="Alpha" type="Planet" diameter="7600m" zone="Frigid" atmosphere="Exotic" timestamp="12/08/2012 20:18:59" outofrange="False">
+    <res name="Bolite">Q105 1%, Q84 1%, None</res>
+    <res name="Coal">Q92 1%, Q67 1%, Q58 1%</res>
+    <res name="Crystals">Q41 1%, Q99 1%, Q139 1%</res>
+    <res name="Gems">Q18 1%, Q50 1%, Q179 1%</res>
+    <res name="Ice">Q95 4%, Q35 6%, Q125 7%</res>
+    <res name="Lumenite">Q141 1%, Q168 1%, Q157 1%</res>
+    <res name="Minerals">Q132 1%, Q68 1%, Q83 1%</res>
+    <res name="Natural Gas">Q40 1%, Q125 1%, Q166 1%</res>
+    <res name="Oil">Q72 1%, Q75 1%, Q99 1%</res>
+    <res name="Ore">Q93 1%, Q205 1%, Q84 1%</res>
+    <res name="Polytaride">Q170 1%, None, Q40 1%</res>
+    <res name="Radioactives">Q128 1%, Q160 1%, Q52 1%</res>
+    <res name="Stone">Q132 2%, Q111 2%, Q47 2%</res>
+    <res name="Myrathane">Q23 44%</res>
+    <res name="Air">Q82 36%</res>
+    <res name="Hydrogen">Q148 36%</res>
+    <res name="Sunlight">Q177 10%</res>
+    <res name="Animal Carcass">Q60, Q200, Q162</res>
+    <res name="Beans">Q182, Q17, Q220</res>
+    <res name="Cheese">Q37, Q63, Q131</res>
+    <res name="Eggs">Q134, Q214, Q90</res>
+    <res name="Fertilizer">Q180, Q190, Q170</res>
+    <res name="Fruit">Q44, Q148, Q151</res>
+    <res name="Grain">Q133, Q33, Q63</res>
+    <res name="Grapes">Q144, Q23, Q36</res>
+    <res name="Herbs">Q101, Q99, Q122</res>
+    <res name="Hops">Q123, Q172, Q109</res>
+    <res name="Log">Q46, Q194, Q45</res>
+    <res name="Milk">Q195, Q78, Q169</res>
+    <res name="Nuts">Q147, Q49, Q116</res>
+    <res name="Plant Fiber">Q141, Q49, Q209</res>
+    <res name="Spices">Q97, Q167, Q134</res>
+    <res name="Vegetable">Q158, Q181, Q234</res>
+    <res name="Vegetation Density">Q228, Q50, Q94</res>
+  </body>
+  <body name="System CAQTG Alpha II" sectorname="" sectorcoords="308, 1, 4" systemname="CAQTG" systemcoords="2.1, -1.4, -2.7" designation="Alpha" type="Gas Giant" diameter="49200m" zone="Frigid" atmosphere="Corrosive" timestamp="12/08/2012 20:18:59" outofrange="False">
+    <res name="Air">Q134 93%</res>
+    <res name="Borexino Precipitate">Q129 2%</res>
+    <res name="Cryozine">Q91 3%</res>
+    <res name="Hydrogen">Q83 93%</res>
+    <res name="Sunlight">Q200 10%</res>
+  </body>
+  <body name="System CAQTG Alpha IIa" sectorname="" sectorcoords="308, 1, 4" systemname="CAQTG" systemcoords="2.1, -1.4, -2.7" designation="Alpha" type="Moon" diameter="1900m" zone="Frigid" atmosphere="No Atmosphere" timestamp="12/08/2012 20:18:59" outofrange="False">
+    <res name="Coal">Q141 1%</res>
+    <res name="Crystals">Q121 1%</res>
+    <res name="Eludium">Q163 31%</res>
+    <res name="Gems">Q135 1%</res>
+    <res name="Ice">Q171 1%</res>
+    <res name="Lumenite">Q211 1%</res>
+    <res name="Minerals">Q119 1%</res>
+    <res name="Natural Gas">Q104 1%</res>
+    <res name="Oil">Q110 1%</res>
+    <res name="Ore">Q128 1%</res>
+    <res name="Radioactives">Q172 1%</res>
+    <res name="Stone">Q124 1%</res>
+    <res name="Sunlight">Q107 10%</res>
+    <res name="Animal Carcass">Q102</res>
+    <res name="Beans">Q32</res>
+    <res name="Cheese">Q114</res>
+    <res name="Eggs">Q43</res>
+    <res name="Fertilizer">Q104</res>
+    <res name="Fruit">Q161</res>
+    <res name="Grain">Q107</res>
+    <res name="Grapes">Q139</res>
+    <res name="Herbs">Q112</res>
+    <res name="Hops">Q55</res>
+    <res name="Log">Q37</res>
+    <res name="Milk">Q47</res>
+    <res name="Nuts">Q153</res>
+    <res name="Plant Fiber">Q109</res>
+    <res name="Spices">Q97</res>
+    <res name="Vegetable">Q184</res>
+    <res name="Vegetation Density">Q183</res>
+  </body>
+  <body name="System CAQTG Alpha IIb" sectorname="" sectorcoords="308, 1, 4" systemname="CAQTG" systemcoords="2.1, -1.4, -2.7" designation="Alpha" type="Moon" diameter="3800m" zone="Frigid" atmosphere="No Atmosphere" timestamp="12/08/2012 20:18:59" outofrange="False">
+    <res name="Coal">Q226 1%</res>
+    <res name="Crystals">Q14 1%</res>
+    <res name="Eludium">Q70 52%</res>
+    <res name="Gems">Q113 1%</res>
+    <res name="Ice">Q72 1%</res>
+    <res name="Lumenite">Q173 1%</res>
+    <res name="Minerals">Q127 1%</res>
+    <res name="Natural Gas">Q148 1%</res>
+    <res name="Oil">Q122 1%</res>
+    <res name="Ore">Q159 1%</res>
+    <res name="Radioactives">Q129 1%</res>
+    <res name="Stone">Q58 1%</res>
+    <res name="Sunlight">Q217 10%</res>
+    <res name="Animal Carcass">Q178</res>
+    <res name="Beans">Q91</res>
+    <res name="Cheese">Q101</res>
+    <res name="Eggs">Q117</res>
+    <res name="Fertilizer">Q21</res>
+    <res name="Fruit">Q62</res>
+    <res name="Grain">Q102</res>
+    <res name="Grapes">Q170</res>
+    <res name="Herbs">Q180</res>
+    <res name="Hops">Q134</res>
+    <res name="Log">Q130</res>
+    <res name="Milk">Q171</res>
+    <res name="Nuts">Q122</res>
+    <res name="Plant Fiber">Q69</res>
+    <res name="Spices">Q160</res>
+    <res name="Vegetable">Q126</res>
+    <res name="Vegetation Density">Q45</res>
+  </body>
+  <body name="System CAQTG Alpha III" sectorname="" sectorcoords="308, 1, 4" systemname="CAQTG" systemcoords="2.1, -1.4, -2.7" designation="Alpha" type="Planet" diameter="13300m" zone="Frigid" atmosphere="Tainted" timestamp="12/08/2012 20:18:59" outofrange="False">
+    <res name="Bolite">None, Q130 1%, Q110 1%</res>
+    <res name="Coal">Q90 1%, Q140 1%, Q123 1%</res>
+    <res name="Crystals">Q102 1%, Q187 2%, Q123 1%</res>
+    <res name="Gems">Q54 1%, Q169 1%, Q125 1%</res>
+    <res name="Ice">Q28 37%, Q60 7%, Q19 14%</res>
+    <res name="Lumenite">None, Q233 1%, Q125 1%</res>
+    <res name="Minerals">Q124 1%, Q62 1%, Q12 1%</res>
+    <res name="Natural Gas">Q144 1%, Q88 1%, Q126 1%</res>
+    <res name="Oil">Q162 1%, Q163 1%, Q181 1%</res>
+    <res name="Ore">Q111 1%, Q66 1%, Q119 1%</res>
+    <res name="Polytaride">Q166 1%, Q58 1%, Q112 1%</res>
+    <res name="Radioactives">Q74 1%, Q176 1%, Q68 1%</res>
+    <res name="Stone">Q191 1%, Q129 2%, Q153 1%</res>
+    <res name="Myrathane">Q30 66%</res>
+    <res name="Air">Q172 98%</res>
+    <res name="Cryozine">Q122 1%</res>
+    <res name="Hydrogen">Q115 98%</res>
+    <res name="Sunlight">Q124 10%</res>
+    <res name="Animal Carcass">Q156, Q146, Q160</res>
+    <res name="Beans">Q102, Q170, Q123</res>
+    <res name="Cheese">Q127, Q227, Q157</res>
+    <res name="Eggs">Q98, Q176, Q103</res>
+    <res name="Fertilizer">Q59, Q64, Q158</res>
+    <res name="Fruit">Q132, Q64, Q73</res>
+    <res name="Grain">Q114, Q90, Q197</res>
+    <res name="Grapes">Q109, Q97, Q30</res>
+    <res name="Herbs">Q46, Q105, Q123</res>
+    <res name="Hops">Q231, Q134, Q113</res>
+    <res name="Log">Q71, Q148, Q139</res>
+    <res name="Milk">Q180, Q95, Q126</res>
+    <res name="Nuts">Q184, Q189, Q143</res>
+    <res name="Plant Fiber">Q150, Q75, Q56</res>
+    <res name="Spices">Q160, Q168, Q86</res>
+    <res name="Vegetable">Q241, Q178, Q86</res>
+    <res name="Vegetation Density">Q67, Q211, Q157</res>
+  </body>
+  <body name="System CAQTG Alpha IIIa" sectorname="" sectorcoords="308, 1, 4" systemname="CAQTG" systemcoords="2.1, -1.4, -2.7" designation="Alpha" type="Moon" diameter="3800m" zone="Frigid" atmosphere="No Atmosphere" timestamp="12/08/2012 20:18:59" outofrange="False">
+    <res name="Coal">Q144 1%</res>
+    <res name="Crystals">Q60 1%</res>
+    <res name="Eludium">Q183 58%</res>
+    <res name="Gems">Q73 1%</res>
+    <res name="Ice">Q212 1%</res>
+    <res name="Lumenite">Q69 1%</res>
+    <res name="Minerals">Q93 1%</res>
+    <res name="Natural Gas">Q99 1%</res>
+    <res name="Oil">Q72 1%</res>
+    <res name="Ore">Q163 1%</res>
+    <res name="Radioactives">Q173 1%</res>
+    <res name="Stone">Q195 1%</res>
+    <res name="Sunlight">Q159 10%</res>
+    <res name="Animal Carcass">Q134</res>
+    <res name="Beans">Q113</res>
+    <res name="Cheese">Q25</res>
+    <res name="Eggs">Q80</res>
+    <res name="Fertilizer">Q98</res>
+    <res name="Fruit">Q74</res>
+    <res name="Grain">Q126</res>
+    <res name="Grapes">Q47</res>
+    <res name="Herbs">Q168</res>
+    <res name="Hops">Q74</res>
+    <res name="Log">Q140</res>
+    <res name="Milk">Q190</res>
+    <res name="Nuts">Q117</res>
+    <res name="Plant Fiber">Q101</res>
+    <res name="Spices">Q32</res>
+    <res name="Vegetable">Q100</res>
+    <res name="Vegetation Density">Q90</res>
+  </body>
+  <body name="System CAQTG Alpha IIIb" sectorname="" sectorcoords="308, 1, 4" systemname="CAQTG" systemcoords="2.1, -1.4, -2.7" designation="Alpha" type="Moon" diameter="3800m" zone="Frigid" atmosphere="No Atmosphere" timestamp="12/08/2012 20:18:59" outofrange="False">
+    <res name="Coal">Q100 1%</res>
+    <res name="Crystals">Q81 1%</res>
+    <res name="Eludium">Q219 51%</res>
+    <res name="Gems">Q179 1%</res>
+    <res name="Ice">Q112 1%</res>
+    <res name="Lumenite">Q159 1%</res>
+    <res name="Minerals">Q102 1%</res>
+    <res name="Natural Gas">Q143 1%</res>
+    <res name="Oil">Q85 1%</res>
+    <res name="Ore">Q66 1%</res>
+    <res name="Radioactives">Q130 1%</res>
+    <res name="Stone">Q129 1%</res>
+    <res name="Sunlight">Q14 10%</res>
+    <res name="Animal Carcass">Q81</res>
+    <res name="Beans">Q171</res>
+    <res name="Cheese">Q12</res>
+    <res name="Eggs">Q153</res>
+    <res name="Fertilizer">Q142</res>
+    <res name="Fruit">Q230</res>
+    <res name="Grain">Q121</res>
+    <res name="Grapes">Q78</res>
+    <res name="Herbs">Q235</res>
+    <res name="Hops">Q153</res>
+    <res name="Log">Q106</res>
+    <res name="Milk">Q58</res>
+    <res name="Nuts">Q87</res>
+    <res name="Plant Fiber">Q62</res>
+    <res name="Spices">Q97</res>
+    <res name="Vegetable">Q170</res>
+    <res name="Vegetation Density">Q206</res>
+  </body>
+</database>

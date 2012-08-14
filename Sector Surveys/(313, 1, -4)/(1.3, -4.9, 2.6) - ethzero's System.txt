@@ -1,0 +1,80 @@
+20/11/2011 14:05:54
+
+Wormholes
+BNJXB
+ICSDC
+GGFB? <
+
+
+
+SN Kecnibja
+On the ground in Arrakis at 3.41°W 12.03°S.
+Novus Fontis ethzero's Capitol Ship, explorer8 class Subsidized Streamlined Starship, TL7, 11,889m³, 93650/93800 hp
+ethzero's system Ringworld, Ringworld 4,800m wid x 5.745e+06m cir, F8 V Main Sequence, Habitable zone
+ethzero's system System (1.3, -4.9, 2.6)
+Joe Halo Sector (313, 1, -4)
+
+System Survey of ethzero's system
+
+F8 V Main Sequence
+Primary
+  Type F White
+  Spectral Class 8
+  Size V Main Sequence
+  Habitable Zone at 1.25au
+Photosphere
+  0.115au Diameter
+  Type F Preons Q221 5%
+
+ethzero's system Ringworld
+Orbiting F8 V Main Sequence at 0m 90°
+  Habitable Zone
+Geosphere
+  Ringworld, 0m Radius
+
+R1
+  Coal Q193 1%, Q105 1%, Q183 1%, Q156 1%, Q188 1%, Q109 1%, Q89 1%
+  Ice Q195 3%, Q102 2%, Q52 1%, Q33 4%, Q127 1%, Q184 1%, Q107 12%
+  Oil Q171 1%, Q18 1%, Q96 1%, Q32 1%, Q82 1%, Q133 1%, Q145 1%
+R2
+  Gems Q152 1%, Q168 1%, Q150 1%, Q99 1%, Q121 1%, Q107 1%, Q101 1%
+R3
+  Crystals Q130 1%, Q137 1%, Q209 1%, Q109 1%, Q111 1%, Q143 1%, Q215 1%
+R4
+  Ore Q163 1%, Q113 1%, Q38 1%, Q200 1%, Q89 1%, Q125 1%, Q115 1%
+R5
+  Stone Q137 2%, Q114 2%, Q129 2%, Q158 2%, Q203 2%, Q105 2%, Q124 1%
+R6
+  Minerals Q163 1%, Q134 2%, Q110 1%, Q146 1%, Q195 1%, Q242 1%, Q137 1%
+  Natural Gas Q141 1%, Q95 1%, Q117 1%, Q163 1%, Q144 1%, Q229 1%, Q84 1%
+  Radioactives Q170 1%, Q44 1%, Q67 1%, Q102 2%, Q120 2%, Q173 1%, Q166 1%
+R7
+	Nothing Major
+
+Hydrosphere
+  30% Surface Water
+  Water in the Environment Q115 30%
+Atmosphere
+  Standard, 66% Density
+  Air Q127 66%
+  Hydrogen Q117 66%
+  Sunlight Q94 50%
+Biosphere
+  Animal Carcass Q32, Q8, Q91, Q164, Q109, Q170, Q86
+  Beans Q121, Q118, Q127, Q203, Q158, Q99, Q183
+  Cheese Q155, Q143, Q163, Q73, Q30, Q170, Q69
+  Eggs Q97, Q135, Q122, Q205, Q148, Q61, Q210
+  Fertilizer Q119, Q229, Q64, Q121, Q190, Q178, Q84
+  Fish Q124, Q123, Q77, Q127, Q92, Q121, Q97
+  Fruit Q74, Q72, Q120, Q107, Q154, Q100, Q115
+  Grain Q131, Q116, Q77, Q100, Q204, Q194, Q215
+  Grapes Q145, Q131, Q99, Q66, Q151, Q217, Q116
+  Herbs Q93, Q156, Q117, Q169, Q217, Q35, Q82
+  Hops Q103, Q122, Q101, Q132, Q208, Q70, Q193
+  Log Q202, Q90, Q156, Q80, Q89, Q150, Q44
+  Milk Q188, Q41, Q105, Q87, Q188, Q92, Q51
+  Nuts Q199, Q108, Q71, Q176, Q91, Q76, Q216
+  Plant Fiber Q73, Q172, Q125, Q143, Q12, Q212, Q60
+  Spices Q145, Q215, Q141, Q38, Q114, Q135, Q142
+  Vegetable Q168, Q68, Q92, Q121, Q157, Q110, Q80
+  Vegetation Density Q62, Q173, Q130, Q60, Q125, Q125, Q43

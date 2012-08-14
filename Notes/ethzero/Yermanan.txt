@@ -1,0 +1,1057 @@
+SYSTEM REPORT
+BuggerAnus
+SN Edwimikew reporting.
+Novus Fontis BuggerAnus, Explorer 3 class Subsidized Streamlined Starship, TL3, 5,466m³, 27280/27370 hp
+Joe Halo Sector (313,1,-4)
+Yermanam System
+On the ground on Yermanam VII at 42.48°W 5.95°N.
+
+F6 V Main Sequence
+Range 1.743au
+F6 V Main Sequence Primary
+0.115au Diameter
+Habitable Zone at 1.25au
+Type F Preons Q195 5%
+
+Yermanam I
+Range 1.844au
+Yermanam I
+Inferno Zone
+Geosphere
+Planet, 20800m Diameter
+R1
+	Vulcanite Q243 1%, Q143 1%, Q114 1%
+	Ore Q186 1%, Q113 1%, Q151 2%
+	Phlogiston Q105 1%, Q90 1%, Q15 1%
+R2
+	Gems Q113 1%, Q136 1%, Q129 1%
+R3
+	Crystals Q113 1%, Q133 1%, Q150 1%
+	Minerals Q70 2%, Q112 1%, Q152 1%
+	Radioactives Q178 1%, Q162 1%, Q201 1%
+	Stone Q104 2%, Q98 2%, Q204 2%
+Hydrosphere
+100% Surface Lava
+Magmex Q212 100%
+Atmosphere
+Tainted, 88% Density
+Air Q176 88%
+Hydrogen Q172 88%
+Ioplasma Q21 1%
+Sunlight Q76 90%
+Biosphere Potential
+R1
+	Hops				Q237, Q149, Q113
+	Log					Q218, Q146, Q143
+	Grapes			Q208, Q123, Q145
+R2
+	Cheese			Q178, Q202, Q127
+	Grain				Q91, Q195, Q95
+	Beans				Q92, Q194, Q167
+	Nuts				Q178, Q189, Q41
+	Milk				Q117, Q186, Q92
+	Fertilizer	Q93, Q165, Q157
+	Eggs				Q75, Q126, Q115
+	Plant Fiber	Q99, Q124, Q79
+R3
+	Animal Carcass Q142, Q99, Q203
+	Fruit				Q154, Q82, Q200
+	Spices			Q166, Q125, Q190
+	Herbs				Q112, Q63, Q166
+	Vegetable		Q72, Q136, Q144
+	Vegetation Density Q123, Q107, Q150
+
+
+Yermanam Ia
+Range 1.896au
+Yermanam Ia
+Inferno Zone
+Geosphere
+Moon, 3800m Diameter
+	R1	180W-60W
+	R2	60W-0-60E	MAIN
+	R3	60E-180E
+	Stone Q235 1%
+	Crystals Q201 1%
+	Eludium Q160 27%
+	Radioactives Q150 1%
+	Gems Q90 1%
+	Minerals Q85 1%
+	Ore Q38 1%
+Hydrosphere
+No Surface Lava
+Atmosphere
+None
+Sunlight Q239 90%
+Biosphere Potential
+	Hops Q206
+	Cheese Q203
+	Vegetable Q188
+	Plant Fiber Q178
+	Spices Q167
+	Log Q158
+	Grapes Q146
+	Vegetation Density Q145
+	Fertilizer Q131
+	Milk Q126
+	Animal Carcass Q121
+	Nuts Q111
+	Herbs Q107
+	Beans Q103
+	Grain Q103
+	Fruit Q96
+	Eggs Q56
+
+Yermanam Ib
+Range 1.91au
+Yermanam Ib
+Inferno Zone
+Geosphere
+Moon, 1900m Diameter
+	Crystals Q220 1%
+	Ore Q215 1%
+	Gems Q196 1%
+	Radioactives Q175 1%
+	Stone Q169 1%
+	Minerals Q125 1%
+	Eludium Q68 49%
+Hydrosphere
+No Surface Lava
+Atmosphere
+None
+Sunlight Q93 90%
+Biosphere Potential
+	Nuts Q208
+	Cheese Q190
+	Grapes Q177
+	Fertilizer Q175
+	Herbs Q173
+	Beans Q161
+	Hops Q157
+	Plant Fiber Q138
+	Vegetation Density Q134
+	Eggs Q130
+	Vegetable Q130
+	Fruit Q125
+	Log Q125
+	Milk Q122
+	Spices Q103
+	Grain Q96
+	Animal Carcass Q67
+
+
+Yermanam II
+Range 2.221au
+Yermanam II
+Inferno Zone
+Geosphere
+Gas Giant, 56800m Diameter
+Hydrosphere
+No Surface Lava
+Atmosphere
+Corrosive, 97% Density
+Air Q126 97%
+Borexino Precipitate Q197 8%
+Hydrogen Q100 97%
+Ioplasma Q143 3%
+Sunlight Q175 90%
+
+
+Yermanam IIa
+Range 2.256au
+Yermanam IIa
+Inferno Zone
+Geosphere
+Moon, 3800m Diameter
+	Gems Q227 1%
+
+	Stone Q133 1%
+	Eludium Q115 51%
+	Minerals Q116 1%
+	Radioactives Q110 1%
+	Ore Q93 1%
+	Crystals Q86 1%
+Hydrosphere
+No Surface Lava
+Atmosphere
+None
+Sunlight Q65 90%
+Biosphere Potential
+	Cheese Q228
+	Nuts Q224
+
+	Log Q188
+	Grain Q179
+	Beans Q169
+	Grapes Q162
+	Hops Q155
+	Plant Fiber Q146
+	Fruit Q130
+	Animal Carcass Q119
+	Vegetable Q113
+	Fertilizer Q105
+	Eggs Q75
+	Herbs Q72
+	Milk Q57
+	Spices Q42
+	Vegetation Density Q24
+
+
+Yermanam IIb
+Range 2.194au
+Yermanam IIb
+Inferno Zone
+Geosphere
+Moon, 1900m Diameter
+	Eludium Q172 41%
+	Gems Q143 1%
+	Ore Q123 1%
+	Crystals Q45 1%
+	Minerals Q35 1%
+	Radioactives Q60 1%
+Hydrosphere
+No Surface Lava
+Atmosphere
+None
+Sunlight Q227 90%
+Biosphere Potential
+	Animal Carcass Q226
+	Beans Q179
+	Cheese Q125
+	Eggs Q57
+	Fertilizer Q144
+	Fruit Q72
+	Grain Q192
+	Grapes Q101
+	Herbs Q195
+	Hops Q126
+	Log Q129
+	Milk Q66
+	Nuts Q157
+	Plant Fiber Q97
+	Spices Q42
+	Vegetable Q100
+	Vegetation Density Q46
+
+Yermanam IIc
+Range 2.154au
+Yermanam IIc
+Inferno Zone
+Geosphere
+Moon, 3800m Diameter
+	Eludium Q208 58%
+	Stone Q198 1%
+	Ore Q172 1%
+
+	Gems Q120 1%
+	Radioactives Q85 1%
+	Minerals Q75 1%
+	Crystals Q66 1%
+Hydrosphere
+No Surface Lava
+Atmosphere
+None
+Sunlight Q82 90%
+Biosphere Potential
+	Cheese Q241
+	Hops Q205
+
+	Animal Carcass Q173
+	Beans Q110
+	Eggs Q130
+	Fertilizer Q188
+	Fruit Q101
+	Grain Q185
+	Grapes Q131
+	Herbs Q5
+	Log Q94
+	Milk Q190
+	Nuts Q126
+	Plant Fiber Q185
+	Spices Q105
+	Vegetable Q171
+	Vegetation Density Q162
+
+Yermanam IId
+Range 2.304au
+Yermanam IId
+Inferno Zone
+Geosphere
+Moon, 3800m Diameter
+	Ore Q202 1%
+	Crystals Q154 1%
+	Eludium Q136 50%
+	Gems Q165 1%
+	Minerals Q123 1%
+	Radioactives Q36 1%
+	Stone Q75 1%
+Hydrosphere
+No Surface Lava
+Atmosphere
+None
+Sunlight Q117 90%
+Biosphere Potential
+	Beans Q249
+	Fertilizer Q226
+	Milk Q200
+
+	Animal Carcass Q151
+	Cheese Q138
+	Eggs Q112
+	Fruit Q171
+	Grain Q198
+	Grapes Q70
+	Herbs Q127
+	Hops Q46
+	Log Q164
+	Nuts Q188
+	Plant Fiber Q137
+	Spices Q105
+	Vegetable Q158
+	Vegetation Density Q185
+
+Yermanam Range 1.036au
+Yermanam III
+Inferno Zone
+Geosphere
+Planet, 11400m Diameter
+R1
+	Crystals Q194 1%, Q49 1%, Q146 2%
+R2
+	Stone Q95 2%, Q215 2%, Q163 2%
+	Vulcanite None, Q208 1%, None
+	Gems Q75 1%, Q160 1%, Q117 1%
+	Minerals Q94 1%, Q194 1%, Q110 1%
+R3
+	Ore Q132 1%, Q62 1%, Q132 1%
+	Phlogiston Q9 1%, None, Q115 1%
+	Radioactives Q221 1%, Q60 1%, Q24 2%
+Hydrosphere
+6% Surface Lava
+Magmex Q168 6%
+Atmosphere
+Corrosive, 55% Density
+Air Q211 55%
+Hydrogen Q87 55%
+Ioplasma Q151 2%
+Sunlight Q133 90%
+Biosphere Potential
+Animal Carcass Q57, Q30, Q125
+Beans Q70, Q64, Q71
+Cheese Q126, Q119, Q33
+Eggs Q111, Q121, Q73
+Fertilizer Q144, Q104, Q122
+Fruit Q144, Q179, Q91
+Grain Q193, Q196, Q97
+Grapes Q75, Q200, Q155
+Herbs Q124, Q182, Q199
+Hops Q168, Q80, Q63
+Log Q209, Q95, Q167
+Milk Q97, Q116, Q85
+Nuts Q55, Q180, Q169
+Plant Fiber Q66, Q31, Q148
+Spices Q166, Q181, Q61
+Vegetable Q97, Q186, Q69
+Vegetation Density Q78, Q135, Q44
+
+Yermanam IIIa
+Range 0.996au
+Yermanam IIIa
+Inferno Zone
+Geosphere
+Moon, 3800m Diameter
+Crystals Q174 1%
+	Eludium Q211 43%
+Gems Q235 1%
+Minerals Q157 1%
+Ore Q25 1%
+Radioactives Q146 1%
+Stone Q161 1%
+Hydrosphere
+No Surface Lava
+Atmosphere
+None
+Sunlight Q22 90%
+Biosphere Potential
+Animal Carcass Q110
+Beans Q140
+Cheese Q140
+Eggs Q166
+	Fertilizer Q227
+Fruit Q114
+Grain Q199
+Grapes Q172
+Herbs Q184
+Hops Q89
+Log Q114
+Milk Q102
+Nuts Q85
+Plant Fiber Q234
+Spices Q230
+Vegetable Q155
+	Vegetation Density Q217
+
+Yermanam IIIb
+Range 1.049au
+Yermanam IIIb
+Inferno Zone
+Geosphere
+Moon, 1900m Diameter
+	Eludium Q176 51%
+	Crystals Q153 1%
+	Gems Q130 1%
+	Radioactives Q121 1%
+	Minerals Q117 1%
+	Ore Q105 1%
+	Stone Q99 1%
+Hydrosphere
+No Surface Lava
+Atmosphere
+None
+Sunlight Q168 90%
+Biosphere Potential
+	Nuts Q245
+	Milk Q235
+	Eggs Q221
+	Fruit Q213
+	Beans Q209
+	Grain Q205
+
+	Animal Carcass Q35
+	Cheese Q153
+	Fertilizer Q54
+	Grapes Q141
+	Herbs Q118
+	Hops Q138
+	Log Q149
+	Plant Fiber Q147
+	Spices Q166
+	Vegetable Q85
+	Vegetation Density Q101
+
+Yermanam IIIc
+Range 0.967au
+Yermanam IIIc
+Inferno Zone
+Geosphere
+Moon, 3800m Diameter
+	Minerals Q205 1%
+	Ore Q185 1%
+
+	Gems Q152 1%
+	Crystals Q134 1%
+	Eludium Q11 58%
+	Radioactives Q96 1%
+	Stone Q38 1%
+Hydrosphere
+No Surface Lava
+Atmosphere
+None
+Sunlight Q185 90%
+Biosphere Potential
+	Grapes Q238
+
+	Animal Carcass Q89
+	Beans Q150
+	Cheese Q165
+	Eggs Q20
+	Fertilizer Q137
+	Fruit Q184
+	Grain Q84
+	Herbs Q51
+	Hops Q59
+	Log Q55
+	Milk Q111
+	Nuts Q147
+	Plant Fiber Q187
+	Spices Q230
+	Vegetable Q143
+	Vegetation Density Q111
+
+Yermanam IV
+Range 0.822au
+Yermanam IV
+Inner Zone
+Geosphere
+Planet, 15200m Diameter
+R1	180W-60W
+	F	Crystals Q211 1%, Q45 1%, Q167 2%
+	S	Natural Gas Q232 1%, Q171 1%, Q98 1%
+	g	Coal Q168 1%, Q128 1%, Q134 1%
+	f	Gems Q146 1%, Q133 1%, Q77 1%
+	f	Oil Q136 1%, Q55 1%, Q68 1%
+R2	60W-0-60E	MAIN
+	Ice Q29 6%, Q159 16%, Q119 2%
+	Minerals Q66 1%, Q149 1%, Q50 1%
+	Ore Q97 1%, Q151 1%, Q152 1%
+	Stone Q125 2%, Q205 1%, Q119 2%
+R3	60E-180E
+	Radioactives Q138 1%, Q83 1%, Q93 1%
+
+Hydrosphere
+87% Surface Water
+Water in the Environment Q231 87%
+Atmosphere
+Tainted, 41% Density
+Air Q146 41%
+Hydrogen Q112 41%
+Sunlight Q134 70%
+Biosphere
+R1	180W-60W
+	Cheese Q164, Q159, Q141
+	Fish Q169, Q124, Q103
+R2	60W-0-60E	MAIN
+	Animal Carcass Q141, Q219, Q98
+	Beans Q48, Q177, Q82
+	Eggs Q107, Q187, Q190
+	Fruit Q109, Q122, Q59
+	Grain Q61, Q184, Q113
+	Grapes Q108, Q149, Q120
+	Herbs Q42, Q71, Q70
+	Milk Q156, Q225, Q64
+	Spices Q120, Q121, Q96
+	Vegetable Q54, Q202, Q74
+R3	60E-180E
+	Fertilizer Q61, Q78, Q83
+	Hops Q95, Q112, Q195
+	Log Q80, Q119, Q120
+	Nuts Q205, Q139, Q122
+	Plant Fiber Q141, Q24, Q156
+	Vegetation Density Q68, Q68, Q214
+
+Yermanam IVa
+Range 0.883au
+Yermanam IVa
+Inner Zone
+Geosphere
+Moon, 3800m Diameter
+	Ice Q198 1%
+
+	Coal Q77 1%
+	Crystals Q113 1%
+	Eludium Q65 61%
+	Gems Q81 1%
+	Lumenite Q115 1%
+	Minerals Q127 1%
+	Natural Gas Q104 1%
+	Ore Q116 1%
+	Radioactives Q133 1%
+	Stone Q78 1%
+Hydrosphere
+No Surface Water
+Atmosphere
+None
+Sunlight Q152 70%
+Biosphere Potential
+	Vegetation Density Q207
+
+	Animal Carcass Q130
+	Beans Q132
+	Cheese Q163
+	Eggs Q94
+	Fertilizer Q137
+	Fruit Q112
+	Grain Q83
+	Grapes Q135
+	Herbs Q122
+	Hops Q17
+	Log Q104
+	Milk Q81
+	Nuts Q121
+	Plant Fiber Q88
+	Spices Q235
+	Vegetable Q146
+
+
+Yermanam IVb
+Range 0.743au
+Yermanam IVb
+Inner Zone
+Geosphere
+Moon, 1900m Diameter
+	Coal Q78 1%
+	Crystals Q93 1%
+	Eludium Q157 49%
+S	Gems Q231 1%
+	Ice Q169 1%
+	Lumenite Q153 1%
+S	Minerals Q246 1%
+	Natural Gas Q112 1%
+F	Oil Q203 1%
+	Ore Q85 1%
+	Radioactives Q48 1%
+	Stone Q16 1%
+Hydrosphere
+No Surface Water
+Atmosphere
+None
+Sunlight Q42 70%
+Biosphere Potential
+Animal Carcass Q183
+Beans Q73
+Cheese Q175
+Eggs Q149
+Fertilizer Q92
+Fruit Q83
+Grain Q89
+Grapes Q105
+Herbs Q183
+Hops Q194
+Log Q11
+Milk Q214
+Nuts Q152
+Plant Fiber Q129
+Spices Q170
+Vegetable Q76
+Vegetation Density Q91
+
+
+Yermanam V
+Range 0.824au
+Yermanam V
+Habitable Zone
+Geosphere
+Planet, 17000m Diameter
+R1	180W-60W
+	s	Coal Q189 1%, Q146 1%, Q72 1%
+	s	Ore Q174 1%, Q151 1%, Q87 1%
+	s	Radioactives Q168 1%, Q33 1%, Q161 1%
+	s	Stone Q169 2%, Q162 2%, Q121 2%
+R2	60W-0-60E	MAIN
+	g	Crystals Q169 1%, Q177 1%, Q148 1%
+	f	Gems Q91 1%, Q145 2%, Q85 1%
+	g	Oil Q57 1%, Q174 1%, Q78 1%
+R3	60E-180E
+	s	Ice Q82 10%, Q103 1%, Q158 3%
+	s	Minerals Q154 1%, Q118 1%, Q183 2%
+	x	Natural Gas Q39 1%, Q59 1%, Q94 1%
+Hydrosphere
+72% Surface Water
+Water in the Environment Q131 72%
+Atmosphere
+Standard, 74% Density
+Air Q100 74%
+Hydrogen Q107 74%
+Sunlight Q98 50%
+Biosphere
+R1
+f	Fish Q154, Q120, Q104
+f	Grapes Q144, Q69, Q58
+g	Log Q158, Q116, Q120
+g	Milk Q166, Q61, Q124
+
+R2
+F	Fertilizer Q63, Q206, Q92
+g	Nuts Q78, Q171, Q88
+f	Plant Fiber Q74, Q139, Q122
+F	Spices Q47, Q210, Q138
+g	Vegetable Q106, Q183, Q110
+f	Vegetation Density Q56, Q130, Q81
+
+R3
+g	Animal Carcass Q44, Q53, Q162
+F	Beans Q139, Q198, Q212
+S	Cheese Q107, Q61, Q225
+f	Eggs Q112, Q28, Q133
+f	Fruit Q124, Q120, Q154
+F	Grain Q129, Q91, Q217
+f	Herbs Q37, Q30, Q128
+f	Hops Q85, Q131, Q154
+
+
+Yermanam Va
+Range 0.853au
+Yermanam Va
+Habitable Zone
+Geosphere
+Moon, 3800m Diameter
+	Ore Q218 1%
+	Crystals Q214 1%
+	Gems Q192 1%
+	Natural Gas Q171 1%
+	Eludium Q154 21%
+	Radioactives Q125 1%
+	Oil Q103 1%
+	Coal Q64 1%
+	Ice Q125 1%
+	Lumenite Q100 1%
+	Minerals Q74 1%
+	Stone Q157 1%
+Hydrosphere
+No Surface Water
+Atmosphere
+None
+Sunlight Q116 50%
+Biosphere Potential
+Animal Carcass Q131
+Beans Q128
+Cheese Q114
+Eggs Q184
+Fertilizer Q188
+Fruit Q44
+Grain Q186
+Grapes Q105
+Herbs Q62
+Hops Q119
+Log Q46
+Milk Q93
+Nuts Q25
+Plant Fiber Q27
+Spices Q229
+Vegetable Q167
+Vegetation Density Q195
+
+
+Yermanam VI
+Range 8749m
+Yermanam VI
+Outer Zone
+Geosphere
+Planet, 11400m Diameter
+	Crystals Q221 1%, Q87 1%, Q74 1%
+	Radioactives Q207 1%, Q190 1%, Q174 1%
+	Ice Q239 13%, Q158 19%, Q128 7%
+
+	Gems Q164 1%, Q141 1%, Q217 1%
+	Oil Q137 1%, Q130 1%, Q134 1%
+	Stone Q106 1%, Q215 1%, Q74 2%
+	Minerals Q35 1%, Q208 1%, Q132 1%
+
+	Natural Gas Q88 1%, Q121 1%, Q138 1%
+	Ore Q77 1%, Q127 1%, Q100 1%
+	Coal Q74 1%, Q177 1%, Q144 1%
+	Lumenite None, Q71 1%, Q131 1%
+
+Hydrosphere
+36% Surface Water
+Water in the Environment Q80 36%
+Atmosphere
+Exotic, 75% Density
+Air Q68 75%
+Hydrogen Q184 75%
+Sunlight Q163 30%
+Biosphere
+Animal Carcass Q177, Q229, Q121
+Beans Q188, Q63, Q144
+Cheese Q135, Q124, Q18
+Eggs Q73, Q104, Q112
+Fertilizer Q205, Q60, Q113
+Fish Q159, Q107, Q144
+Fruit Q128, Q81, Q143
+Grain Q34, Q147, Q138
+Grapes Q89, Q111, Q236
+Herbs Q103, Q173, Q178
+Hops Q117, Q53, Q142
+Log Q64, Q114, Q190
+Milk Q97, Q145, Q11
+Nuts Q25, Q157, Q150
+Plant Fiber Q137, Q115, Q118
+Spices Q28, Q212, Q128
+Vegetable Q124, Q169, Q155
+Vegetation Density Q51, Q169, Q204
+
+
+Yermanam VII
+Range 10534m
+Yermanam VII
+Frigid Zone
+Geosphere
+Planet, 20800m Diameter
+R1	180W-60W
+	NOTHING
+R2	60W-0-60E
+F	Radioactives Q130 1%, Q220 1%, Q128 1%
+F	Ice Q94 37%, Q217 22%, Q120 14%
+F	Stone Q120 1%, Q217 1%, Q132 1%
+F	Gems Q189 1%, Q216 1%, Q152 1%
+G	Lumenite Q169 1%, Q188 1%, Q118 1%
+G	Bolite Q171 1%, Q172 1%, Q165 1%
+f	Minerals Q101 1%, Q153 1%, Q57 1%
+P	Oil Q53 1%, Q102 1%, Q63 1%
+R3	60E-180E
+	Coal Q71 2%, Q122 1%, Q159 1%
+	Crystals Q79 1%, Q99 1%, Q143 1%
+	Natural Gas Q145 1%, Q212 1%, Q226 1%
+	Ore Q129 1%, Q28 1%, Q214 1%
+	Polytaride None, Q184 1%, Q200 1%
+Hydrosphere
+69% Surface Liquid
+Myrathane Q44 69%
+Atmosphere
+Standard, 69% Density
+Air Q106 69%
+Hydrogen Q217 69%
+Sunlight Q87 10%
+Biosphere Potential
+Animal Carcass Q56, Q199, Q206
+Beans Q136, Q97, Q193
+Cheese Q151, Q116, Q113
+Eggs Q130, Q117, Q107
+Fertilizer Q118, Q44, Q130
+Fruit Q49, Q29, Q97
+Grain Q141, Q80, Q100
+Grapes Q90, Q14, Q189
+Herbs Q89, Q163, Q70
+Hops Q117, Q121, Q101
+Log Q237, Q159, Q155
+Milk Q155, Q141, Q97
+Nuts Q168, Q108, Q104
+Plant Fiber Q34, Q81, Q38
+Spices Q168, Q114, Q97
+Vegetable Q151, Q136, Q22
+Vegetation Density Q213, Q191, Q169
+
+
+Yermanam VIIr
+Range 10534m
+Yermanam VIIr
+Frigid Zone
+Geosphere
+Ring, 22600m Radius
+	Ore Q168 1%
+	Lumenite Q120 1%
+	Gems Q116 1%
+	Ice Q103 1%
+	Crystals Q59 1%
+	Eludium Q39 35%
+	Minerals Q84 1%
+	Radioactives Q87 1%
+	Stone Q58 1%
+
+Yermanam VIII
+Range 40556m
+Yermanam VIII
+Frigid Zone
+Geosphere
+Gas Giant, 72000m Diameter
+Hydrosphere
+No Surface Liquid
+Atmosphere
+Insidious, 95% Density
+Air Q123 95%
+Borexino Precipitate Q150 8%
+Cryozine Q89 5%
+Hydrogen Q110 95%
+Sunlight Q52 10%
+
+
+Yermanam VIIIa
+Range 7790m
+Yermanam VIIIa
+Frigid Zone
+Geosphere
+Large Moon, 9500m Diameter
+R1	180W-60W
+	Ice					Q200 6%, Q140 5%, Q84  5%
+	Lumenite		Q148 1%, Q124 1%, Q64  1%
+R2	60W-0-60E
+	Natural Gas	Q137 1%, Q200 1%, Q171 1%
+	Ore					Q50  1%, Q195 1%, Q97  1%
+	Coal				Q71  1%, Q189 1%, Q96  1%
+	Oil					Q126 1%, Q174 1%, Q90  1%
+	Crystals		Q100 1%, Q171 2%, Q138 1%
+	Minerals		Q141 1%, Q151 1%, Q33  1%
+	Stone				Q54  2%, Q95  2%, Q82  2%
+R3	60E-180E
+	Radioactive Q155 1%, Q139 1%, Q176 1%
+	Gems				Q116 2%, Q85  1%, Q133 1%
+	Bolite			Q83  1%, None   , None
+Hydrosphere
+57% Surface Liquid
+	Myrathane Q132 57%
+Atmosphere
+Exotic, 17% Density
+Air Q50 17%
+Hydrogen Q35 17%
+Sunlight Q198 10%
+Biosphere Potential
+Animal Carcass Q131, Q53, Q163
+Beans Q66, Q148, Q161
+Cheese Q139, Q213, Q121
+Eggs Q203, Q147, Q27
+Fertilizer Q162, Q215, Q126
+Fruit Q79, Q44, Q71
+Grain Q135, Q142, Q145
+Grapes Q121, Q124, Q101
+Herbs Q156, Q80, Q156
+Hops Q196, Q108, Q188
+Log Q75, Q144, Q187
+Milk Q151, Q104, Q211
+Nuts Q137, Q154, Q198
+Plant Fiber Q122, Q175, Q116
+Spices Q103, Q157, Q166
+Vegetable Q93, Q135, Q143
+Vegetation Density Q73, Q160, Q233
+
+
+Yermanam IX
+Range 0.832au
+Yermanam IX
+Frigid Zone
+Geosphere
+Gas Giant, 53000m Diameter
+Hydrosphere
+No Surface Liquid
+Atmosphere
+Exotic, 92% Density
+Air Q85 92%
+Borexino Precipitate Q185 4%
+Cryozine Q185 2%
+Hydrogen Q205 92%
+Sunlight Q128 10%
+
+
+Yermanam IXa
+Range 0.913au
+Yermanam IXa
+Frigid Zone
+Geosphere
+Moon, 3800m Diameter
+	Natural Gas	Q215 1%
+	Ore					Q195 1%
+	
+	Coal				Q155 1%
+	Crystals		Q161 1%
+	Eludium			Q89 48%
+	Gems				Q134 1%
+	Ice					Q120 1%
+	Lumenite		Q58 1%
+	Minerals		Q126 1%
+	Oil					Q17 1%
+	Radioactive	Q128 1%
+	Stone				Q112 1%
+Hydrosphere
+No Surface Liquid
+Atmosphere
+None
+Sunlight Q145 10%
+Biosphere Potential
+	Log Q228
+	Cheese Q228
+	Grapes Q213
+
+	Animal Carcass Q99
+	Beans Q114
+	Eggs Q166
+	Fertilizer Q169
+	Fruit Q166
+	Grain Q115
+	Herbs Q101
+	Hops Q49
+	Milk Q137
+	Nuts Q173
+	Plant Fiber Q130
+	Spices Q167
+	Vegetable Q176
+	Vegetation Density Q168
+
+
+Yermanam X
+Range 4.207au
+Yermanam X
+Frigid Zone
+Geosphere
+Gas Giant, 49200m Diameter
+Hydrosphere
+No Surface Liquid
+Atmosphere
+Corrosive, 97% Density
+
+
+Yermanam Xa
+Range 12494m
+Yermanam Xa
+Frigid Zone
+Geosphere
+Large Moon, 18900m Diameter
+R1	180W-60W
+	Minerals Q236 1%, Q31 1%, Q129 1%
+	Gems Q154 1%, Q97 1%, Q78 1%
+	Polytaride Q129 1%, Q106 1%, Q129 1%
+
+R2	60W-0-60E	MAIN
+	Stone Q190 2%, Q200 1%, Q26 2%
+	Radioactives Q57 1%, Q204 1%, Q112 1%
+	Ice Q160 2%, Q191 14%, Q98 4%
+	Bolite None, Q125 1%, Q83 1%
+	Oil Q91 1%, Q142 2%, Q110 1%
+
+R3	60E-180E
+	Coal			Q201 1%, Q177 1%, Q224 1%
+	Crystals	Q18	 1%, Q139 1%, Q159 1%
+	Lumenite Q105 1%, Q124 1%, Q149 1%
+	Natural Gas Q169 1%, Q121 2%, Q9 1%
+	Ore Q110 1%, Q167 1%, Q179 1%
+
+Hydrosphere
+27% Surface Liquid
+	Myrathane Q38 27%
+Atmosphere
+Corrosive, 95% Density
+	Air Q143 95%
+	Cryozine Q56 3%
+	Hydrogen Q122 95%
+Sunlight Q12 10%
+Biosphere Potential
+Animal Carcass Q215, Q125, Q207
+Beans Q216, Q199, Q34
+Cheese Q189, Q80, Q215
+Eggs Q38, Q154, Q96
+Fertilizer Q111, Q170, Q142
+Fruit Q89, Q240, Q176
+Grain Q33, Q151, Q94
+Grapes Q126, Q196, Q196
+Herbs Q144, Q158, Q69
+Hops Q136, Q32, Q97
+Log Q85, Q205, Q190
+Milk Q42, Q125, Q141
+Nuts Q131, Q96, Q205
+Plant Fiber Q153, Q56, Q191
+Spices Q105, Q113, Q144
+Vegetable Q67, Q139, Q169
+Vegetation Density Q118, Q158, Q105
+
+
+Yermanam Xb
+Range 4928m
+Yermanam Xb
+Frigid Zone
+Geosphere
+Moon, 3800m Diameter
+	Eludium Q187 58%
+	Minerals Q186 1%
+
+	Ice Q145 1%
+	Stone Q128 1%
+	Crystals Q127 1%
+	Coal Q118 1%
+	Natural Gas Q116 1%
+	Lumenite Q105 1%
+	Radioactives Q88 1%
+	Ore Q76 1%
+	Gems Q54 1%
+	Oil Q45 1%
+Hydrosphere
+No Surface Liquid
+Atmosphere
+None
+Sunlight Q158 10%
+Biosphere Potential
+	Vegetable Q253
+	Log Q248
+	Herbs Q206
+	Cheese Q202
+
+	Animal Carcass Q141
+	Beans Q29
+	Eggs Q94
+	Fertilizer Q67
+	Fruit Q189
+	Grain Q166
+	Grapes Q95
+	Hops Q58
+	Milk Q175
+	Nuts Q35
+	Plant Fiber Q193
+	Spices Q40
+	Vegetation Density Q129

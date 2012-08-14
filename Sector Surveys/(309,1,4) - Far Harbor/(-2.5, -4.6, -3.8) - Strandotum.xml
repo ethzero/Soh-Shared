@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<database application="Hazeron Scouter" version="0.3.3.4">
+  <body name="M1 Ia Bright Supergiant Alpha" sectorname="Far Harbor" sectorcoords="309, 1, 4" systemname="Strandotum" systemcoords="-2.5, -4.6, -3.8" designation="Alpha" type="Star" diameter="1.75au" zone="" atmosphere="None" timestamp="12/08/2012 19:33:34" outofrange="True" />
+  <body name="A9 III Giant Beta" sectorname="Far Harbor" sectorcoords="309, 1, 4" systemname="Strandotum" systemcoords="-2.5, -4.6, -3.8" designation="Alpha" type="Star" diameter="0.115au" zone="" atmosphere="None" timestamp="12/08/2012 19:33:34" outofrange="True" />
+  <body name="Strandotum Alpha I" sectorname="Far Harbor" sectorcoords="309, 1, 4" systemname="Strandotum" systemcoords="-2.5, -4.6, -3.8" designation="Alpha" type="Planet" diameter="22700m" zone="Inferno" atmosphere="Standard" timestamp="12/08/2012 19:33:34" outofrange="True" />
+  <body name="Strandotum Alpha Ia" sectorname="Far Harbor" sectorcoords="309, 1, 4" systemname="Strandotum" systemcoords="-2.5, -4.6, -3.8" designation="Alpha" type="Moon" diameter="3800m" zone="Inferno" atmosphere="None" timestamp="12/08/2012 19:33:34" outofrange="True" />
+  <body name="Strandotum Alpha II" sectorname="Far Harbor" sectorcoords="309, 1, 4" systemname="Strandotum" systemcoords="-2.5, -4.6, -3.8" designation="Alpha" type="Planet" diameter="11400m" zone="Inferno" atmosphere="Tainted" timestamp="12/08/2012 19:33:34" outofrange="False">
+    <res name="Crystals">Q98 1%, Q59 2%, Q69 1%</res>
+    <res name="Gems">Q219 2%, Q105 1%, Q119 1%</res>
+    <res name="Minerals">Q116 2%, Q199 1%, Q75 2%</res>
+    <res name="Ore">Q207 1%, Q188 1%, Q126 1%</res>
+    <res name="Phlogiston">None, Q93 1%, None</res>
+    <res name="Radioactives">Q159 1%, Q104 2%, Q169 1%</res>
+    <res name="Stone">Q196 2%, Q47 2%, Q214 2%</res>
+    <res name="Vulcanite">Q177 1%, None, Q140 1%</res>
+    <res name="Magmex">Q103 42%</res>
+    <res name="Air">Q179 78%</res>
+    <res name="Hydrogen">Q132 78%</res>
+    <res name="Ioplasma">Q184 1%</res>
+    <res name="Sunlight">Q181 90%</res>
+    <res name="Animal Carcass">Q191, Q64, Q70</res>
+    <res name="Beans">Q125, Q205, Q132</res>
+    <res name="Cheese">Q32, Q203, Q232</res>
+    <res name="Eggs">Q48, Q109, Q143</res>
+    <res name="Fertilizer">Q74, Q143, Q45</res>
+    <res name="Fruit">Q110, Q135, Q213</res>
+    <res name="Grain">Q134, Q250, Q73</res>
+    <res name="Grapes">Q139, Q133, Q200</res>
+    <res name="Herbs">Q151, Q187, Q172</res>
+    <res name="Hops">Q110, Q63, Q149</res>
+    <res name="Log">Q142, Q104, Q121</res>
+    <res name="Milk">Q125, Q111, Q146</res>
+    <res name="Nuts">Q178, Q88, Q154</res>
+    <res name="Plant Fiber">Q95, Q164, Q35</res>
+    <res name="Spices">Q58, Q134, Q78</res>
+    <res name="Vegetable">Q133, Q66, Q50</res>
+    <res name="Vegetation Density">Q128, Q119, Q86</res>
+  </body>
+  <body name="Strandotum Alpha IIa" sectorname="Far Harbor" sectorcoords="309, 1, 4" systemname="Strandotum" systemcoords="-2.5, -4.6, -3.8" designation="Alpha" type="Moon" diameter="1900m" zone="Inferno" atmosphere="No Atmosphere" timestamp="12/08/2012 19:33:34" outofrange="False">
+    <res name="Crystals">Q185 1%</res>
+    <res name="Eludium">Q37 44%</res>
+    <res name="Gems">Q42 1%</res>
+    <res name="Minerals">Q148 1%</res>
+    <res name="Ore">Q118 1%</res>
+    <res name="Radioactives">Q90 1%</res>
+    <res name="Stone">Q200 1%</res>
+    <res name="Sunlight">Q89 90%</res>
+    <res name="Animal Carcass">Q170</res>
+    <res name="Beans">Q136</res>
+    <res name="Cheese">Q57</res>
+    <res name="Eggs">Q158</res>
+    <res name="Fertilizer">Q112</res>
+    <res name="Fruit">Q180</res>
+    <res name="Grain">Q148</res>
+    <res name="Grapes">Q78</res>
+    <res name="Herbs">Q145</res>
+    <res name="Hops">Q208</res>
+    <res name="Log">Q210</res>
+    <res name="Milk">Q135</res>
+    <res name="Nuts">Q112</res>
+    <res name="Plant Fiber">Q48</res>
+    <res name="Spices">Q58</res>
+    <res name="Vegetable">Q121</res>
+    <res name="Vegetation Density">Q151</res>
+  </body>
+  <body name="Strandotum Alpha IIb" sectorname="Far Harbor" sectorcoords="309, 1, 4" systemname="Strandotum" systemcoords="-2.5, -4.6, -3.8" designation="Alpha" type="Moon" diameter="3800m" zone="Inferno" atmosphere="No Atmosphere" timestamp="12/08/2012 19:33:34" outofrange="False">
+    <res name="Crystals">Q206 1%</res>
+    <res name="Eludium">Q200 59%</res>
+    <res name="Gems">Q148 1%</res>
+    <res name="Minerals">Q188 1%</res>
+    <res name="Ore">Q167 1%</res>
+    <res name="Radioactives">Q115 1%</res>
+    <res name="Stone">Q134 1%</res>
+    <res name="Sunlight">Q199 90%</res>
+    <res name="Animal Carcass">Q116</res>
+    <res name="Beans">Q66</res>
+    <res name="Cheese">Q45</res>
+    <res name="Eggs">Q104</res>
+    <res name="Fertilizer">Q157</res>
+    <res name="Fruit">Q81</res>
+    <res name="Grain">Q141</res>
+    <res name="Grapes">Q108</res>
+    <res name="Herbs">Q85</res>
+    <res name="Hops">Q158</res>
+    <res name="Log">Q49</res>
+    <res name="Milk">Q130</res>
+    <res name="Nuts">Q210</res>
+    <res name="Plant Fiber">Q135</res>
+    <res name="Spices">Q121</res>
+    <res name="Vegetable">Q63</res>
+    <res name="Vegetation Density">Q139</res>
+  </body>
+</database>

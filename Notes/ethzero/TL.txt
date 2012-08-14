@@ -1,0 +1,626 @@
+FOCUS
+Computers - TL11
+11	15	Electronics
+15	15	Metal
+11	11	Plastics
+
+
+
+TL		All Things
+
+20		University
+20		Well
+17-18	*Mine
+15		Electronics Factory
+16		Smelter
+15		Machine Shop
+15		Refinery
+14		Treatment Plant
+14		Weapon Smith
+13		Spacecraft Factory
+12		Textile Mill
+11		Computer Factory
+11		Plastics Factory
+11		Pharmaceutical Lab
+7-8		Airport Repair Shop
+7			Laser Tower Base
+7			Missle Base
+1-7		Fire Station
+6			Shield Generator Base
+2-5			Hospital
+4			Broker
+4			Carpenter
+1-4		Condominium
+1-4		Farm
+3			Grocery
+3			Bank
+3			Retail Store
+1-3		Aircraft Factory
+2			Hydroelectric Power Plant
+2			Police Station
+1-2		Warehouse
+
+1			Aircraft Terminal
+1			Armorer
+1			Capitol
+1			Casino
+1			Clothing Factory
+1			Design Studio
+1			Grist Mill
+1			Munitions Factory
+1			Park
+1			Road
+1			Sugar Mill
+1			Town Square
+1			Zoo
+
+1			Arena
+1			Bakery
+1			Brewery
+1			Cantina
+1			Church
+1			Coal Power Plant
+1			Distillery
+1			Explosives Factory
+1			Lumber Mill
+1			Meat Processing Plant
+1			Orchard
+1			Rocket Motor Factory
+1			Ship Yard
+1			Vehicle Factory
+1			Wharf
+
+
+Hera
+Yermanam I, Planet, 20800m dia, F6 V Main Sequence, Inferno zone
+Joe Halo Sector (313,1,-4)
+63.70°E 24.66°S
+
+DECAY
+Summary of decay in the past 72 hours.
+1 Apartment
+1 Mine
+3 Retail Store
+11 Road
+2 Solar Power Plant
+
+MORALE
+-1 Harsh Environment Penalty.
++2 Food Variety Bonus. 10 food types.
+-1 penalty, 21% Unemployment. More jobs needed.
++1 Cantina bonus.
++2 Church bonus.
+-1 penalty, Park wanted.
+Morale remained steady at 20.
+
+POPULATION
+Harsh environment reduces immigration.
+Lack of homes prevented 10 people from immigrating.
+Loyalty is 27%.
+Population remained steady at 1008.
+
+LIVING CONDITIONS
+Jobs 798
+Non-Construction 798
+Construction 0
+Homes 1008
+Apartments 0
+Condominiums 1008
+Farms 0
+Houses 0
+Orchards 0
+Food 66951
+
+POWER RESERVE
+91% Capacity
+Reserve Power 73112
+Reserve Capacity 79480
+
+BALANCE SHEET
+Bank Vault Storage Capacity 4,000,000¢
+Previous Tribute 477¢
+
+Starting Balance
+
+
+1,193¢
+Income
+
+
+
+
+Income Tax
+11,612¢
+
+
+Sales Tax
+7,664¢
+
+
+Sub Total
+
+19,277¢
+Expenses
+
+
+
+
+Research and Development
+19,440¢
+
+
+Sub Total
+
+-19,440¢
+Current Balance
+
+
+1,030¢
+
+
+RESEARCH AND DEVELOPMENT
+
+Technology
+Processes
+Pharmaceutical Lab Technology
+24
+
+
+FACILITIES
+
+Name
+TL
+Levels
+
+Name
+TL
+Levels
+Airport Terminal
+1
+1
+
+Arena
+1
+7
+Bank
+3
+4
+
+Broker
+4
+24
+Cantina
+1
+24
+
+Casino
+1
+9
+Church
+1
+24
+
+Condominium
+1
+336
+Fire Station
+1
+50
+
+Grocery
+3
+24
+Hospital
+2
+24
+
+Laser Tower Base
+7
+1
+Mine
+20
+4
+
+Park
+1
+10
+Pharmaceutical Lab
+17
+8
+
+Police Station
+2
+51
+Refinery
+14
+40
+
+Retail Store
+2
+24
+Road
+1
+154
+
+Smelter
+20
+56
+Solar Power Plant
+1
+60
+
+Town Square
+1
+1
+Treatment Plant
+12-14
+189
+
+University
+20
+33
+Warehouse
+1
+8
+
+Well
+1
+2
+Wind Power Plant
+1
+9
+
+Zoo
+1
+7
+
+
+INVENTORY
+Storage Capacity Per Commodity 47280
+
+Food and Drinks
+
+?Beans
+2523 TL4 Q122
+?Bread
+369 Q164
+?Fish
+4 Q154
+653 Q104
+?Flour
+220 Q119
+?Grapes
+120 TL4 Q118
+?Nuts
+5496 TL4 Q121
+10 TL2 Q196
+?Spices
+8570 TL2 Q196
+?Sugar
+3958 Q125
+?Vegetable
+5853 TL4 Q122
+11 TL2 Q198
+?Water
+38884 TL14 Q231
+
+
+Tools
+
+?Clamp
+439 TL5 Q151
+?Fitting Wrench
+331 TL5 Q151
+?Glue Gun
+377 TL3 Q194
+?Hammer
+44576 TL4 Q217
+?Knife
+847 TL2 Q133
+?Microscope
+14 TL3 Q168
+178 TL3 Q167
+?Oscilloscope
+68 TL3 Q141
+157 TL3 Q140
+21 TL3 Q137
+38 TL3 Q136
+?Pliers
+11089 TL5 Q151
+?Screw Driver
+2293 TL5 Q151
+?Sewing Needle
+43524 TL2 Q116
+?Shovel
+43487 TL2 Q116
+?Soldering Iron
+7073 TL3 Q194
+?Tongs
+6058 TL5 Q151
+?Torque Wrench
+2310 TL5 Q151
+?Wrench
+2979 TL5 Q151
+
+
+Construction Materials
+Spare Parts and Fuel
+
+?Air
+946 TL14 Q176
+?Coal
+30357 TL20 Q224
+?Cryo Heat Sink
+290 TL5 Q87
+?Electronic Part
+3 TL14 Q190
+29 TL14 Q177
+716 TL14 Q166
+128 TL14 Q163
+70 TL13 Q164
+7 TL11 Q166
+52 TL11 Q163
+9 TL7 Q176
+5 TL7 Q163
+59 TL7 Q152
+13 TL7 Q150
+?Flag
+2034 Q120
+?Gasoline
+44710 TL14 Q110
+?Grav Coupling
+5 TL12 Q111
+371 TL3 Q139
+?Heavy Weapon
+253 TL14 Q218
+26 TL14 Q213
+393 TL14 Q199
+34 TL14 Q195
+36 TL14 Q159
+?Hydrogen
+400 TL15 Q112
+560 TL14 Q107
+?Io Tube
+210 TL7 Q151
+?Large Rocket Motor
+172 Q173
+10 Q159
+15 Q151
+?Log
+43518 TL2 Q116
+?Lumber
+2784 Q116
+?Lumenite
+15155 TL7 Q100
+?Magmium
+47278 TL14 Q212
+?Mechanical Part
+822 TL16 Q195
+340 TL16 Q151
+23 TL15 Q195
+?Metal
+261 TL20 Q195
+481 TL19 Q151
+68 TL18 Q218
+9 TL18 Q151
+34 TL17 Q151
+68 TL7 Q218
+28 TL7 Q151
+?Myrasplicer
+371 TL14 Q132
+239 TL13 Q132
+?Natural Gas
+4909 TL20 Q232
+56 TL20 Q200
+90 TL20 Q171
+371 TL2 Q232
+117 TL2 Q9
+374 Q232
+?Oil
+1393 TL14 Q110
+49 TL13 Q103
+304 TL13 Q102
+162 TL7 Q55
+?Plastic
+35 TL14 Q110
+45 TL11 Q110
+3 TL7 Q55
+?Radioactives
+679 TL20 Q207
+287 TL20 Q161
+352 TL18 Q207
+40 TL16 Q125
+798 TL15 Q112
+120 TL11 Q83
+293 TL8 Q60
+120 TL7 Q207
+37 TL7 Q125
+38 TL7 Q83
+?Stone
+22255 TL20 Q217
+?Textiles
+43703 TL2 Q163
+?Vulcium
+529 TL20 Q208
+206 TL19 Q208
+33 TL15 Q114
+
+
+Medical
+
+?Antidote
+332 TL4 Q117
+?Medical Kit
+1146 TL2 Q175
+
+
+Armor and Clothing
+
+?Environment Suit
+24 TL2 Q138
+37 TL2 Q137
+27 TL2 Q135
+8 TL2 Q120
+111 TL2 Q118
+32 TL2 Q114
+41 TL2 Q109
+42 TL2 Q108
+6 TL2 Q106
+22 TL2 Q89
+?Environment Suit Helmet
+42 TL2 Q153
+2 TL2 Q150
+2 TL2 Q149
+198 TL2 Q148
+162 TL2 Q147
+13 TL2 Q145
+100 TL2 Q144
+7 TL2 Q143
+13 TL2 Q134
+41 TL2 Q133
+34 TL2 Q132
+
+
+Weapons and Ammunition
+
+?Rifle
+170 TL3 Q218
+94 TL3 Q151
+17 Q218
+
+
+Miscellaneous
+
+?Blank Disk
+13545 TL8 Q151
+?Command And Control Module
+14 TL2 Q150
+6 TL2 Q149
+7 TL2 Q146
+42 TL2 Q145
+55 TL2 Q144
+14 TL2 Q143
+8 TL2 Q138
+34 TL2 Q137
+?Crate
+14 Q153
+731 Q116
+?Cryozine
+8629 TL8 Q56
+?Crystals
+43731 TL20 Q211
+?Eludium
+17956 TL20 Q211
+?Gem Ring
+393 Q147
+?Gems
+3304 TL20 Q231
+231 TL19 Q145
+189 TL17 Q133
+43 TL11 Q85
+312 TL7 Q231
+32 TL7 Q192
+?Hay
+217 TL2 Q173
+93 TL2 Q115
+?Hops
+2300 TL4 Q120
+?Ice
+16680 TL20 Q217
+33 TL20 Q158
+257 TL13 Q98
+?Magmex
+28586 TL14 Q212
+30 TL13 Q212
+27 TL12 Q212
+?Minerals
+58 TL20 Q246
+329 TL20 Q194
+1751 TL20 Q183
+71 TL20 Q153
+61 TL17 Q149
+280 TL17 Q129
+66 TL15 Q118
+780 TL7 Q246
+111 TL7 Q149
+?Myrathane
+33033 TL14 Q132
+?Ore
+10 TL20 Q218
+14 TL20 Q195
+38 TL18 Q218
+44 TL7 Q218
+?Paper
+191 Q153
+1481 Q116
+?Petrochemicals
+152 TL14 Q110
+16 TL13 Q102
+16 TL7 Q55
+?Pharmaceuticals
+88 TL17 Q246
+787 TL17 Q194
+1628 TL17 Q183
+26 TL17 Q153
+26 TL17 Q149
+113 TL17 Q129
+5 TL16 Q194
+27 TL16 Q183
+25 TL15 Q118
+15 TL9 Q66
+152 TL7 Q246
+3 TL7 Q149
+?Plant Fiber
+10469 TL2 Q163
+439 Q120
+?Vulcanite
+684 TL15 Q114
+
+
+Technology
+
+?Airport Repair Shop Technology
+10 TL7
+14 TL6
+8 TL5
+8 TL4
+14 TL3
+?Carpenter Technology
+10 TL2
+?Electronics Factory Technology
+28 TL9
+5 TL5
+29 TL4
+?Laser Tower Base Technology
+5 TL6
+21 TL3
+19 TL2
+?Mine Technology
+86 TL7
+56 TL6
+?Missile Base Technology
+10 TL7
+?Pharmaceutical Lab Technology
+1 TL15
+10 TL13
+9 TL10
+14 TL9
+5 TL7
+10 TL6
+?Refinery Technology
+8 TL2
+?Shield Generator Base Technology
+10 TL6
+28 TL5
+10 TL4
+10 TL3
+?Smelter Technology
+12 TL17
+10 TL16
+16 TL15
+22 TL14
+10 TL13
+?Treatment Plant Technology
+14 TL12
+16 TL9
+

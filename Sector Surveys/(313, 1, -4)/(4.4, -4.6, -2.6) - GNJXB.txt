@@ -1,0 +1,26 @@
+20/11/2011 09:35:45
+
+Wormholes
+BNJXB
+CNJXB
+SSAGC
+VBSDC
+
+
+SN Ixor
+Traveling through space.
+Novus Fontis TNWCEO, TL17harvest class Subsidized Streamlined Starship, TL17, 12,766m³, 37430/38350 hp
+System GNJXB (4.4, -4.6, -2.6)
+Joe Halo Sector (313, 1, -4)
+
+System Survey of System GNJXB
+
+M0 V Main Sequence
+Primary
+  Type M Red
+  Spectral Class 0
+  Size V Main Sequence
+  Habitable Zone at 0.25au
+Photosphere
+  0.095au Diameter
+  Type M Preons Q152 5%

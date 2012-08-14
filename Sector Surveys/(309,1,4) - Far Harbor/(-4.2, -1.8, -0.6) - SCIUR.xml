@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<database application="Hazeron Scouter" version="0.3.3.4">
+  <body name="M7 V Main Sequence" sectorname="Far Harbor" sectorcoords="309, 1, 4" systemname="SCIUR" systemcoords="-4.2, -1.8, -0.6" designation="" type="Star" diameter="0.085au" zone="" atmosphere="" timestamp="12/08/2012 20:23:10" outofrange="False">
+    <res name="Type M Preons">Q118 5%</res>
+  </body>
+  <body name="System SCIUR I" sectorname="Far Harbor" sectorcoords="309, 1, 4" systemname="SCIUR" systemcoords="-4.2, -1.8, -0.6" designation="" type="Gas Giant" diameter="49200m" zone="Outer" atmosphere="Corrosive" timestamp="12/08/2012 20:23:10" outofrange="False">
+    <res name="Air">Q135 97%</res>
+    <res name="Borexino Precipitate">Q62 1%</res>
+    <res name="Hydrogen">Q214 97%</res>
+    <res name="Sunlight">Q66 30%</res>
+  </body>
+  <body name="System SCIUR Ia" sectorname="Far Harbor" sectorcoords="309, 1, 4" systemname="SCIUR" systemcoords="-4.2, -1.8, -0.6" designation="" type="Moon" diameter="3800m" zone="Outer" atmosphere="No Atmosphere" timestamp="12/08/2012 20:23:10" outofrange="False">
+    <res name="Coal">Q72 1%</res>
+    <res name="Crystals">Q154 1%</res>
+    <res name="Eludium">Q29 52%</res>
+    <res name="Gems">Q142 1%</res>
+    <res name="Ice">Q89 1%</res>
+    <res name="Minerals">Q68 1%</res>
+    <res name="Natural Gas">Q87 1%</res>
+    <res name="Oil">Q119 1%</res>
+    <res name="Ore">Q186 1%</res>
+    <res name="Radioactives">Q249 1%</res>
+    <res name="Stone">Q54 1%</res>
+    <res name="Sunlight">Q228 30%</res>
+    <res name="Animal Carcass">Q210</res>
+    <res name="Beans">Q121</res>
+    <res name="Cheese">Q159</res>
+    <res name="Eggs">Q131</res>
+    <res name="Fertilizer">Q152</res>
+    <res name="Fruit">Q71</res>
+    <res name="Grain">Q126</res>
+    <res name="Grapes">Q187</res>
+    <res name="Herbs">Q213</res>
+    <res name="Hops">Q115</res>
+    <res name="Log">Q111</res>
+    <res name="Milk">Q34</res>
+    <res name="Nuts">Q60</res>
+    <res name="Plant Fiber">Q152</res>
+    <res name="Spices">Q97</res>
+    <res name="Vegetable">Q148</res>
+    <res name="Vegetation Density">Q38</res>
+  </body>
+  <body name="System SCIUR Ib" sectorname="Far Harbor" sectorcoords="309, 1, 4" systemname="SCIUR" systemcoords="-4.2, -1.8, -0.6" designation="" type="Moon" diameter="3800m" zone="Outer" atmosphere="No Atmosphere" timestamp="12/08/2012 20:23:10" outofrange="False">
+    <res name="Coal">Q71 1%</res>
+    <res name="Crystals">Q175 1%</res>
+    <res name="Eludium">Q193 63%</res>
+    <res name="Gems">Q120 1%</res>
+    <res name="Ice">Q119 1%</res>
+    <res name="Lumenite">Q105 1%</res>
+    <res name="Minerals">Q203 1%</res>
+    <res name="Natural Gas">Q207 1%</res>
+    <res name="Oil">Q192 1%</res>
+    <res name="Ore">Q217 1%</res>
+    <res name="Radioactives">Q78 1%</res>
+    <res name="Stone">Q116 1%</res>
+    <res name="Sunlight">Q83 30%</res>
+    <res name="Animal Carcass">Q157</res>
+    <res name="Beans">Q180</res>
+    <res name="Cheese">Q147</res>
+    <res name="Eggs">Q204</res>
+    <res name="Fertilizer">Q70</res>
+    <res name="Fruit">Q101</res>
+    <res name="Grain">Q119</res>
+    <res name="Grapes">Q90</res>
+    <res name="Herbs">Q153</res>
+    <res name="Hops">Q193</res>
+    <res name="Log">Q205</res>
+    <res name="Milk">Q157</res>
+    <res name="Nuts">Q29</res>
+    <res name="Plant Fiber">Q241</res>
+    <res name="Spices">Q32</res>
+    <res name="Vegetable">Q218</res>
+    <res name="Vegetation Density">Q155</res>
+  </body>
+  <body name="System SCIUR Ic" sectorname="Far Harbor" sectorcoords="309, 1, 4" systemname="SCIUR" systemcoords="-4.2, -1.8, -0.6" designation="" type="Moon" diameter="3800m" zone="Outer" atmosphere="No Atmosphere" timestamp="12/08/2012 20:23:10" outofrange="False">
+    <res name="Coal">Q72 1%</res>
+    <res name="Crystals">Q134 1%</res>
+    <res name="Eludium">Q121 33%</res>
+    <res name="Gems">Q163 1%</res>
+    <res name="Ice">Q188 1%</res>
+    <res name="Lumenite">Q181 1%</res>
+    <res name="Minerals">Q187 1%</res>
+    <res name="Natural Gas">Q95 1%</res>
+    <res name="Oil">Q174 1%</res>
+    <res name="Ore">Q155 1%</res>
+    <res name="Radioactives">Q164 1%</res>
+    <res name="Stone">Q121 1%</res>
+    <res name="Sunlight">Q119 30%</res>
+    <res name="Animal Carcass">Q136</res>
+    <res name="Beans">Q191</res>
+    <res name="Cheese">Q173</res>
+    <res name="Eggs">Q58</res>
+    <res name="Fertilizer">Q108</res>
+    <res name="Fruit">Q169</res>
+    <res name="Grain">Q132</res>
+    <res name="Grapes">Q157</res>
+    <res name="Herbs">Q147</res>
+    <res name="Hops">Q36</res>
+    <res name="Log">Q145</res>
+    <res name="Milk">Q166</res>
+    <res name="Nuts">Q91</res>
+    <res name="Plant Fiber">Q192</res>
+    <res name="Spices">Q34</res>
+    <res name="Vegetable">Q78</res>
+    <res name="Vegetation Density">Q177</res>
+  </body>
+</database>
