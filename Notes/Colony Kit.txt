@@ -1,0 +1,52 @@
+Colony Kits
+===========
+
+This document give guidance to the quantity of materials required for intra- and extra-system colonisation.
+
+
+
+Intra-System
+------------
+
+Intra-system (IS) colonisation is the colonisation of additional Planets beyond the already established "home" planet or first colonised planet of a system. 
+
+
+"IS" colonisation requires the least amount of supplies & material as the kit's prime function is to give the planet's ability to import further materials.
+
+This kit will provide for:
+	* Town square
+	* Airport & Broker to transfer Goods
+
+Bill of Materials
+
+	5	Hammer	(-2)
+	5	Soldering Iron	(-2)
+
+	1	Flag	
+	20	Electronic Part	(-1)
+	20	Mechanical Part	(-41,-11)
+
+	100	Metal	(-18)
+	30	Plastic	(-4)
+	300	Stone	(-34,+20)
+	100	Textiles	(-50,-30)
+= 10,000 - 163
+
+
+Bootstraping Tasks:
+	Build Town Square, and a single level Broker & Airport
+	Wait patiently for a few ticks of cargo to import
+
+	Condo, Bank & University.
+	Optional production of locally sustainable 
+
+	Locally process target raw materials (Magmex > Magmium)
+	Locally produce limited qualities of lower QL materials
+
+
+
+Extra-System Colony Kit
+-----------------------
+
+** WORK IN PROGRESS ***
+

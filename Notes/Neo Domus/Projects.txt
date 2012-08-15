@@ -1,0 +1,19 @@
+Neo Domus Sector
+================
+
+
+Neo Domus VIIb
+--------------
+
+ethzero [2012-08-15]:
+* Built Aircraft Repair Factory
+
+* Bumped Petrochemical (PC) TL [@159.63W 13.84N] by increasing existing Refinery building to crank out 1 lane of TL disk production
+
+* Changed 4 to lanes of a Tl30 Refinery [@159.05W 13.18N] to Petrochemicals
+
+
+
+* When PC=>TL2 this will flow to Plastics and aide repair to TL2 ships (e.g. BTAI Aurora MK1)
+
+

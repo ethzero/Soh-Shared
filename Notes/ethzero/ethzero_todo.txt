@@ -1,0 +1,13 @@
+Current task:
+
+Neo Domus VIIa
+
+	Houses
+	Eludium
+	Power
+	= Luminite
+	  177.93E	7.49N
+	  77.55E	19.12N
+	  38.89E	42.00S
+	* 92.75W	53.19N
+

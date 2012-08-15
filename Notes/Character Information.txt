@@ -1,0 +1,25 @@
+Character Information
+=====================
+
+This document lists all our login account accounts name and associated avatar name & IDs
+It'll be particularly useful when you inevitability get limbo'ed
+
+P=Primary;	This the notional account that is most used
+L=Limbo'ed;	*sigh* we've all been there
+M=Marooned; When a spawn recall dumps you on a random planet or your Empire no longer exists
+
+ethzero
+L	??????	Gareth Gobblecoque
+LP	??????	ethzero
+L	??????	ethone
+L	??????	ethtwo
+L	??????	eththree
+L	??????	ethfour
+
+eth0
+MP	NRWKIR	eth0
+M	YDEIKR	Aphrodite		Originally marooned on Olympia, captured Planet as city showed signs of initial decay
+M	IIXNKR	Myrrha
+M	PPYYXSR	Galatea
+
+

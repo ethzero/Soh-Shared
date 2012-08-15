@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<database application="Hazeron Scouter" version="0.3.3.4">
+  <body name="F0 IV Subgiant" sectorname="Mental" sectorcoords="309, 0, 4" systemname="XAIUR" systemcoords="-3.1, 4.6, 0.6" designation="" type="Star" diameter="0.115au" zone="" atmosphere="" timestamp="12/08/2012 19:56:27" outofrange="False">
+    <res name="Type F Preons">Q36 5%</res>
+  </body>
+  <body name="System XAIUR I" sectorname="Mental" sectorcoords="309, 0, 4" systemname="XAIUR" systemcoords="-3.1, 4.6, 0.6" designation="" type="Planet" diameter="17000m" zone="Inferno" atmosphere="Corrosive" timestamp="12/08/2012 19:56:27" outofrange="False">
+    <res name="Crystals">Q91 1%, Q51 1%, Q146 1%</res>
+    <res name="Gems">Q110 1%, Q165 1%, Q125 1%</res>
+    <res name="Minerals">Q90 2%, Q109 1%, Q63 1%</res>
+    <res name="Ore">Q83 1%, Q158 1%, Q141 1%</res>
+    <res name="Phlogiston">Q177 1%, Q78 1%, Q99 1%</res>
+    <res name="Radioactives">Q135 1%, Q180 1%, Q61 1%</res>
+    <res name="Stone">Q247 2%, Q148 2%, Q147 2%</res>
+    <res name="Vulcanite">Q37 1%, None, Q107 1%</res>
+    <res name="Magmex">Q56 61%</res>
+    <res name="Air">Q152 30%</res>
+    <res name="Hydrogen">Q103 30%</res>
+    <res name="Ioplasma">Q210 1%</res>
+    <res name="Sunlight">Q81 90%</res>
+    <res name="Animal Carcass">Q162, Q98, Q63</res>
+    <res name="Beans">Q240, Q127, Q146</res>
+    <res name="Cheese">Q86, Q94, Q163</res>
+    <res name="Eggs">Q101, Q194, Q82</res>
+    <res name="Fertilizer">Q142, Q208, Q199</res>
+    <res name="Fruit">Q219, Q159, Q143</res>
+    <res name="Grain">Q139, Q79, Q38</res>
+    <res name="Grapes">Q112, Q218, Q88</res>
+    <res name="Herbs">Q170, Q52, Q162</res>
+    <res name="Hops">Q129, Q101, Q138</res>
+    <res name="Log">Q134, Q110, Q82</res>
+    <res name="Milk">Q98, Q84, Q118</res>
+    <res name="Nuts">Q203, Q188, Q143</res>
+    <res name="Plant Fiber">Q166, Q181, Q107</res>
+    <res name="Spices">Q202, Q136, Q89</res>
+    <res name="Vegetable">Q159, Q142, Q203</res>
+    <res name="Vegetation Density">Q85, Q72, Q197</res>
+  </body>
+  <body name="System XAIUR Ia" sectorname="Mental" sectorcoords="309, 0, 4" systemname="XAIUR" systemcoords="-3.1, 4.6, 0.6" designation="" type="Moon" diameter="3800m" zone="Inferno" atmosphere="No Atmosphere" timestamp="12/08/2012 19:56:27" outofrange="False">
+    <res name="Crystals">Q198 1%</res>
+    <res name="Eludium">Q44 58%</res>
+    <res name="Gems">Q107 1%</res>
+    <res name="Minerals">Q36 1%</res>
+    <res name="Ore">Q204 1%</res>
+    <res name="Radioactives">Q234 1%</res>
+    <res name="Stone">Q186 1%</res>
+    <res name="Sunlight">Q228 90%</res>
+    <res name="Animal Carcass">Q215</res>
+    <res name="Beans">Q53</res>
+    <res name="Cheese">Q99</res>
+    <res name="Eggs">Q157</res>
+    <res name="Fertilizer">Q97</res>
+    <res name="Fruit">Q63</res>
+    <res name="Grain">Q145</res>
+    <res name="Grapes">Q209</res>
+    <res name="Herbs">Q103</res>
+    <res name="Hops">Q49</res>
+    <res name="Log">Q167</res>
+    <res name="Milk">Q102</res>
+    <res name="Nuts">Q233</res>
+    <res name="Plant Fiber">Q206</res>
+    <res name="Spices">Q139</res>
+    <res name="Vegetable">Q89</res>
+    <res name="Vegetation Density">Q96</res>
+  </body>
+  <body name="System XAIUR II" sectorname="Mental" sectorcoords="309, 0, 4" systemname="XAIUR" systemcoords="-3.1, 4.6, 0.6" designation="" type="Planet" diameter="18900m" zone="Inferno" atmosphere="Standard" timestamp="12/08/2012 19:56:27" outofrange="False">
+    <res name="Crystals">Q137 1%, Q7 1%, Q22 1%</res>
+    <res name="Gems">Q20 1%, Q141 1%, Q137 1%</res>
+    <res name="Minerals">Q66 1%, Q155 1%, Q233 1%</res>
+    <res name="Ore">Q136 1%, Q82 2%, Q162 1%</res>
+    <res name="Phlogiston">None, None, Q254 1%</res>
+    <res name="Radioactives">Q92 1%, Q153 1%, Q111 1%</res>
+    <res name="Stone">Q128 2%, Q32 2%, Q59 2%</res>
+    <res name="Vulcanite">Q170 1%, Q60 1%, None</res>
+    <res name="Magmex">Q100 89%</res>
+    <res name="Air">Q245 64%</res>
+    <res name="Hydrogen">Q190 64%</res>
+    <res name="Sunlight">Q24 90%</res>
+    <res name="Animal Carcass">Q119, Q167, Q140</res>
+    <res name="Beans">Q134, Q129, Q114</res>
+    <res name="Cheese">Q137, Q49, Q129</res>
+    <res name="Eggs">Q193, Q70, Q123</res>
+    <res name="Fertilizer">Q219, Q141, Q106</res>
+    <res name="Fruit">Q103, Q63, Q124</res>
+    <res name="Grain">Q36, Q78, Q164</res>
+    <res name="Grapes">Q116, Q141, Q204</res>
+    <res name="Herbs">Q158, Q189, Q129</res>
+    <res name="Hops">Q197, Q41, Q59</res>
+    <res name="Log">Q143, Q161, Q187</res>
+    <res name="Milk">Q117, Q154, Q125</res>
+    <res name="Nuts">Q197, Q198, Q143</res>
+    <res name="Plant Fiber">Q69, Q146, Q40</res>
+    <res name="Spices">Q204, Q80, Q218</res>
+    <res name="Vegetable">Q133, Q92, Q22</res>
+    <res name="Vegetation Density">Q130, Q172, Q175</res>
+  </body>
+  <body name="System XAIUR IIar (1)" sectorname="Mental" sectorcoords="309, 0, 4" systemname="XAIUR" systemcoords="-3.1, 4.6, 0.6" designation="" type="Ring" diameter="60500m" zone="Inferno" atmosphere="" timestamp="12/08/2012 19:56:27" outofrange="False">
+    <res name="Crystals">Q118 1%</res>
+    <res name="Eludium">Q156 41%</res>
+    <res name="Gems">Q195 1%</res>
+    <res name="Lumenite">Q171 1%</res>
+    <res name="Minerals">Q181 1%</res>
+    <res name="Ore">Q58 1%</res>
+    <res name="Radioactives">Q143 1%</res>
+    <res name="Stone">Q66 1%</res>
+    <res name="Antiflux Particles">Q168 4%</res>
+    <res name="Sunlight">Q170 90%</res>
+  </body>
+  <body name="System XAIUR IIa" sectorname="Mental" sectorcoords="309, 0, 4" systemname="XAIUR" systemcoords="-3.1, 4.6, 0.6" designation="" type="Moon" diameter="1900m" zone="Inferno" atmosphere="No Atmosphere" timestamp="12/08/2012 19:56:27" outofrange="False">
+    <res name="Crystals">Q97 1%</res>
+    <res name="Eludium">Q120 50%</res>
+    <res name="Gems">Q89 1%</res>
+    <res name="Minerals">Q92 1%</res>
+    <res name="Ore">Q217 1%</res>
+    <res name="Radioactives">Q239 1%</res>
+    <res name="Stone">Q132 1%</res>
+    <res name="Sunlight">Q187 90%</res>
+    <res name="Animal Carcass">Q225</res>
+    <res name="Beans">Q16</res>
+    <res name="Cheese">Q162</res>
+    <res name="Eggs">Q47</res>
+    <res name="Fertilizer">Q129</res>
+    <res name="Fruit">Q173</res>
+    <res name="Grain">Q49</res>
+    <res name="Grapes">Q183</res>
+    <res name="Herbs">Q152</res>
+    <res name="Hops">Q39</res>
+    <res name="Log">Q211</res>
+    <res name="Milk">Q126</res>
+    <res name="Nuts">Q131</res>
+    <res name="Plant Fiber">Q150</res>
+    <res name="Spices">Q76</res>
+    <res name="Vegetable">Q121</res>
+    <res name="Vegetation Density">Q152</res>
+  </body>
+  <body name="System XAIUR III" sectorname="Mental" sectorcoords="309, 0, 4" systemname="XAIUR" systemcoords="-3.1, 4.6, 0.6" designation="" type="Planet" diameter="13300m" zone="Inferno" atmosphere="Exotic" timestamp="12/08/2012 19:56:27" outofrange="False">
+    <res name="Crystals">Q179 1%, Q93 1%, Q212 2%</res>
+    <res name="Gems">Q128 1%, Q153 2%, Q131 1%</res>
+    <res name="Minerals">Q142 1%, Q132 1%, Q84 1%</res>
+    <res name="Ore">Q173 2%, Q184 1%, Q215 1%</res>
+    <res name="Phlogiston">Q98 1%, Q110 1%, None</res>
+    <res name="Radioactives">Q178 1%, Q166 1%, Q215 1%</res>
+    <res name="Stone">Q124 2%, Q27 2%, Q102 2%</res>
+    <res name="Vulcanite">Q168 1%, Q156 1%, Q175 1%</res>
+    <res name="Magmex">Q141 86%</res>
+    <res name="Air">Q135 69%</res>
+    <res name="Hydrogen">Q210 69%</res>
+    <res name="Ioplasma">Q81 1%</res>
+    <res name="Sunlight">Q117 90%</res>
+    <res name="Animal Carcass">Q140, Q132, Q102</res>
+    <res name="Beans">Q123, Q127, Q129</res>
+    <res name="Cheese">Q112, Q136, Q210</res>
+    <res name="Eggs">Q212, Q68, Q166</res>
+    <res name="Fertilizer">Q180, Q110, Q152</res>
+    <res name="Fruit">Q33, Q175, Q69</res>
+    <res name="Grain">Q152, Q142, Q37</res>
+    <res name="Grapes">Q179, Q116, Q82</res>
+    <res name="Herbs">Q36, Q120, Q145</res>
+    <res name="Hops">Q227, Q71, Q35</res>
+    <res name="Log">Q202, Q136, Q135</res>
+    <res name="Milk">Q107, Q118, Q185</res>
+    <res name="Nuts">Q136, Q65, Q15</res>
+    <res name="Plant Fiber">Q118, Q163, Q137</res>
+    <res name="Spices">Q203, Q45, Q25</res>
+    <res name="Vegetable">Q19, Q181, Q49</res>
+    <res name="Vegetation Density">Q107, Q58, Q58</res>
+  </body>
+  <body name="System XAIUR IIIa" sectorname="Mental" sectorcoords="309, 0, 4" systemname="XAIUR" systemcoords="-3.1, 4.6, 0.6" designation="" type="Moon" diameter="3800m" zone="Inferno" atmosphere="No Atmosphere" timestamp="12/08/2012 19:56:27" outofrange="False">
+    <res name="Crystals">Q158 1%</res>
+    <res name="Eludium">Q100 11%</res>
+    <res name="Gems">Q151 1%</res>
+    <res name="Minerals">Q212 1%</res>
+    <res name="Ore">Q108 1%</res>
+    <res name="Radioactives">Q185 1%</res>
+    <res name="Stone">Q190 2%</res>
+    <res name="Sunlight">Q135 90%</res>
+    <res name="Animal Carcass">Q193</res>
+    <res name="Beans">Q64</res>
+    <res name="Cheese">Q124</res>
+    <res name="Eggs">Q139</res>
+    <res name="Fertilizer">Q135</res>
+    <res name="Fruit">Q131</res>
+    <res name="Grain">Q31</res>
+    <res name="Grapes">Q148</res>
+    <res name="Herbs">Q225</res>
+    <res name="Hops">Q148</res>
+    <res name="Log">Q109</res>
+    <res name="Milk">Q113</res>
+    <res name="Nuts">Q166</res>
+    <res name="Plant Fiber">Q158</res>
+    <res name="Spices">Q139</res>
+    <res name="Vegetable">Q205</res>
+    <res name="Vegetation Density">Q118</res>
+  </body>
+</database>
