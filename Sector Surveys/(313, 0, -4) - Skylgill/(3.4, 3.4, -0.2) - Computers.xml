@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<database application="Hazeron Scouter" version="0.3.3.4">
+  <body name="G5 IV Subgiant Alpha" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="Computers" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Star" diameter="0.115au" zone="" atmosphere="" timestamp="19/08/2012 20:27:43" outofrange="True" />
+  <body name="K6 III Giant Beta" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="Computers" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Star" diameter="0.115au" zone="" atmosphere="" timestamp="19/08/2012 20:27:43" outofrange="True" />
+  <body name="Computers Alpha I" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="Computers" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Planet" diameter="11400m" zone="Inferno" atmosphere="Standard" timestamp="19/08/2012 20:27:43" outofrange="True" />
+  <body name="Computers Alpha Ia" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="Computers" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Moon" diameter="3800m" zone="Inferno" atmosphere="" timestamp="19/08/2012 20:27:43" outofrange="True" />
+  <body name="Computers Alpha II" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="Computers" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Gas Giant" diameter="53000m" zone="Inferno" atmosphere="Corrosive" timestamp="19/08/2012 20:27:43" outofrange="True" />
+  <body name="Computers Alpha IIa" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="Computers" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Moon" diameter="3800m" zone="Inferno" atmosphere="" timestamp="19/08/2012 20:27:43" outofrange="True" />
+  <body name="Computers Alpha IIb" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="Computers" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Moon" diameter="3800m" zone="Inferno" atmosphere="" timestamp="19/08/2012 20:27:43" outofrange="True" />
+  <body name="Computers Alpha IIc" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="Computers" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Moon" diameter="3800m" zone="Inferno" atmosphere="" timestamp="19/08/2012 20:27:43" outofrange="True" />
+  <body name="Computers Alpha IId" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="Computers" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Moon" diameter="1900m" zone="Inferno" atmosphere="" timestamp="19/08/2012 20:27:43" outofrange="True" />
+  <body name="Computers Alpha III" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="Computers" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Planet" diameter="11400m" zone="Inferno" atmosphere="Standard" timestamp="19/08/2012 20:27:43" outofrange="True" />
+  <body name="Atari 800 XL" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="Computers" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Planet" diameter="17000m" zone="Habitable" atmosphere="Standard" timestamp="19/08/2012 20:27:43" outofrange="False">
+    <res name="Coal">Q136 2%, Q158 1%, Q116 1%</res>
+    <res name="Crystals">Q161 1%, Q133 1%, Q87 1%</res>
+    <res name="Gems">Q215 1%, Q115 1%, Q135 1%</res>
+    <res name="Ice">Q123 21%, Q208 3%, Q179 4%</res>
+    <res name="Minerals">Q87 1%, Q56 1%, Q120 1%</res>
+    <res name="Natural Gas">Q169 1%, Q197 1%, Q146 1%</res>
+    <res name="Oil">Q68 1%, Q139 1%, Q58 1%</res>
+    <res name="Ore">Q193 1%, Q102 1%, Q232 1%</res>
+    <res name="Radioactives">Q124 1%, Q48 1%, Q202 1%</res>
+    <res name="Stone">Q76 1%, Q123 2%, Q88 2%</res>
+    <res name="Water in the Environment">Q205 61%</res>
+    <res name="Air">Q159 68%</res>
+    <res name="Hydrogen">Q111 68%</res>
+    <res name="Sunlight">Q63 50%</res>
+    <res name="Animal Carcass">Q99, Q82, Q30</res>
+    <res name="Beans">Q128, Q63, Q186</res>
+    <res name="Cheese">Q133, Q146, Q167</res>
+    <res name="Eggs">Q107, Q69, Q129</res>
+    <res name="Fertilizer">Q117, Q109, Q97</res>
+    <res name="Fish">Q82, Q122, Q6</res>
+    <res name="Fruit">Q115, Q103, Q172</res>
+    <res name="Grain">Q140, Q49, Q84</res>
+    <res name="Grapes">Q117, Q20, Q111</res>
+    <res name="Herbs">Q128, Q132, Q122</res>
+    <res name="Hops">Q179, Q81, Q151</res>
+    <res name="Log">Q228, Q141, Q110</res>
+    <res name="Milk">Q121, Q252, Q105</res>
+    <res name="Nuts">Q65, Q165, Q193</res>
+    <res name="Plant Fiber">Q184, Q180, Q60</res>
+    <res name="Spices">Q103, Q134, Q82</res>
+    <res name="Vegetable">Q140, Q102, Q102</res>
+    <res name="Vegetation Density">Q62, Q136, Q129</res>
+  </body>
+  <body name="Computers Alpha IVa" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="Computers" systemcoords="3.4, 3.4, -0.2" designation="" type="Moon" diameter="3800m" zone="Habitable" atmosphere="No Atmosphere" timestamp="19/08/2012 20:27:43" outofrange="False">
+    <res name="Coal">Q159 1%</res>
+    <res name="Crystals">Q112 1%</res>
+    <res name="Eludium">Q80 52%</res>
+    <res name="Gems">Q142 1%</res>
+    <res name="Ice">Q181 1%</res>
+    <res name="Lumenite">Q24 1%</res>
+    <res name="Minerals">Q50 1%</res>
+    <res name="Natural Gas">Q81 1%</res>
+    <res name="Oil">Q135 1%</res>
+    <res name="Ore">Q198 1%</res>
+    <res name="Radioactives">Q39 1%</res>
+    <res name="Stone">Q9 1%</res>
+    <res name="Sunlight">Q80 50%</res>
+    <res name="Animal Carcass">Q118</res>
+    <res name="Beans">Q187</res>
+    <res name="Cheese">Q70</res>
+    <res name="Eggs">Q219</res>
+    <res name="Fertilizer">Q95</res>
+    <res name="Fruit">Q154</res>
+    <res name="Grain">Q122</res>
+    <res name="Grapes">Q26</res>
+    <res name="Herbs">Q73</res>
+    <res name="Hops">Q185</res>
+    <res name="Log">Q133</res>
+    <res name="Milk">Q146</res>
+    <res name="Nuts">Q190</res>
+    <res name="Plant Fiber">Q150</res>
+    <res name="Spices">Q192</res>
+    <res name="Vegetable">Q221</res>
+    <res name="Vegetation Density">Q202</res>
+  </body>
+  <body name="Computers Alpha IVb" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="Computers" systemcoords="3.4, 3.4, -0.2" designation="" type="Moon" diameter="3800m" zone="Habitable" atmosphere="No Atmosphere" timestamp="19/08/2012 20:27:43" outofrange="False">
+    <res name="Coal">Q160 1%</res>
+    <res name="Crystals">Q92 1%</res>
+    <res name="Eludium">Q173 58%</res>
+    <res name="Gems">Q163 1%</res>
+    <res name="Ice">Q152 1%</res>
+    <res name="Lumenite">Q190 1%</res>
+    <res name="Minerals">Q170 1%</res>
+    <res name="Natural Gas">Q89 1%</res>
+    <res name="Oil">Q190 1%</res>
+    <res name="Ore">Q167 1%</res>
+    <res name="Radioactives">Q210 1%</res>
+    <res name="Stone">Q203 1%</res>
+    <res name="Sunlight">Q225 50%</res>
+    <res name="Animal Carcass">Q171</res>
+    <res name="Beans">Q129</res>
+    <res name="Cheese">Q83</res>
+    <res name="Eggs">Q146</res>
+    <res name="Fertilizer">Q179</res>
+    <res name="Fruit">Q126</res>
+    <res name="Grain">Q129</res>
+    <res name="Grapes">Q124</res>
+    <res name="Herbs">Q134</res>
+    <res name="Hops">Q106</res>
+    <res name="Log">Q168</res>
+    <res name="Milk">Q23</res>
+    <res name="Nuts">Q94</res>
+    <res name="Plant Fiber">Q62</res>
+    <res name="Spices">Q129</res>
+    <res name="Vegetable">Q151</res>
+    <res name="Vegetation Density">Q85</res>
+  </body>
+  <body name="Computers Alpha V" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="Computers" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Planet" diameter="18900m" zone="Outer" atmosphere="Tainted" timestamp="19/08/2012 20:27:43" outofrange="True" />
+  <body name="Computers Alpha Var (1)" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="Computers" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Ring" diameter="34600m" zone="Outer" atmosphere="" timestamp="19/08/2012 20:27:43" outofrange="True" />
+  <body name="Computers Alpha Va" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="Computers" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Moon" diameter="3800m" zone="Outer" atmosphere="" timestamp="19/08/2012 20:27:43" outofrange="True" />
+  <body name="Computers Alpha Vb" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="Computers" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Moon" diameter="3800m" zone="Outer" atmosphere="No Atmosphere" timestamp="19/08/2012 20:27:43" outofrange="True" />
+</database>

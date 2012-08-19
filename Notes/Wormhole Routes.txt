@@ -3,13 +3,19 @@ Wormhole Routes
 
 These are a list of "trade routes" that a ship may take to avoid direct travel (deadheading).
 
-                                            VBSDC
+                                            VBSDC:
                                               |
-Neo Domus > Burny > FVWEC > AVWEC > SSAGC > GNJXB > MJA
+Neo Domus > Burny > FVWEC: > AVWEC > SSAGC > GNJXB > MJA
                                       |       |
                                     VBSDC     |
                                               |
-                                        CNJXB - BNJXB
+                                        CNJXB: - BNJXB
+
+If MJA = Nommo Prime, then
+
+MJA > 
+
+
 
 YMJXB > YOJXB, ONJXB, TIFB, Jerusalem
 
@@ -28,7 +34,7 @@ In-progess
 Neo Domus
 *	Promixa Domus
 	EPGAC
-	VUWEC (Formely "Burny"?)
+	VUWEC (Formely "Burny"? - *sadface* Got limbo'ed when transitioning to this sector)
 	RUWEC
 
 

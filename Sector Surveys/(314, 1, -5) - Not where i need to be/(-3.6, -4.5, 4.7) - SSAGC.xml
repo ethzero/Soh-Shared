@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<database application="Hazeron Scouter" version="0.3.3.4">
+  <body name="M6 V Main Sequence Alpha" sectorname="Not where i need to be" sectorcoords="314, 1, -5" systemname="SSAGC" systemcoords="-3.6, -4.5, 4.7" designation="Alpha" type="Star" diameter="0.085au" zone="" atmosphere="" timestamp="19/08/2012 14:21:26" outofrange="False">
+    <res name="Type M Preons">Q124 5%</res>
+  </body>
+  <body name="DG Yellow Dwarf Beta" sectorname="Not where i need to be" sectorcoords="314, 1, -5" systemname="SSAGC" systemcoords="-3.6, -4.5, 4.7" designation="Alpha" type="Star" diameter="0.075au" zone="" atmosphere="" timestamp="19/08/2012 14:21:26" outofrange="False">
+    <res name="Type G Preons">Q121 5%</res>
+  </body>
+  <body name="System SSAGC Beta I" sectorname="Not where i need to be" sectorcoords="314, 1, -5" systemname="SSAGC" systemcoords="-3.6, -4.5, 4.7" designation="Beta" type="Planet" diameter="20800m" zone="Frigid" atmosphere="Exotic" timestamp="19/08/2012 14:21:26" outofrange="False">
+    <res name="Bolite">Q169 1%, Q94 1%, Q129 1%</res>
+    <res name="Coal">Q76 1%, Q80 1%, Q170 1%</res>
+    <res name="Crystals">Q83 1%, Q156 1%, Q99 1%</res>
+    <res name="Gems">Q196 1%, Q152 1%, Q139 1%</res>
+    <res name="Ice">Q158 8%, Q180 9%, Q110 15%</res>
+    <res name="Lumenite">Q226 1%, Q154 1%, Q120 1%</res>
+    <res name="Minerals">Q149 1%, Q250 2%, Q94 1%</res>
+    <res name="Natural Gas">Q62 1%, Q176 1%, Q101 1%</res>
+    <res name="Oil">Q104 1%, Q167 1%, Q195 1%</res>
+    <res name="Ore">Q102 1%, Q65 1%, Q119 1%</res>
+    <res name="Polytaride">Q157 1%, None, Q120 1%</res>
+    <res name="Radioactives">Q81 1%, Q214 1%, Q158 1%</res>
+    <res name="Stone">Q144 2%, Q43 2%, Q159 1%</res>
+    <res name="Myrathane">Q58 96%</res>
+    <res name="Air">Q251 86%</res>
+    <res name="Cryozine">Q153 2%</res>
+    <res name="Hydrogen">Q129 86%</res>
+    <res name="Sunlight">Q152 10%</res>
+    <res name="Animal Carcass">Q219, Q122, Q35</res>
+    <res name="Beans">Q148, Q153, Q40</res>
+    <res name="Cheese">Q152, Q136, Q166</res>
+    <res name="Eggs">Q146, Q132, Q166</res>
+    <res name="Fertilizer">Q209, Q125, Q114</res>
+    <res name="Fruit">Q174, Q136, Q78</res>
+    <res name="Grain">Q164, Q53, Q142</res>
+    <res name="Grapes">Q205, Q195, Q145</res>
+    <res name="Herbs">Q92, Q129, Q117</res>
+    <res name="Hops">Q123, Q79, Q158</res>
+    <res name="Log">Q67, Q97, Q125</res>
+    <res name="Milk">Q36, Q132, Q80</res>
+    <res name="Nuts">Q175, Q202, Q213</res>
+    <res name="Plant Fiber">Q168, Q111, Q112</res>
+    <res name="Spices">Q175, Q141, Q109</res>
+    <res name="Vegetable">Q146, Q44, Q236</res>
+    <res name="Vegetation Density">Q152, Q74, Q134</res>
+  </body>
+  <body name="System SSAGC Beta Ia" sectorname="Not where i need to be" sectorcoords="314, 1, -5" systemname="SSAGC" systemcoords="-3.6, -4.5, 4.7" designation="Beta" type="Moon" diameter="3800m" zone="Frigid" atmosphere="No Atmosphere" timestamp="19/08/2012 14:21:26" outofrange="False">
+    <res name="Coal">Q35 1%</res>
+    <res name="Crystals">Q64 1%</res>
+    <res name="Eludium">Q130 49%</res>
+    <res name="Gems">Q180 1%</res>
+    <res name="Ice">Q65 1%</res>
+    <res name="Lumenite">Q53 1%</res>
+    <res name="Minerals">Q114 1%</res>
+    <res name="Natural Gas">Q145 1%</res>
+    <res name="Oil">Q141 1%</res>
+    <res name="Ore">Q176 1%</res>
+    <res name="Radioactives">Q15 1%</res>
+    <res name="Stone">Q83 1%</res>
+    <res name="Sunlight">Q43 10%</res>
+    <res name="Animal Carcass">Q145</res>
+    <res name="Beans">Q89</res>
+    <res name="Cheese">Q164</res>
+    <res name="Eggs">Q200</res>
+    <res name="Fertilizer">Q36</res>
+    <res name="Fruit">Q145</res>
+    <res name="Grain">Q171</res>
+    <res name="Grapes">Q175</res>
+    <res name="Herbs">Q154</res>
+    <res name="Hops">Q44</res>
+    <res name="Log">Q229</res>
+    <res name="Milk">Q168</res>
+    <res name="Nuts">Q206</res>
+    <res name="Plant Fiber">Q80</res>
+    <res name="Spices">Q111</res>
+    <res name="Vegetable">Q76</res>
+    <res name="Vegetation Density">Q162</res>
+  </body>
+  <body name="System SSAGC Alpha I" sectorname="Not where i need to be" sectorcoords="314, 1, -5" systemname="SSAGC" systemcoords="-3.6, -4.5, 4.7" designation="Alpha" type="Planet" diameter="13300m" zone="Outer" atmosphere="Insidious" timestamp="19/08/2012 14:21:26" outofrange="False">
+    <res name="Coal">Q77 1%, Q111 1%, Q110 1%</res>
+    <res name="Crystals">Q162 1%, Q195 2%, Q120 1%</res>
+    <res name="Gems">Q133 1%, Q197 1%, Q171 2%</res>
+    <res name="Ice">Q154 5%, Q91 2%, Q162 2%</res>
+    <res name="Lumenite">None, Q47 1%, None</res>
+    <res name="Minerals">Q151 1%, Q210 1%, Q122 1%</res>
+    <res name="Natural Gas">Q106 1%, Q70 1%, Q161 1%</res>
+    <res name="Oil">Q38 1%, Q163 1%, Q142 1%</res>
+    <res name="Ore">Q106 1%, Q154 1%, Q118 1%</res>
+    <res name="Radioactives">Q154 1%, Q234 1%, Q187 1%</res>
+    <res name="Stone">Q104 2%, Q51 2%, Q151 2%</res>
+    <res name="Water in the Environment">Q79 20%</res>
+    <res name="Air">Q68 80%</res>
+    <res name="Hydrogen">Q204 80%</res>
+    <res name="Sunlight">Q135 30%</res>
+    <res name="Animal Carcass">Q166, Q56, Q47</res>
+    <res name="Beans">Q206, Q111, Q62</res>
+    <res name="Cheese">Q138, Q170, Q84</res>
+    <res name="Eggs">Q91, Q128, Q238</res>
+    <res name="Fertilizer">Q126, Q237, Q194</res>
+    <res name="Fish">Q78, Q212, Q42</res>
+    <res name="Fruit">Q76, Q113, Q58</res>
+    <res name="Grain">Q158, Q109, Q186</res>
+    <res name="Grapes">Q108, Q142, Q74</res>
+    <res name="Herbs">Q159, Q197, Q117</res>
+    <res name="Hops">Q74, Q95, Q180</res>
+    <res name="Log">Q160, Q186, Q119</res>
+    <res name="Milk">Q159, Q172, Q58</res>
+    <res name="Nuts">Q17, Q105, Q178</res>
+    <res name="Plant Fiber">Q128, Q120, Q51</res>
+    <res name="Spices">Q111, Q136, Q101</res>
+    <res name="Vegetable">Q216, Q172, Q156</res>
+    <res name="Vegetation Density">Q140, Q193, Q136</res>
+  </body>
+</database>

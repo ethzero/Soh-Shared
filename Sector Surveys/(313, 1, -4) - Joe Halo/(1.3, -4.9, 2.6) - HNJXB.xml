@@ -1,0 +1,404 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<database application="Hazeron Scouter" version="0.3.3.4">
+  <body name="F9 V Main Sequence Alpha" sectorname="Joe Halo" sectorcoords="313, 1, -4" systemname="HNJXB" systemcoords="1.3, -4.9, 2.6" designation="Alpha" type="Star" diameter="0.115au" zone="" atmosphere="None" timestamp="19/08/2012 10:30:13" outofrange="False">
+    <res name="Type F Preons">Q138 5%</res>
+  </body>
+  <body name="G3 IV Subgiant Beta" sectorname="Joe Halo" sectorcoords="313, 1, -4" systemname="HNJXB" systemcoords="1.3, -4.9, 2.6" designation="Alpha" type="Star" diameter="0.115au" zone="" atmosphere="None" timestamp="19/08/2012 10:30:13" outofrange="False">
+    <res name="Type G Preons">Q142 5%</res>
+  </body>
+  <body name="DM Red Dwarf Gamma" sectorname="Joe Halo" sectorcoords="313, 1, -4" systemname="HNJXB" systemcoords="1.3, -4.9, 2.6" designation="Alpha" type="Star" diameter="0.075au" zone="" atmosphere="None" timestamp="19/08/2012 10:55:14" outofrange="False">
+    <res name="Type M Preons">Q148 5%</res>
+  </body>
+  <body name="System HNJXB Alpha I" sectorname="Joe Halo" sectorcoords="313, 1, -4" systemname="HNJXB" systemcoords="1.3, -4.9, 2.6" designation="Alpha" type="Planet" diameter="15200m" zone="Inferno" atmosphere="Standard" timestamp="19/08/2012 10:30:13" outofrange="False">
+    <res name="Crystals">Q137 1%, Q141 1%, Q166 1%</res>
+    <res name="Gems">Q176 2%, Q209 1%, Q14 1%</res>
+    <res name="Minerals">Q52 2%, Q131 1%, Q169 1%</res>
+    <res name="Ore">Q233 1%, Q188 1%, Q131 1%</res>
+    <res name="Phlogiston">None, Q157 1%, Q171 1%</res>
+    <res name="Radioactives">Q126 1%, Q202 1%, Q140 1%</res>
+    <res name="Stone">Q93 2%, Q194 2%, Q51 2%</res>
+    <res name="Vulcanite">Q119 1%, None, Q108 1%</res>
+    <res name="Magmex">Q102 70%</res>
+    <res name="Air">Q164 39%</res>
+    <res name="Hydrogen">Q123 39%</res>
+    <res name="Sunlight">Q105 90%</res>
+    <res name="Animal Carcass">Q127, Q212, Q117</res>
+    <res name="Beans">Q34, Q165, Q164</res>
+    <res name="Cheese">Q206, Q174, Q210</res>
+    <res name="Eggs">Q67, Q16, Q121</res>
+    <res name="Fertilizer">Q187, Q231, Q131</res>
+    <res name="Fruit">Q81, Q91, Q123</res>
+    <res name="Grain">Q224, Q149, Q111</res>
+    <res name="Grapes">Q145, Q77, Q166</res>
+    <res name="Herbs">Q123, Q65, Q73</res>
+    <res name="Hops">Q189, Q133, Q113</res>
+    <res name="Log">Q217, Q79, Q67</res>
+    <res name="Milk">Q139, Q153, Q135</res>
+    <res name="Nuts">Q144, Q85, Q95</res>
+    <res name="Plant Fiber">Q130, Q202, Q84</res>
+    <res name="Spices">Q175, Q143, Q106</res>
+    <res name="Vegetable">Q130, Q169, Q136</res>
+    <res name="Vegetation Density">Q137, Q110, Q98</res>
+  </body>
+  <body name="System HNJXB Alpha Ia" sectorname="Joe Halo" sectorcoords="313, 1, -4" systemname="HNJXB" systemcoords="1.3, -4.9, 2.6" designation="Alpha" type="Moon" diameter="1900m" zone="Inferno" atmosphere="No Atmosphere" timestamp="19/08/2012 10:30:13" outofrange="False">
+    <res name="Crystals">Q117 1%</res>
+    <res name="Eludium">Q24 37%</res>
+    <res name="Gems">Q122 1%</res>
+    <res name="Minerals">Q173 1%</res>
+    <res name="Ore">Q52 1%</res>
+    <res name="Radioactives">Q123 1%</res>
+    <res name="Stone">Q159 1%</res>
+    <res name="Sunlight">Q122 90%</res>
+    <res name="Animal Carcass">Q52</res>
+    <res name="Beans">Q103</res>
+    <res name="Cheese">Q219</res>
+    <res name="Eggs">Q122</res>
+    <res name="Fertilizer">Q141</res>
+    <res name="Fruit">Q52</res>
+    <res name="Grain">Q231</res>
+    <res name="Grapes">Q114</res>
+    <res name="Herbs">Q57</res>
+    <res name="Hops">Q110</res>
+    <res name="Log">Q123</res>
+    <res name="Milk">Q16</res>
+    <res name="Nuts">Q46</res>
+    <res name="Plant Fiber">Q170</res>
+    <res name="Spices">Q112</res>
+    <res name="Vegetable">Q60</res>
+    <res name="Vegetation Density">Q148</res>
+  </body>
+  <body name="System HNJXB Alpha II" sectorname="Joe Halo" sectorcoords="313, 1, -4" systemname="HNJXB" systemcoords="1.3, -4.9, 2.6" designation="Alpha" type="Gas Giant" diameter="49200m" zone="Inferno" atmosphere="Insidious" timestamp="19/08/2012 10:30:13" outofrange="False">
+    <res name="Air">Q126 97%</res>
+    <res name="Borexino Precipitate">Q64 4%</res>
+    <res name="Hydrogen">Q218 97%</res>
+    <res name="Ioplasma">Q156 5%</res>
+    <res name="Sunlight">Q51 90%</res>
+  </body>
+  <body name="System HNJXB Alpha IIa" sectorname="Joe Halo" sectorcoords="313, 1, -4" systemname="HNJXB" systemcoords="1.3, -4.9, 2.6" designation="Alpha" type="Large Moon" diameter="9500m" zone="Inferno" atmosphere="Exotic" timestamp="19/08/2012 10:30:13" outofrange="False">
+    <res name="Crystals">Q178 1%, Q228 2%, Q101 1%</res>
+    <res name="Gems">Q158 1%, Q93 1%, Q137 1%</res>
+    <res name="Minerals">Q128 1%, Q108 1%, Q148 1%</res>
+    <res name="Ore">Q142 1%, Q162 1%, Q185 1%</res>
+    <res name="Radioactives">Q211 1%, Q88 1%, Q243 1%</res>
+    <res name="Stone">Q88 2%, Q61 2%, Q94 2%</res>
+    <res name="Vulcanite">None, Q130 1%, Q41 1%</res>
+    <res name="Magmex">Q144 10%</res>
+    <res name="Air">Q181 22%</res>
+    <res name="Hydrogen">Q144 22%</res>
+    <res name="Sunlight">Q69 90%</res>
+    <res name="Animal Carcass">Q148, Q50, Q207</res>
+    <res name="Beans">Q151, Q36, Q181</res>
+    <res name="Cheese">Q181, Q132, Q162</res>
+    <res name="Eggs">Q84, Q13, Q165</res>
+    <res name="Fertilizer">Q148, Q201, Q49</res>
+    <res name="Fruit">Q140, Q203, Q68</res>
+    <res name="Grain">Q84, Q85, Q112</res>
+    <res name="Grapes">Q206, Q179, Q44</res>
+    <res name="Herbs">Q129, Q124, Q90</res>
+    <res name="Hops">Q218, Q35, Q217</res>
+    <res name="Log">Q147, Q182, Q142</res>
+    <res name="Milk">Q129, Q117, Q195</res>
+    <res name="Nuts">Q83, Q209, Q95</res>
+    <res name="Plant Fiber">Q51, Q220, Q182</res>
+    <res name="Spices">Q175, Q107, Q40</res>
+    <res name="Vegetable">Q142, Q130, Q34</res>
+    <res name="Vegetation Density">Q114, Q124, Q109</res>
+  </body>
+  <body name="System HNJXB Alpha IIb" sectorname="Joe Halo" sectorcoords="313, 1, -4" systemname="HNJXB" systemcoords="1.3, -4.9, 2.6" designation="Alpha" type="Moon" diameter="3800m" zone="Inferno" atmosphere="No Atmosphere" timestamp="19/08/2012 10:30:13" outofrange="False">
+    <res name="Crystals">Q157 1%</res>
+    <res name="Eludium">Q223 48%</res>
+    <res name="Gems">Q207 1%</res>
+    <res name="Minerals">Q125 1%</res>
+    <res name="Ore">Q149 1%</res>
+    <res name="Radioactives">Q173 1%</res>
+    <res name="Stone">Q26 1%</res>
+    <res name="Sunlight">Q215 90%</res>
+    <res name="Animal Carcass">Q73</res>
+    <res name="Beans">Q93</res>
+    <res name="Cheese">Q194</res>
+    <res name="Eggs">Q139</res>
+    <res name="Fertilizer">Q103</res>
+    <res name="Fruit">Q110</res>
+    <res name="Grain">Q218</res>
+    <res name="Grapes">Q176</res>
+    <res name="Herbs">Q191</res>
+    <res name="Hops">Q140</res>
+    <res name="Log">Q54</res>
+    <res name="Milk">Q134</res>
+    <res name="Nuts">Q113</res>
+    <res name="Plant Fiber">Q219</res>
+    <res name="Spices">Q112</res>
+    <res name="Vegetable">Q72</res>
+    <res name="Vegetation Density">Q126</res>
+  </body>
+  <body name="System HNJXB Beta I" sectorname="Joe Halo" sectorcoords="313, 1, -4" systemname="HNJXB" systemcoords="1.3, -4.9, 2.6" designation="Beta" type="Gas Giant" diameter="56800m" zone="Inferno" atmosphere="Corrosive" timestamp="19/08/2012 10:30:13" outofrange="False">
+    <res name="Air">Q147 95%</res>
+    <res name="Borexino Precipitate">Q135 6%</res>
+    <res name="Hydrogen">Q230 95%</res>
+    <res name="Ioplasma">Q154 3%</res>
+    <res name="Sunlight">Q140 90%</res>
+  </body>
+  <body name="System HNJXB Beta Ia" sectorname="Joe Halo" sectorcoords="313, 1, -4" systemname="HNJXB" systemcoords="1.3, -4.9, 2.6" designation="Beta" type="Moon" diameter="1900m" zone="Frigid" atmosphere="No Atmosphere" timestamp="19/08/2012 10:50:29" outofrange="False">
+    <res name="Coal">Q127 1%</res>
+    <res name="Crystals">Q130 1%</res>
+    <res name="Eludium">Q107 57%</res>
+    <res name="Gems">Q131 1%</res>
+    <res name="Ice">Q166 1%</res>
+    <res name="Lumenite">Q105 1%</res>
+    <res name="Minerals">Q82 1%</res>
+    <res name="Natural Gas">Q147 1%</res>
+    <res name="Oil">Q150 1%</res>
+    <res name="Ore">Q154 1%</res>
+    <res name="Radioactives">Q149 1%</res>
+    <res name="Stone">Q183 1%</res>
+    <res name="Sunlight">Q204 10%</res>
+    <res name="Animal Carcass">Q179</res>
+    <res name="Beans">Q169</res>
+    <res name="Cheese">Q116</res>
+    <res name="Eggs">Q141</res>
+    <res name="Fertilizer">Q116</res>
+    <res name="Fruit">Q86</res>
+    <res name="Grain">Q51</res>
+    <res name="Grapes">Q130</res>
+    <res name="Herbs">Q151</res>
+    <res name="Hops">Q187</res>
+    <res name="Log">Q153</res>
+    <res name="Milk">Q202</res>
+    <res name="Nuts">Q159</res>
+    <res name="Plant Fiber">Q138</res>
+    <res name="Spices">Q114</res>
+    <res name="Vegetable">Q113</res>
+    <res name="Vegetation Density">Q155</res>
+  </body>
+  <body name="System HNJXB Beta Ib" sectorname="Joe Halo" sectorcoords="313, 1, -4" systemname="HNJXB" systemcoords="1.3, -4.9, 2.6" designation="Beta" type="Moon" diameter="1900m" zone="Frigid" atmosphere="No Atmosphere" timestamp="19/08/2012 10:50:29" outofrange="False">
+    <res name="Coal">Q171 1%</res>
+    <res name="Crystals">Q238 1%</res>
+    <res name="Eludium">Q71 39%</res>
+    <res name="Gems">Q26 1%</res>
+    <res name="Ice">Q137 1%</res>
+    <res name="Lumenite">Q143 1%</res>
+    <res name="Minerals">Q201 1%</res>
+    <res name="Natural Gas">Q102 1%</res>
+    <res name="Oil">Q137 1%</res>
+    <res name="Ore">Q124 1%</res>
+    <res name="Radioactives">Q64 1%</res>
+    <res name="Stone">Q122 1%</res>
+    <res name="Sunlight">Q94 10%</res>
+    <res name="Animal Carcass">Q232</res>
+    <res name="Beans">Q111</res>
+    <res name="Cheese">Q129</res>
+    <res name="Eggs">Q67</res>
+    <res name="Fertilizer">Q199</res>
+    <res name="Fruit">Q57</res>
+    <res name="Grain">Q57</res>
+    <res name="Grapes">Q99</res>
+    <res name="Herbs">Q83</res>
+    <res name="Hops">Q108</res>
+    <res name="Log">Q58</res>
+    <res name="Milk">Q79</res>
+    <res name="Nuts">Q62</res>
+    <res name="Plant Fiber">Q177</res>
+    <res name="Spices">Q178</res>
+    <res name="Vegetable">Q43</res>
+    <res name="Vegetation Density">Q165</res>
+  </body>
+  <body name="System HNJXB Beta Ibr (1)" sectorname="Joe Halo" sectorcoords="313, 1, -4" systemname="HNJXB" systemcoords="1.3, -4.9, 2.6" designation="Beta" type="Ring" diameter="57300m" zone="Frigid" atmosphere="None" timestamp="19/08/2012 10:55:14" outofrange="False">
+    <res name="Crystals">Q150 1%</res>
+    <res name="Eludium">Q143 50%</res>
+    <res name="Gems">Q110 1%</res>
+    <res name="Ice">Q67 1%</res>
+    <res name="Lumenite">Q195 1%</res>
+    <res name="Minerals">Q218 1%</res>
+    <res name="Ore">Q185 1%</res>
+    <res name="Radioactives">Q106 1%</res>
+    <res name="Stone">Q117 1%</res>
+    <res name="Sunlight">Q59 10%</res>
+  </body>
+  <body name="System HNJXB Beta Ic" sectorname="Joe Halo" sectorcoords="313, 1, -4" systemname="HNJXB" systemcoords="1.3, -4.9, 2.6" designation="Beta" type="Moon" diameter="1900m" zone="Frigid" atmosphere="No Atmosphere" timestamp="19/08/2012 10:55:14" outofrange="False">
+    <res name="Coal">Q169 1%</res>
+    <res name="Crystals">Q171 1%</res>
+    <res name="Eludium">Q50 62%</res>
+    <res name="Gems">Q88 1%</res>
+    <res name="Ice">Q95 1%</res>
+    <res name="Lumenite">Q157 1%</res>
+    <res name="Minerals">Q99 1%</res>
+    <res name="Natural Gas">Q236 1%</res>
+    <res name="Oil">Q175 1%</res>
+    <res name="Ore">Q88 1%</res>
+    <res name="Radioactives">Q63 1%</res>
+    <res name="Stone">Q180 1%</res>
+    <res name="Sunlight">Q169 10%</res>
+    <res name="Animal Carcass">Q200</res>
+    <res name="Beans">Q30</res>
+    <res name="Cheese">Q218</res>
+    <res name="Eggs">Q30</res>
+    <res name="Fertilizer">Q77</res>
+    <res name="Fruit">Q145</res>
+    <res name="Grain">Q166</res>
+    <res name="Grapes">Q63</res>
+    <res name="Herbs">Q28</res>
+    <res name="Hops">Q217</res>
+    <res name="Log">Q83</res>
+    <res name="Milk">Q64</res>
+    <res name="Nuts">Q97</res>
+    <res name="Plant Fiber">Q57</res>
+    <res name="Spices">Q242</res>
+    <res name="Vegetable">Q125</res>
+    <res name="Vegetation Density">Q132</res>
+  </body>
+  <body name="System HNJXB Beta Icr (1)" sectorname="Joe Halo" sectorcoords="313, 1, -4" systemname="HNJXB" systemcoords="1.3, -4.9, 2.6" designation="Beta" type="Ring" diameter="66500m" zone="Inferno" atmosphere="None" timestamp="19/08/2012 10:30:13" outofrange="False">
+    <res name="Crystals">Q144 1%</res>
+    <res name="Eludium">Q101 18%</res>
+    <res name="Gems">Q105 1%</res>
+    <res name="Lumenite">Q95 1%</res>
+    <res name="Minerals">Q141 1%</res>
+    <res name="Ore">Q115 1%</res>
+    <res name="Radioactives">Q103 1%</res>
+    <res name="Stone">Q105 1%</res>
+    <res name="Antiflux Particles">Q79 4%</res>
+    <res name="Sunlight">Q81 90%</res>
+  </body>
+  <body name="System HNJXB Beta IIa" sectorname="Joe Halo" sectorcoords="313, 1, -4" systemname="HNJXB" systemcoords="1.3, -4.9, 2.6" designation="Beta" type="Moon" diameter="1900m" zone="Frigid" atmosphere="No Atmosphere" timestamp="19/08/2012 10:50:29" outofrange="False">
+    <res name="Coal">Q38 1%</res>
+    <res name="Crystals">Q231 1%</res>
+    <res name="Eludium">Q158 43%</res>
+    <res name="Gems">Q150 1%</res>
+    <res name="Ice">Q183 1%</res>
+    <res name="Lumenite">Q171 1%</res>
+    <res name="Minerals">Q124 1%</res>
+    <res name="Natural Gas">Q112 1%</res>
+    <res name="Oil">Q212 1%</res>
+    <res name="Ore">Q181 1%</res>
+    <res name="Radioactives">Q62 1%</res>
+    <res name="Stone">Q109 1%</res>
+    <res name="Sunlight">Q244 10%</res>
+    <res name="Animal Carcass">Q168</res>
+    <res name="Beans">Q78</res>
+    <res name="Cheese">Q180</res>
+    <res name="Eggs">Q122</res>
+    <res name="Fertilizer">Q212</res>
+    <res name="Fruit">Q103</res>
+    <res name="Grain">Q148</res>
+    <res name="Grapes">Q155</res>
+    <res name="Herbs">Q228</res>
+    <res name="Hops">Q70</res>
+    <res name="Log">Q237</res>
+    <res name="Milk">Q178</res>
+    <res name="Nuts">Q134</res>
+    <res name="Plant Fiber">Q66</res>
+    <res name="Spices">Q49</res>
+    <res name="Vegetable">Q208</res>
+    <res name="Vegetation Density">Q98</res>
+  </body>
+  <body name="System HNJXB Beta IIb" sectorname="Joe Halo" sectorcoords="313, 1, -4" systemname="HNJXB" systemcoords="1.3, -4.9, 2.6" designation="Beta" type="Moon" diameter="3800m" zone="Frigid" atmosphere="No Atmosphere" timestamp="19/08/2012 10:50:29" outofrange="False">
+    <res name="Coal">Q81 1%</res>
+    <res name="Crystals">Q211 1%</res>
+    <res name="Eludium">Q250 51%</res>
+    <res name="Gems">Q171 1%</res>
+    <res name="Ice">Q26 1%</res>
+    <res name="Lumenite">Q81 1%</res>
+    <res name="Minerals">Q115 1%</res>
+    <res name="Natural Gas">Q196 1%</res>
+    <res name="Oil">Q200 1%</res>
+    <res name="Ore">Q150 1%</res>
+    <res name="Radioactives">Q233 1%</res>
+    <res name="Stone">Q47 1%</res>
+    <res name="Sunlight">Q134 10%</res>
+    <res name="Animal Carcass">Q222</res>
+    <res name="Beans">Q147</res>
+    <res name="Cheese">Q193</res>
+    <res name="Eggs">Q177</res>
+    <res name="Fertilizer">Q167</res>
+    <res name="Fruit">Q75</res>
+    <res name="Grain">Q154</res>
+    <res name="Grapes">Q125</res>
+    <res name="Herbs">Q162</res>
+    <res name="Hops">Q119</res>
+    <res name="Log">Q142</res>
+    <res name="Milk">Q55</res>
+    <res name="Nuts">Q164</res>
+    <res name="Plant Fiber">Q106</res>
+    <res name="Spices">Q113</res>
+    <res name="Vegetable">Q137</res>
+    <res name="Vegetation Density">Q110</res>
+  </body>
+  <body name="System HNJXB Beta I" sectorname="Joe Halo" sectorcoords="313, 1, -4" systemname="HNJXB" systemcoords="1.3, -4.9, 2.6" designation="Gamma" type="Gas Giant" diameter="64400m" zone="Frigid" atmosphere="Exotic" timestamp="19/08/2012 10:50:29" outofrange="False">
+    <res name="Air">Q205 97%</res>
+    <res name="Borexino Precipitate">Q170 2%</res>
+    <res name="Cryozine">Q206 2%</res>
+    <res name="Hydrogen">Q146 97%</res>
+    <res name="Sunlight">Q152 10%</res>
+  </body>
+  <body name="System HNJXB Beta II" sectorname="Joe Halo" sectorcoords="313, 1, -4" systemname="HNJXB" systemcoords="1.3, -4.9, 2.6" designation="Gamma" type="Planet" diameter="9500m" zone="Frigid" atmosphere="Standard" timestamp="19/08/2012 10:50:29" outofrange="False">
+    <res name="Bolite">None, Q55 1%, Q173 1%</res>
+    <res name="Coal">Q40 1%, Q83 1%, Q200 1%</res>
+    <res name="Crystals">Q123 2%, Q126 1%, Q39 1%</res>
+    <res name="Gems">Q179 1%, Q209 2%, Q232 1%</res>
+    <res name="Ice">Q127 2%, Q215 3%, Q110 4%</res>
+    <res name="Lumenite">Q159 1%, Q143 1%, Q48 1%</res>
+    <res name="Minerals">Q189 1%, Q231 1%, Q79 1%</res>
+    <res name="Natural Gas">Q145 1%, Q71 1%, Q125 1%</res>
+    <res name="Oil">Q205 1%, Q81 1%, Q3 1%</res>
+    <res name="Ore">Q142 1%, Q107 1%, Q170 1%</res>
+    <res name="Radioactives">Q232 1%, Q208 1%, Q187 2%</res>
+    <res name="Stone">Q172 2%, Q40 2%, Q202 2%</res>
+    <res name="Myrathane">Q130 20%</res>
+    <res name="Air">Q40 16%</res>
+    <res name="Hydrogen">Q241 16%</res>
+    <res name="Sunlight">Q99 10%</res>
+    <res name="Animal Carcass">Q243, Q148, Q134</res>
+    <res name="Beans">Q137, Q102, Q203</res>
+    <res name="Cheese">Q167, Q133, Q227</res>
+    <res name="Eggs">Q195, Q111, Q71</res>
+    <res name="Fertilizer">Q129, Q223, Q140</res>
+    <res name="Fruit">Q133, Q157, Q122</res>
+    <res name="Grain">Q141, Q38, Q188</res>
+    <res name="Grapes">Q186, Q142, Q55</res>
+    <res name="Herbs">Q40, Q242, Q34</res>
+    <res name="Hops">Q148, Q170, Q162</res>
+    <res name="Log">Q74, Q82, Q76</res>
+    <res name="Milk">Q172, Q212, Q105</res>
+    <res name="Nuts">Q231, Q140, Q241</res>
+    <res name="Plant Fiber">Q154, Q48, Q107</res>
+    <res name="Spices">Q112, Q129, Q146</res>
+    <res name="Vegetable">Q150, Q152, Q121</res>
+    <res name="Vegetation Density">Q87, Q242, Q159</res>
+  </body>
+  <body name="System HNJXB Beta III" sectorname="Joe Halo" sectorcoords="313, 1, -4" systemname="HNJXB" systemcoords="1.3, -4.9, 2.6" designation="Gamma" type="Planet" diameter="17000m" zone="Frigid" atmosphere="Tainted" timestamp="19/08/2012 10:55:14" outofrange="False">
+    <res name="Bolite">Q145 1%, Q100 1%, Q122 1%</res>
+    <res name="Coal">Q173 1%, Q60 1%, Q73 1%</res>
+    <res name="Crystals">Q90 1%, Q62 1%, Q82 1%</res>
+    <res name="Gems">Q127 1%, Q106 1%, Q250 1%</res>
+    <res name="Ice">Q176 41%, Q62 41%, Q137 11%</res>
+    <res name="Lumenite">Q71 1%, Q142 1%, Q218 1%</res>
+    <res name="Minerals">Q124 1%, Q119 1%, Q141 1%</res>
+    <res name="Natural Gas">Q80 1%, Q171 1%, Q58 1%</res>
+    <res name="Oil">Q134 1%, Q144 1%, Q171 1%</res>
+    <res name="Ore">Q137 1%, Q52 1%, Q206 1%</res>
+    <res name="Polytaride">Q139 1%, None, None</res>
+    <res name="Radioactives">Q34 1%, Q82 1%, Q59 1%</res>
+    <res name="Stone">Q188 1%, Q121 1%, Q90 2%</res>
+    <res name="Myrathane">Q70 78%</res>
+    <res name="Air">Q98 80%</res>
+    <res name="Cryozine">Q172 1%</res>
+    <res name="Hydrogen">Q158 80%</res>
+    <res name="Sunlight">Q111 10%</res>
+    <res name="Animal Carcass">Q158, Q34, Q95</res>
+    <res name="Beans">Q180, Q77, Q206</res>
+    <res name="Cheese">Q141, Q124, Q160</res>
+    <res name="Eggs">Q122, Q125, Q81</res>
+    <res name="Fertilizer">Q154, Q135, Q44</res>
+    <res name="Fruit">Q155, Q165, Q76</res>
+    <res name="Grain">Q64, Q185, Q86</res>
+    <res name="Grapes">Q68, Q31, Q116</res>
+    <res name="Herbs">Q145, Q143, Q117</res>
+    <res name="Hops">Q157, Q16, Q106</res>
+    <res name="Log">Q93, Q76, Q81</res>
+    <res name="Milk">Q212, Q254, Q92</res>
+    <res name="Nuts">Q92, Q149, Q126</res>
+    <res name="Plant Fiber">Q217, Q194, Q129</res>
+    <res name="Spices">Q114, Q169, Q103</res>
+    <res name="Vegetable">Q100, Q161, Q44</res>
+    <res name="Vegetation Density">Q177, Q239, Q159</res>
+  </body>
+</database>

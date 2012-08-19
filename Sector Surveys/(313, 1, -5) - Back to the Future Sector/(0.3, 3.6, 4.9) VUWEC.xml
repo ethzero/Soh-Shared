@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<database application="Hazeron Scouter" version="0.3.3.4">
+  <body name="B1 V Main Sequence" sectorname="Back to the Future" sectorcoords="313, 1, -5" systemname="VUWEC" systemcoords="-0.3, 3.6, 4.9" designation="" type="Star" diameter="0.125au" zone="" atmosphere="None" timestamp="19/08/2012 20:36:39" outofrange="False">
+    <res name="Type B Preons">Q75 5%</res>
+  </body>
+  <body name="System VUWEC I" sectorname="Back to the Future" sectorcoords="313, 1, -5" systemname="VUWEC" systemcoords="-0.3, 3.6, 4.9" designation="" type="Planet" diameter="7600m" zone="Inferno" atmosphere="Exotic" timestamp="19/08/2012 20:36:39" outofrange="False">
+    <res name="Crystals">Q143 1%, Q46 1%, Q116 2%</res>
+    <res name="Gems">Q58 1%, Q174 1%, Q245 1%</res>
+    <res name="Minerals">Q98 1%, Q62 1%, Q128 1%</res>
+    <res name="Ore">Q67 1%, Q183 1%, Q95 1%</res>
+    <res name="Phlogiston">Q108 1%, None, None</res>
+    <res name="Radioactives">Q169 1%, Q119 1%, Q153 1%</res>
+    <res name="Stone">Q183 2%, Q101 2%, Q223 2%</res>
+    <res name="Vulcanite">None, None, Q48 1%</res>
+    <res name="Magmex">Q210 88%</res>
+    <res name="Air">Q120 46%</res>
+    <res name="Hydrogen">Q79 46%</res>
+    <res name="Ioplasma">Q64 1%</res>
+    <res name="Sunlight">Q119 90%</res>
+    <res name="Animal Carcass">Q115, Q135, Q152</res>
+    <res name="Beans">Q152, Q224, Q175</res>
+    <res name="Cheese">Q179, Q139, Q137</res>
+    <res name="Eggs">Q45, Q40, Q119</res>
+    <res name="Fertilizer">Q147, Q204, Q152</res>
+    <res name="Fruit">Q103, Q112, Q95</res>
+    <res name="Grain">Q101, Q163, Q153</res>
+    <res name="Grapes">Q13, Q178, Q153</res>
+    <res name="Herbs">Q200, Q143, Q86</res>
+    <res name="Hops">Q138, Q130, Q120</res>
+    <res name="Log">Q200, Q54, Q81</res>
+    <res name="Milk">Q73, Q129, Q244</res>
+    <res name="Nuts">Q58, Q189, Q123</res>
+    <res name="Plant Fiber">Q65, Q106, Q192</res>
+    <res name="Spices">Q121, Q188, Q114</res>
+    <res name="Vegetable">Q211, Q149, Q136</res>
+    <res name="Vegetation Density">Q69, Q138, Q76</res>
+  </body>
+  <body name="System VUWEC Ia" sectorname="Back to the Future" sectorcoords="313, 1, -5" systemname="VUWEC" systemcoords="-0.3, 3.6, 4.9" designation="" type="Moon" diameter="3800m" zone="Inferno" atmosphere="No Atmosphere" timestamp="19/08/2012 20:36:39" outofrange="False">
+    <res name="Crystals">Q231 1%</res>
+    <res name="Eludium">Q99 40%</res>
+    <res name="Gems">Q143 1%</res>
+    <res name="Minerals">Q132 1%</res>
+    <res name="Ore">Q212 1%</res>
+    <res name="Radioactives">Q200 1%</res>
+    <res name="Stone">Q58 1%</res>
+    <res name="Sunlight">Q154 90%</res>
+    <res name="Animal Carcass">Q94</res>
+    <res name="Beans">Q35</res>
+    <res name="Cheese">Q77</res>
+    <res name="Eggs">Q27</res>
+    <res name="Fertilizer">Q58</res>
+    <res name="Fruit">Q172</res>
+    <res name="Grain">Q114</res>
+    <res name="Grapes">Q208</res>
+    <res name="Herbs">Q66</res>
+    <res name="Hops">Q108</res>
+    <res name="Log">Q142</res>
+    <res name="Milk">Q210</res>
+    <res name="Nuts">Q120</res>
+    <res name="Plant Fiber">Q146</res>
+    <res name="Spices">Q121</res>
+    <res name="Vegetable">Q198</res>
+    <res name="Vegetation Density">Q91</res>
+  </body>
+  <body name="System VUWEC Ib" sectorname="Back to the Future" sectorcoords="313, 1, -5" systemname="VUWEC" systemcoords="-0.3, 3.6, 4.9" designation="" type="Moon" diameter="3800m" zone="Inferno" atmosphere="No Atmosphere" timestamp="19/08/2012 20:36:39" outofrange="False">
+    <res name="Crystals">Q124 1%</res>
+    <res name="Eludium">Q134 56%</res>
+    <res name="Gems">Q121 1%</res>
+    <res name="Minerals">Q44 1%</res>
+    <res name="Ore">Q132 1%</res>
+    <res name="Radioactives">Q97 1%</res>
+    <res name="Stone">Q120 1%</res>
+    <res name="Sunlight">Q137 90%</res>
+    <res name="Animal Carcass">Q168</res>
+    <res name="Beans">Q222</res>
+    <res name="Cheese">Q63</res>
+    <res name="Eggs">Q100</res>
+    <res name="Fertilizer">Q103</res>
+    <res name="Fruit">Q202</res>
+    <res name="Grain">Q108</res>
+    <res name="Grapes">Q110</res>
+    <res name="Herbs">Q134</res>
+    <res name="Hops">Q59</res>
+    <res name="Log">Q107</res>
+    <res name="Milk">Q77</res>
+    <res name="Nuts">Q89</res>
+    <res name="Plant Fiber">Q105</res>
+    <res name="Spices">Q185</res>
+    <res name="Vegetable">Q141</res>
+    <res name="Vegetation Density">Q208</res>
+  </body>
+  <body name="System VUWEC II" sectorname="Back to the Future" sectorcoords="313, 1, -5" systemname="VUWEC" systemcoords="-0.3, 3.6, 4.9" designation="" type="Planet" diameter="9500m" zone="Inferno" atmosphere="Standard" timestamp="19/08/2012 20:36:39" outofrange="False">
+    <res name="Crystals">Q164 1%, Q218 1%, Q147 1%</res>
+    <res name="Gems">Q114 2%, Q52 1%, Q114 1%</res>
+    <res name="Minerals">Q200 1%, Q179 2%, Q53 2%</res>
+    <res name="Ore">Q149 1%, Q233 1%, Q122 1%</res>
+    <res name="Phlogiston">None, Q156 1%, None</res>
+    <res name="Radioactives">Q148 1%, Q126 1%, Q141 1%</res>
+    <res name="Stone">Q117 2%, Q225 2%, Q117 2%</res>
+    <res name="Vulcanite">None, Q50 1%, None</res>
+    <res name="Magmex">Q38 72%</res>
+    <res name="Air">Q193 63%</res>
+    <res name="Hydrogen">Q153 63%</res>
+    <res name="Sunlight">Q102 90%</res>
+    <res name="Animal Carcass">Q190, Q55, Q70</res>
+    <res name="Beans">Q82, Q223, Q120</res>
+    <res name="Cheese">Q166, Q183, Q49</res>
+    <res name="Eggs">Q247, Q166, Q204</res>
+    <res name="Fertilizer">Q193, Q188, Q111</res>
+    <res name="Fruit">Q132, Q104, Q196</res>
+    <res name="Grain">Q224, Q131, Q218</res>
+    <res name="Grapes">Q44, Q101, Q92</res>
+    <res name="Herbs">Q139, Q109, Q30</res>
+    <res name="Hops">Q88, Q144, Q108</res>
+    <res name="Log">Q166, Q42, Q182</res>
+    <res name="Milk">Q195, Q112, Q211</res>
+    <res name="Nuts">Q155, Q123, Q58</res>
+    <res name="Plant Fiber">Q154, Q179, Q49</res>
+    <res name="Spices">Q185, Q169, Q82</res>
+    <res name="Vegetable">Q154, Q194, Q86</res>
+    <res name="Vegetation Density">Q185, Q144, Q209</res>
+  </body>
+</database>

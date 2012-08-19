@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<database application="Hazeron Scouter" version="0.3.3.4">
+  <body name="G5 IV Subgiant Alpha" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="MyWorld" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Star" diameter="0.115au" zone="" atmosphere="None" timestamp="19/08/2012 18:36:27" outofrange="False">
+    <res name="Type G Preons">Q123 5%</res>
+  </body>
+  <body name="K6 III Giant Beta" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="MyWorld" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Star" diameter="0.115au" zone="" atmosphere="None" timestamp="19/08/2012 18:36:27" outofrange="False">
+    <res name="Type K Preons">Q128 5%</res>
+  </body>
+  <body name="MyWorld Alpha I" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="MyWorld" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Planet" diameter="11400m" zone="Inferno" atmosphere="Standard" timestamp="19/08/2012 18:36:27" outofrange="False">
+    <res name="Crystals">Q79 1%, Q157 1%, Q104 1%</res>
+    <res name="Gems">Q147 1%, Q113 2%, Q90 2%</res>
+    <res name="Minerals">Q183 2%, Q92 1%, Q114 1%</res>
+    <res name="Ore">Q58 1%, Q157 1%, Q124 1%</res>
+    <res name="Phlogiston">Q88 1%, Q76 1%, None</res>
+    <res name="Radioactives">Q191 1%, Q158 1%, Q233 1%</res>
+    <res name="Stone">Q154 2%, Q191 2%, Q148 2%</res>
+    <res name="Vulcanite">Q52 1%, Q93 1%, Q42 1%</res>
+    <res name="Magmex">Q127 37%</res>
+    <res name="Air">Q17 48%</res>
+    <res name="Hydrogen">Q209 48%</res>
+    <res name="Sunlight">Q92 90%</res>
+    <res name="Animal Carcass">Q31, Q175, Q147</res>
+    <res name="Beans">Q231, Q163, Q131</res>
+    <res name="Cheese">Q44, Q157, Q104</res>
+    <res name="Eggs">Q146, Q113, Q91</res>
+    <res name="Fertilizer">Q121, Q52, Q160</res>
+    <res name="Fruit">Q178, Q144, Q226</res>
+    <res name="Grain">Q46, Q118, Q123</res>
+    <res name="Grapes">Q165, Q253, Q87</res>
+    <res name="Herbs">Q179, Q212, Q175</res>
+    <res name="Hops">Q194, Q162, Q128</res>
+    <res name="Log">Q152, Q49, Q183</res>
+    <res name="Milk">Q185, Q177, Q204</res>
+    <res name="Nuts">Q52, Q226, Q129</res>
+    <res name="Plant Fiber">Q213, Q192, Q63</res>
+    <res name="Spices">Q194, Q138, Q118</res>
+    <res name="Vegetable">Q44, Q88, Q131</res>
+    <res name="Vegetation Density">Q164, Q187, Q130</res>
+  </body>
+  <body name="MyWorld Alpha Ia" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="MyWorld" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Moon" diameter="3800m" zone="Inferno" atmosphere="No Atmosphere" timestamp="19/08/2012 18:36:27" outofrange="False">
+    <res name="Crystals">Q58 1%</res>
+    <res name="Eludium">Q143 47%</res>
+    <res name="Gems">Q84 1%</res>
+    <res name="Minerals">Q210 1%</res>
+    <res name="Ore">Q246 1%</res>
+    <res name="Radioactives">Q96 1%</res>
+    <res name="Stone">Q92 1%</res>
+    <res name="Sunlight">Q110 90%</res>
+    <res name="Animal Carcass">Q85</res>
+    <res name="Beans">Q45</res>
+    <res name="Cheese">Q57</res>
+    <res name="Eggs">Q73</res>
+    <res name="Fertilizer">Q204</res>
+    <res name="Fruit">Q20</res>
+    <res name="Grain">Q51</res>
+    <res name="Grapes">Q134</res>
+    <res name="Herbs">Q111</res>
+    <res name="Hops">Q115</res>
+    <res name="Log">Q187</res>
+    <res name="Milk">Q62</res>
+    <res name="Nuts">Q83</res>
+    <res name="Plant Fiber">Q125</res>
+    <res name="Spices">Q131</res>
+    <res name="Vegetable">Q230</res>
+    <res name="Vegetation Density">Q174</res>
+  </body>
+  <body name="MyWorld Alpha II" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="MyWorld" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Gas Giant" diameter="53000m" zone="Inferno" atmosphere="Corrosive" timestamp="19/08/2012 18:57:18" outofrange="True" />
+  <body name="MyWorld Alpha IIa" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="MyWorld" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Moon" diameter="3800m" zone="Inferno" atmosphere="None" timestamp="19/08/2012 18:57:18" outofrange="True" />
+  <body name="MyWorld Alpha IIb" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="MyWorld" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Moon" diameter="3800m" zone="Inferno" atmosphere="No Atmosphere" timestamp="19/08/2012 18:36:27" outofrange="False">
+    <res name="Crystals">Q99 1%</res>
+    <res name="Eludium">Q87 56%</res>
+    <res name="Gems">Q40 1%</res>
+    <res name="Minerals">Q162 1%</res>
+    <res name="Ore">Q88 1%</res>
+    <res name="Radioactives">Q18 1%</res>
+    <res name="Stone">Q88 1%</res>
+    <res name="Sunlight">Q75 90%</res>
+    <res name="Animal Carcass">Q106</res>
+    <res name="Beans">Q161</res>
+    <res name="Cheese">Q159</res>
+    <res name="Eggs">Q91</res>
+    <res name="Fertilizer">Q166</res>
+    <res name="Fruit">Q206</res>
+    <res name="Grain">Q39</res>
+    <res name="Grapes">Q196</res>
+    <res name="Herbs">Q117</res>
+    <res name="Hops">Q144</res>
+    <res name="Log">Q246</res>
+    <res name="Milk">Q181</res>
+    <res name="Nuts">Q150</res>
+    <res name="Plant Fiber">Q173</res>
+    <res name="Spices">Q129</res>
+    <res name="Vegetable">Q114</res>
+    <res name="Vegetation Density">Q152</res>
+  </body>
+  <body name="MyWorld Alpha IIc" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="MyWorld" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Moon" diameter="3800m" zone="Inferno" atmosphere="None" timestamp="19/08/2012 18:57:18" outofrange="True" />
+  <body name="MyWorld Alpha IId" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="MyWorld" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Moon" diameter="1900m" zone="Inferno" atmosphere="None" timestamp="19/08/2012 18:57:18" outofrange="True" />
+  <body name="MyWorld Alpha III" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="MyWorld" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Planet" diameter="11400m" zone="Inferno" atmosphere="Standard" timestamp="19/08/2012 18:57:18" outofrange="True" />
+  <body name="MyWorld Alpha IV" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="MyWorld" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Planet" diameter="17000m" zone="Habitable" atmosphere="Standard" timestamp="19/08/2012 18:57:18" outofrange="False">
+    <res name="Coal">Q136 2%, Q158 1%, Q116 1%</res>
+    <res name="Crystals">Q161 1%, Q133 1%, Q87 1%</res>
+    <res name="Gems">Q215 1%, Q115 1%, Q135 1%</res>
+    <res name="Ice">Q123 21%, Q208 3%, Q179 4%</res>
+    <res name="Minerals">Q87 1%, Q56 1%, Q120 1%</res>
+    <res name="Natural Gas">Q169 1%, Q197 1%, Q146 1%</res>
+    <res name="Oil">Q68 1%, Q139 1%, Q58 1%</res>
+    <res name="Ore">Q193 1%, Q102 1%, Q232 1%</res>
+    <res name="Radioactives">Q124 1%, Q48 1%, Q202 1%</res>
+    <res name="Stone">Q76 1%, Q123 2%, Q88 2%</res>
+    <res name="Water in the Environment">Q205 61%</res>
+    <res name="Air">Q159 68%</res>
+    <res name="Hydrogen">Q111 68%</res>
+    <res name="Sunlight">Q63 50%</res>
+    <res name="Animal Carcass">Q99, Q82, Q30</res>
+    <res name="Beans">Q128, Q63, Q186</res>
+    <res name="Cheese">Q133, Q146, Q167</res>
+    <res name="Eggs">Q107, Q69, Q129</res>
+    <res name="Fertilizer">Q117, Q109, Q97</res>
+    <res name="Fish">Q82, Q122, Q6</res>
+    <res name="Fruit">Q115, Q103, Q172</res>
+    <res name="Grain">Q140, Q49, Q84</res>
+    <res name="Grapes">Q117, Q20, Q111</res>
+    <res name="Herbs">Q128, Q132, Q122</res>
+    <res name="Hops">Q179, Q81, Q151</res>
+    <res name="Log">Q228, Q141, Q110</res>
+    <res name="Milk">Q121, Q252, Q105</res>
+    <res name="Nuts">Q65, Q165, Q193</res>
+    <res name="Plant Fiber">Q184, Q180, Q60</res>
+    <res name="Spices">Q103, Q134, Q82</res>
+    <res name="Vegetable">Q140, Q102, Q102</res>
+    <res name="Vegetation Density">Q62, Q136, Q129</res>
+  </body>
+  <body name="MyWorld Alpha IVa" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="MyWorld" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Moon" diameter="3800m" zone="Habitable" atmosphere="No Atmosphere" timestamp="19/08/2012 18:57:18" outofrange="False">
+    <res name="Coal">Q159 1%</res>
+    <res name="Crystals">Q112 1%</res>
+    <res name="Eludium">Q80 52%</res>
+    <res name="Gems">Q142 1%</res>
+    <res name="Ice">Q181 1%</res>
+    <res name="Lumenite">Q24 1%</res>
+    <res name="Minerals">Q50 1%</res>
+    <res name="Natural Gas">Q81 1%</res>
+    <res name="Oil">Q135 1%</res>
+    <res name="Ore">Q198 1%</res>
+    <res name="Radioactives">Q39 1%</res>
+    <res name="Stone">Q9 1%</res>
+    <res name="Sunlight">Q80 50%</res>
+    <res name="Animal Carcass">Q118</res>
+    <res name="Beans">Q187</res>
+    <res name="Cheese">Q70</res>
+    <res name="Eggs">Q219</res>
+    <res name="Fertilizer">Q95</res>
+    <res name="Fruit">Q154</res>
+    <res name="Grain">Q122</res>
+    <res name="Grapes">Q26</res>
+    <res name="Herbs">Q73</res>
+    <res name="Hops">Q185</res>
+    <res name="Log">Q133</res>
+    <res name="Milk">Q146</res>
+    <res name="Nuts">Q190</res>
+    <res name="Plant Fiber">Q150</res>
+    <res name="Spices">Q192</res>
+    <res name="Vegetable">Q221</res>
+    <res name="Vegetation Density">Q202</res>
+  </body>
+  <body name="MyWorld Alpha IVb" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="MyWorld" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Moon" diameter="3800m" zone="Habitable" atmosphere="No Atmosphere" timestamp="19/08/2012 18:57:18" outofrange="False">
+    <res name="Coal">Q160 1%</res>
+    <res name="Crystals">Q92 1%</res>
+    <res name="Eludium">Q173 58%</res>
+    <res name="Gems">Q163 1%</res>
+    <res name="Ice">Q152 1%</res>
+    <res name="Lumenite">Q190 1%</res>
+    <res name="Minerals">Q170 1%</res>
+    <res name="Natural Gas">Q89 1%</res>
+    <res name="Oil">Q190 1%</res>
+    <res name="Ore">Q167 1%</res>
+    <res name="Radioactives">Q210 1%</res>
+    <res name="Stone">Q203 1%</res>
+    <res name="Sunlight">Q225 50%</res>
+    <res name="Animal Carcass">Q171</res>
+    <res name="Beans">Q129</res>
+    <res name="Cheese">Q83</res>
+    <res name="Eggs">Q146</res>
+    <res name="Fertilizer">Q179</res>
+    <res name="Fruit">Q126</res>
+    <res name="Grain">Q129</res>
+    <res name="Grapes">Q124</res>
+    <res name="Herbs">Q134</res>
+    <res name="Hops">Q106</res>
+    <res name="Log">Q168</res>
+    <res name="Milk">Q23</res>
+    <res name="Nuts">Q94</res>
+    <res name="Plant Fiber">Q62</res>
+    <res name="Spices">Q129</res>
+    <res name="Vegetable">Q151</res>
+    <res name="Vegetation Density">Q85</res>
+  </body>
+  <body name="MyWorld Alpha V" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="MyWorld" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Planet" diameter="18900m" zone="Outer" atmosphere="Tainted" timestamp="19/08/2012 18:57:18" outofrange="True" />
+  <body name="MyWorld Alpha Va" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="MyWorld" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Moon" diameter="3800m" zone="Outer" atmosphere="None" timestamp="19/08/2012 18:57:18" outofrange="True" />
+  <body name="MyWorld Alpha Var (1)" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="MyWorld" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Ring" diameter="34600m" zone="Outer" atmosphere="None" timestamp="19/08/2012 18:57:18" outofrange="True" />
+  <body name="MyWorld Alpha Vb" sectorname="Skylgill" sectorcoords="313, 0, -4" systemname="MyWorld" systemcoords="3.4, 3.4, -0.2" designation="Alpha" type="Moon" diameter="3800m" zone="Outer" atmosphere="No Atmosphere" timestamp="19/08/2012 18:57:18" outofrange="True" />
+</database>

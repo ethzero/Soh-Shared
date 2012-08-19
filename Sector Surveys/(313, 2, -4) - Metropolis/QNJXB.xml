@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<database application="Hazeron Scouter" version="0.3.3.4">
+  <body name="DM Red Dwarf" sectorname="Metropolis" sectorcoords="313, 2, -4" systemname="QNJXB" systemcoords="3.4, 0.2, -4.1" designation="" type="Star" diameter="0.075au" zone="" atmosphere="" timestamp="8/17/2012 12:35:32 AM" outofrange="False">
+    <res name="Type M Preons">Q115 5%</res>
+  </body>
+  <body name="System QNJXB I" sectorname="Metropolis" sectorcoords="313, 2, -4" systemname="QNJXB" systemcoords="3.4, 0.2, -4.1" designation="" type="Planet" diameter="15200m" zone="Frigid" atmosphere="Exotic" timestamp="8/17/2012 12:35:32 AM" outofrange="False">
+    <res name="Bolite">Q212 1%, Q130 1%, Q133 1%</res>
+    <res name="Coal">Q31 1%, Q156 1%, Q154 1%</res>
+    <res name="Crystals">Q162 1%, Q176 1%, Q61 1%</res>
+    <res name="Gems">Q153 1%, Q130 1%, Q123 1%</res>
+    <res name="Ice">Q125 14%, Q14 10%, Q129 12%</res>
+    <res name="Lumenite">Q59 1%, Q150 1%, Q196 1%</res>
+    <res name="Minerals">Q91 1%, Q184 1%, Q65 1%</res>
+    <res name="Natural Gas">Q76 1%, Q56 1%, Q128 1%</res>
+    <res name="Oil">Q102 1%, Q124 1%, Q89 1%</res>
+    <res name="Ore">Q149 1%, Q107 1%, Q73 1%</res>
+    <res name="Polytaride">None, Q180 1%, None</res>
+    <res name="Radioactives">Q210 1%, Q135 1%, Q168 1%</res>
+    <res name="Stone">Q180 1%, Q126 2%, Q104 2%</res>
+    <res name="Myrathane">Q25 98%</res>
+    <res name="Air">Q115 93%</res>
+    <res name="Cryozine">Q156 2%</res>
+    <res name="Hydrogen">Q222 93%</res>
+    <res name="Sunlight">Q184 10%</res>
+    <res name="Animal Carcass">Q150, Q170, Q185</res>
+    <res name="Beans">Q72, Q62, Q132</res>
+    <res name="Cheese">Q155, Q111, Q113</res>
+    <res name="Eggs">Q139, Q106, Q184</res>
+    <res name="Fertilizer">Q152, Q132, Q180</res>
+    <res name="Fruit">Q94, Q26, Q175</res>
+    <res name="Grain">Q142, Q177, Q32</res>
+    <res name="Grapes">Q15, Q159, Q60</res>
+    <res name="Herbs">Q186, Q190, Q214</res>
+    <res name="Hops">Q80, Q73, Q56</res>
+    <res name="Log">Q164, Q148, Q159</res>
+    <res name="Milk">Q140, Q86, Q206</res>
+    <res name="Nuts">Q147, Q197, Q129</res>
+    <res name="Plant Fiber">Q144, Q39, Q23</res>
+    <res name="Spices">Q102, Q154, Q233</res>
+    <res name="Vegetable">Q160, Q136, Q96</res>
+    <res name="Vegetation Density">Q76, Q22, Q159</res>
+  </body>
+  <body name="System QNJXB Ia" sectorname="Metropolis" sectorcoords="313, 2, -4" systemname="QNJXB" systemcoords="3.4, 0.2, -4.1" designation="" type="Moon" diameter="3800m" zone="Frigid" atmosphere="No Atmosphere" timestamp="8/17/2012 12:35:32 AM" outofrange="False">
+    <res name="Coal">Q210 1%</res>
+    <res name="Crystals">Q14 1%</res>
+    <res name="Eludium">Q224 51%</res>
+    <res name="Gems">Q147 1%</res>
+    <res name="Ice">Q75 1%</res>
+    <res name="Lumenite">Q34 1%</res>
+    <res name="Minerals">Q74 1%</res>
+    <res name="Natural Gas">Q166 1%</res>
+    <res name="Oil">Q188 1%</res>
+    <res name="Ore">Q124 1%</res>
+    <res name="Radioactives">Q96 1%</res>
+    <res name="Stone">Q118 1%</res>
+    <res name="Sunlight">Q201 10%</res>
+    <res name="Animal Carcass">Q75</res>
+    <res name="Beans">Q141</res>
+    <res name="Cheese">Q167</res>
+    <res name="Eggs">Q195</res>
+    <res name="Fertilizer">Q107</res>
+    <res name="Fruit">Q193</res>
+    <res name="Grain">Q148</res>
+    <res name="Grapes">Q112</res>
+    <res name="Herbs">Q120</res>
+    <res name="Hops">Q130</res>
+    <res name="Log">Q71</res>
+    <res name="Milk">Q145</res>
+    <res name="Nuts">Q178</res>
+    <res name="Plant Fiber">Q185</res>
+    <res name="Spices">Q165</res>
+    <res name="Vegetable">Q217</res>
+    <res name="Vegetation Density">Q215</res>
+  </body>
+  <body name="System QNJXB Ibr (1)" sectorname="Metropolis" sectorcoords="313, 2, -4" systemname="QNJXB" systemcoords="3.4, 0.2, -4.1" designation="" type="Ring" diameter="84500m" zone="Frigid" atmosphere="" timestamp="8/17/2012 12:35:32 AM" outofrange="False">
+    <res name="Crystals">Q121 1%</res>
+    <res name="Eludium">Q60 58%</res>
+    <res name="Gems">Q41 1%</res>
+    <res name="Ice">Q174 1%</res>
+    <res name="Lumenite">Q72 1%</res>
+    <res name="Minerals">Q193 1%</res>
+    <res name="Ore">Q94 1%</res>
+    <res name="Radioactives">Q139 1%</res>
+    <res name="Stone">Q184 1%</res>
+    <res name="Sunlight">Q91 10%</res>
+  </body>
+</database>

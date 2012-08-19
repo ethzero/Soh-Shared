@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<database application="Hazeron Scouter" version="0.3.3.4">
+  <body name="M0 V Main Sequence" sectorname="Joe Halo" sectorcoords="313, 1, -4" systemname="GNJXB" systemcoords="4.4, -4.6, -2.6" designation="" type="Star" diameter="0.095au" zone="" atmosphere="" timestamp="19/08/2012 14:15:53" outofrange="False">
+    <res name="Type M Preons">Q65 5%</res>
+  </body>
+</database>
